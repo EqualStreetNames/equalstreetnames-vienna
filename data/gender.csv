@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+Bloch-Bauer-Promenade,wikidata,+,Q90205;Q1280247,way
 Proschkogasse,wikidata,+,Q87313;Q59653275,way
 Tausigplatz,wikidata,+,Q90438;Q90466,way
 Ada-Lovelace-Straße,wikidata,F,Q7259,way
@@ -6,6 +7,7 @@ Adelheid-Popp-Gasse,wikidata,F,Q34391,way
 Agnes-Primocic-Gasse,wikidata,F,Q394620,way
 Amalie-Seidel-Weg,wikidata,F,Q90320,way
 Anna-Müller-Straße,wikidata,F,Q562636,way
+Antonie-Alt-Gasse,wikidata,F,Q59653133,way
 Beatrix-Kempf-Gasse,wikidata,F,Q24084706,way
 Betty-Roose-Weg,wikidata,F,Q850400,way
 Burjanplatz,wikidata,F,Q78679,way
@@ -27,6 +29,7 @@ Hannah-Arendt-Platz,wikidata,F,Q60025,relation+way
 Hedy-Lamarr-Weg,wikidata,F,Q49034,relation+way
 Helene-Potetz-Weg,wikidata,F,Q1602012,way
 Helly-Möslein-Weg,wikidata,F,Q114950,way
+Hlawkagasse,wikidata,F,Q1303640,way
 Hohenfelsplatz,wikidata,F,Q88930,way
 Ida-Margulies-Platz,wikidata,F,Q59653277,way
 Ilse-Arlt-Straße,wikidata,F,Q1659081,way
@@ -40,6 +43,7 @@ Lella-Lombardi-Gasse,wikidata,F,Q171569,way
 Leopoldine-Glöckel-Weg,wikidata,F,Q1819939,way
 Lydia-Sicher-Gasse,wikidata,F,Q1719995,way
 Margarete-Seemann-Weg,wikidata,F,Q1895025,way
+Maria-Lassnig-Straße,wikidata,F,Q538534,way
 Maria-Theresien-Platz,wikidata,F,Q131706,relation
 Maria-Trapp-Platz,wikidata,F,Q93624,way
 Maria-Tusch-Straße,wikidata,F,Q1896376,way
@@ -51,14 +55,17 @@ Olga-Perl-Weg,wikidata,F,Q2019696,way
 Olga-Wisinger-Florian-Platz,wikidata,F,Q275513,way
 Schenk-Danzinger-Gasse,wikidata,F,Q1419150,way
 Simone-de-Beauvoir-Platz,wikidata,F,Q7197,way
+Sissy-Löwinger-Weg,wikidata,F,Q1769895,way
 Susanne-Schmida-Gasse,wikidata,F,Q52084141,way
 Trude-Fleischmann-Gasse,wikidata,F,Q87807,way
+Vally-Weigl-Gasse,wikidata,F,Q2509422,way
 Vicki-Baum-Platz,wikidata,F,Q93444,way
 Wangari-Maathai-Platz,wikidata,F,Q46795,way
 Weißenthurngasse,wikidata,F,Q1696932,way
 Abraham-a-Sancta-Clara-Gasse,wikidata,M,Q61137,way
 Albertgasse,wikidata,M,Q60657,way
 Albertplatz,wikidata,M,Q60657,way
+Alfred-Adler-Straße,wikidata,M,Q152393,way
 Am-Hans-Moser-Park,wikidata,M,Q113705,way
 Andersengasse,wikidata,M,Q5673,way
 Anton-Scharff-Gasse,wikidata,M,Q593777,way
@@ -98,6 +105,7 @@ Fraungrubergasse,wikidata,M,Q1579532,way
 Friedrich-Schmidt-Platz,wikidata,M,Q77431,way
 Friedrichstraße,wikidata,M,Q150966,way
 Fritz-Grünbaum-Platz,wikidata,M,Q87857,way
+Fritz-Hahn-Gasse,wikidata,M,Q1459481,way
 Führichgasse,wikidata,M,Q324318,way
 Gaßmannstraße,wikidata,M,Q700816,way
 Georg-Coch-Platz,wikidata,M,Q1503978,way
@@ -126,6 +134,7 @@ Josefsplatz,wikidata,M,Q76555,relation+way
 Jungnickelweg,wikidata,M,Q1411425,way
 Karl-Kraus-Gasse,wikidata,M,Q44328,way
 Karl-Löwe-Gasse,wikidata,M,Q158899,way
+Karl-Popper-Straße,wikidata,M,Q81244,way
 Karlsplatz,wikidata,M,Q150665,relation+way
 Karplusgasse,wikidata,M,Q114277,way
 Kaulbachstraße,wikidata,M,Q604107,way
