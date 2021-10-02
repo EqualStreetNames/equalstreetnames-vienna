@@ -55,6 +55,8 @@ Rotdornallee,wikidata,,Q159553,way
 Rotenturmstraße,wikidata,,Q2168330,way
 Ruprechtsplatz,wikidata,,Q689008,relation+way
 Ruprechtsstiege,wikidata,,Q44947;Q689008,way
+Rustensteg,wikidata,,Q1486199,way
+Schmelzbrücke,wikidata,,Q2245976,way
 Schönlaterngasse,wikidata,,Q37996366,way
 Schottengasse,wikidata,,Q549585,way
 Schwedenplatz,wikidata,,Q34,relation+way
@@ -204,6 +206,7 @@ Alszeile,,,,way
 Altdorferstraße,,,,way
 "Alte Bahntrasse",,,,way
 "Alte Laaer Straße",,,,way
+"Alte Leopoldauer Schleife",,,,way
 "Alte Napoleonstraße",,,,way
 "Alte Straße",,,,way
 "Alte Walfischgasse",,,,way
@@ -214,6 +217,7 @@ Alterlaasteg,,,,way
 "Altes Landgut",,,,way
 Altgasse,,,,way
 Althanstraße,,,,way
+Althoff-Jacobi-Gasse,,,,way
 Altmüttergasse,,,,way
 Altomontegasse,,,,way
 Altwirthgasse,,,,way
@@ -921,7 +925,6 @@ Cankarstraße,,,,way
 Canongasse,,,,way
 Canovagasse,,,,way
 Capistrangasse,,,,way
-Capistranstiege,,,,way
 Carabelligasse,,,,way
 Carl-Appel-Straße,,,,way
 Carl-Auböck-Promenade,,,,way
@@ -1155,6 +1158,7 @@ Donauinselplatz,,,,way
 Donaupromenade,,,,way
 Donaustadtstraße,,,,way
 Donaustraße,,,,way
+Donauturmplatz,,,,way
 Donauturmstraße,,,,way
 "Donauufer Autobahn",,,,way
 Donauwartesteig,,,,way
@@ -1949,6 +1953,7 @@ Gertrude-Bodenwieser-Gasse,,,,way
 Gertrude-Fröhlich-Sandner-Straße,,,,way
 Gertrudplatz,,,,relation+way
 Gerunggasse,,,,way
+Geschwister-Spitzer-Weg,,,,way
 Gestettengasse,,,,way
 Geßlgasse,,,,way
 Getreidemarkt,,,,way
@@ -2455,6 +2460,7 @@ Helblinggasse,,,,way
 Heldenplatz,,,,way
 Helen-Keller-Gasse,,,,way
 Helene-Bauer-Platz,,,,way
+Helene-Lieser-Platz,,,,way
 Helene-Odilon-Gasse,,,,way
 Helene-Richter-Gasse,,,,way
 Helenengasse,,,,way
@@ -2525,6 +2531,7 @@ Hertha-Kräftner-Gasse,,,,way
 Herthergasse,,,,way
 Hertlgasse,,,,way
 Hervicusgasse,,,,way
+Herwig-Zens-Platz,,,,way
 Herzblumenweg,,,,way
 Herzgasse,,,,way
 Herziggasse,,,,way
@@ -2771,6 +2778,7 @@ Illgasse,,,,way
 Illnerstraße,,,,way
 Ilse-Aichinger-Gasse,,,,way
 Ilse-Buck-Straße,,,,way
+Ilse-Pisk-Stiege,,,,way
 "Im Gereute",,,,way
 "Im Gestockert",,,,way
 "Im Werd",,,,way
@@ -4179,7 +4187,6 @@ Messerschmidtgasse,,,,way
 Messestraße,,,,way
 Mestrozigasse,,,,way
 Metastasiogasse,,,,way
-Meteoritenpassage,,,,way
 Metternichgasse,,,,way
 Mexikoplatz,,,,way
 Meyerbeergasse,,,,way
@@ -4780,6 +4787,7 @@ Pfluggasse,,,,way
 Philharmonikerstraße,,,,way
 Philippovichgasse,,,,way
 Phillipsgasse,,,,way
+Philomena-Haas-Gasse,,,,way
 Phorusgasse,,,,way
 Pia-Maria-Plechl-Weg,,,,way
 Piangasse,,,,way
@@ -5288,7 +5296,6 @@ Rustenallee,,,,way
 Rustenfeldgasse,,,,way
 Rustengasse,,,,way
 Rustenschacherallee,,,,way
-Rustensteg,,,,way
 Rußbergstraße,,,,way
 Rußpekgasse,,,,way
 Rußweg,,,,way
@@ -5505,7 +5512,6 @@ Schmardagasse,,,,way
 Schmätzerweg,,,,way
 Schmeckender-Wurm-Hof,,,,way
 Schmedesweg,,,,way
-Schmelzbrücke,,,,way
 Schmelzbrückenrampe,,,,way
 Schmelzgasse,,,,way
 Schmidgasse,,,,way
@@ -5954,6 +5960,7 @@ Stammhausstraße,,,,way
 Stampfergasse,,,,way
 Stanislausgasse,,,,way
 Starchantgasse,,,,way
+Staribacherstraße,,,,way
 Starkegasse,,,,way
 Starkenburggasse,,,,way
 Starkfriedgasse,,,,way
@@ -6292,6 +6299,7 @@ Toßgasse,,,,way
 "Toter Grund",,,,way
 Toulagasse,,,,way
 Touristenweg,,,,way
+Town-Town-Spange,,,,way
 Trabertgasse,,,,way
 Trabrennstraße,,,,way
 Traisengasse,,,,way
@@ -7004,7 +7012,6 @@ Zschokkegasse,,,,way
 Zsigmondygasse,,,,way
 Zuckerkandlgasse,,,,way
 "Zufahrt Teichhaus",,,,way
-"Zufahrt zum Hofstättenweg",,,,way
 Zufahrtsstraße,,,,way
 Zufferbrücke,,,,way
 Zugbergsteg,,,,way
