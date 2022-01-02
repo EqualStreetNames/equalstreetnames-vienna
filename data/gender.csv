@@ -45,11 +45,9 @@ Klährgasse,wikidata,F,Q55907560,way
 Längenfeldgasse,wikidata,F,Q1708402,way
 Lella-Lombardi-Gasse,wikidata,F,Q171569,way
 Leopoldine-Glöckel-Weg,wikidata,F,Q1819939,way
-Ljuba-Welitsch-Straße,wikidata,F,Q452990,way
 Lydia-Sicher-Gasse,wikidata,F,Q1719995,way
 Margarete-Seemann-Weg,wikidata,F,Q1895025,way
 Maria-Lassnig-Straße,wikidata,F,Q538534,way
-Maria-Schell-Straße,wikidata,F,Q84365,way
 Maria-Theresien-Platz,wikidata,F,Q131706,relation
 Maria-Trapp-Platz,wikidata,F,Q93624,way
 Maria-Tusch-Straße,wikidata,F,Q1896376,way
@@ -76,6 +74,8 @@ Albertgasse,wikidata,M,Q60657,way
 Albertplatz,wikidata,M,Q60657,way
 Alfred-Adler-Straße,wikidata,M,Q152393,way
 Alfred-Dallinger-Platz,wikidata,M,Q1551072,way
+Alois-Czedik-Steg,wikidata,M,Q1404703,way
+"Am Fuchsenfeld",wikidata,M,Q158899,way
 Am-Hans-Moser-Park,wikidata,M,Q113705,way
 Andersengasse,wikidata,M,Q5673,way
 Anton-Scharff-Gasse,wikidata,M,Q593777,way
@@ -113,6 +113,7 @@ Desider-Friedmann-Platz,wikidata,M,Q1200630,way
 Dorfmeistergasse,wikidata,M,Q1101056,way
 Dr.-Boehringer-Gasse,wikidata,M,Q55677824,way
 Dr.-Ignaz-Seipel-Platz,wikidata,M,Q78720,way
+Dr.-Karl-Lueger-Brücke,wikidata,M,Q78531,way
 Dr.-Karl-Lueger-Platz,wikidata,M,Q78531,relation+way
 Drorygasse,wikidata,M,Q1606915,way
 Dunklergasse,wikidata,M,Q1495927,way
@@ -193,6 +194,7 @@ Kaunitzgasse,wikidata,M,Q279924,way
 Kelsenstraße,wikidata,M,Q84165,way
 Kerschensteinergasse,wikidata,M,Q61195,way
 Khleslplatz,wikidata,M,Q78801,way
+Kielmannseggbrücke,wikidata,M,Q85457,way
 Kiningergasse,wikidata,M,Q1467985,way
 Kleistgasse,wikidata,M,Q28494,way
 Klimtgasse,wikidata,M,Q34661,way
@@ -208,7 +210,6 @@ Kundmanngasse,wikidata,M,Q323521,way
 Kundratstraße,wikidata,M,Q114138,way
 Kutschkergasse,wikidata,M,Q78985,way
 Laskegasse,wikidata,M,Q2033812,way
-Leo-Perutz-Straße,wikidata,M,Q93450,way
 Leopold-Böhm-Straße,wikidata,M,Q1687621,way
 Leopold-Gratz-Platz,wikidata,M,Q78999,way
 Lichtenfelsgasse,wikidata,M,Q1657190,way
@@ -252,6 +253,7 @@ Olbrichgasse,wikidata,M,Q44911,way
 Oswaldgasse,wikidata,M,Q336016,way
 Otto-Bondy-Platz,wikidata,M,Q24050605,way
 Otto-Preminger-Straße,wikidata,M,Q52997,way
+Paul-Amann-Brücke,wikidata,M,Q2058694,way
 Per-Albin-Hansson-Straße,wikidata,M,Q53660,way
 Pilgrambrücke,wikidata,M,Q114254,way
 Putzendoplergasse,wikidata,M,Q27553481,way
@@ -286,7 +288,6 @@ Semperstraße,wikidata,M,Q61342,way
 Stelzhamergasse,wikidata,M,Q45580,way
 Stranitzkygasse,wikidata,M,Q85811,way
 Stüber-Gunther-Gasse,wikidata,M,Q1468581,way
-Teddy-Kollek-Promenade,wikidata,M,Q302203,way
 Tegetthoffstraße,wikidata,M,Q310509,way
 Theodor-Herzl-Stiege,wikidata,M,Q44003,way
 Thomas-Klestil-Platz,wikidata,M,Q78490,way
