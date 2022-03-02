@@ -64,6 +64,7 @@ Rathausstraße,wikidata,,Q686468,way
 "Rechte Wienzeile",wikidata,,Q702289,way
 Reichsratsstraße,wikidata,,Q702121,way
 Reindorfgasse,wikidata,,Q1361527,way
+"Reinprechtsdorfer Brücke",wikidata,,Q2141712,way
 Rosenhügelstraße,wikidata,,Q21859814,way
 Rotdornallee,wikidata,,Q159553,way
 Rotenturmstraße,wikidata,,Q2168330,way
@@ -81,6 +82,7 @@ St.-Elisabeth-Platz,wikidata,,Q159862;Q2318104,way
 Stephansplatz,wikidata,,Q5943,relation+way
 Stiftgasse,wikidata,,Q1062556,way
 Stock-im-Eisen-Platz,wikidata,,Q25629422,way
+Stubenbrücke,wikidata,,Q2358079,way
 Tivolibrücke,wikidata,,Q2437258,way
 "Unter-Meidlinger Straße",wikidata,,Q1448542,relation+way
 "Wiedner Hauptstraße",wikidata,,Q877374,way
@@ -801,7 +803,6 @@ Brammergasse,,,,way
 Brandgasse,,,,way
 Brandmayergasse,,,,way
 Brandstätte,,,,way
-Brändströmgasse,,,,way
 Brantinggasse,,,,way
 Brauereisteg,,,,way
 Brauergasse,,,,way
@@ -811,9 +812,7 @@ Bräunerstraße,,,,way
 Braungasse,,,,way
 Braunhirschengasse,,,,way
 Braunhubergasse,,,,way
-Braunschweigbrücke,,,,way
 Braunschweiggasse,,,,way
-Braunschweigsteg,,,,way
 Braunspergengasse,,,,way
 Brausewettergasse,,,,way
 Brechergasse,,,,way
@@ -1313,7 +1312,6 @@ Egon-Schiele-Gasse,,,,way
 Ehamgasse,,,,way
 "Ehamgasse Fußweg",,,,way
 Ehngasse,,,,way
-Ehrenhaft-Steindler-Platz,,,,way
 Ehrenpreisgasse,,,,way
 Ehrensteingasse,,,,way
 Eibengasse,,,,way
@@ -2332,7 +2330,6 @@ Hantzenbergergasse,,,,way
 Hardeggasse,,,,way
 "Hardeggasse/Am Mühlwasser",,,,way
 Hardtgasse,,,,way
-Hardtmuthgasse,,,,way
 Harkortstraße,,,,way
 Harlacherweg,,,,way
 Harmoniegasse,,,,way
@@ -3200,7 +3197,6 @@ Kempfengerngasse,,,,way
 "Kenda Line",,,,way
 Kendegasse,,,,way
 Kendlerstraße,,,,way
-Kennedybrücke,,,,way
 Kennergasse,,,,way
 Kenyongasse,,,,way
 Keplergasse,,,,way
@@ -4042,7 +4038,6 @@ Maschlgasse,,,,way
 Mastnygasse,,,,way
 Masurenweg,,,,way
 Maßholdergasse,,,,way
-Maternaweg,,,,way
 Matrasgasse,,,,way
 Matrosengasse,,,,way
 Matschgasse,,,,way
@@ -4272,6 +4267,7 @@ Mühlweg,,,,way
 Muhrengasse,,,,way
 Muhrhoferweg,,,,way
 Mukenthalerweg,,,,way
+Muliarplatz,,,,way
 Müller-Guttenbrunn-Straße,,,,way
 Müllnergasse,,,,way
 Müllnermaisgasse,,,,way
@@ -4425,6 +4421,7 @@ Nussberggasse,,,,way
 "Nussdorfer Brücke",,,,way
 "Nussdorfer Lände",,,,way
 "Nussdorfer Platz",,,,way
+"Nussdorfer Steg",,,,way
 "Nussdorfer Straße",,,,way
 Nussgasse,,,,way
 Nusswaldgasse,,,,way
@@ -4432,7 +4429,6 @@ Nußallee,,,,way
 Nußbaumweg,,,,way
 "Nußdorfer Lände",,,,way
 "Nußdorfer Schleusenbrücke",,,,way
-"Nußdorfer Steg",,,,way
 Nußweg,,,,way
 Nymphengasse,,,,way
 O'Brien-Gasse,,,,way
@@ -4661,6 +4657,7 @@ Pellmanngasse,,,,way
 Pelzgasse,,,,way
 Penkgasse,,,,way
 Pensionsgasse,,,,way
+"Penzinger Steg",,,,way
 "Penzinger Straße",,,,way
 "Perchtoldsdorfer Straße",,,,way
 Percostraße,,,,way
@@ -4841,7 +4838,6 @@ Predigergasse,,,,way
 Pregartengasse,,,,way
 Prehausergasse,,,,way
 Preindlgasse,,,,way
-Preindlsteg,,,,way
 Preleuthnersteig,,,,way
 Premgasse,,,,way
 Premlechnergasse,,,,way
@@ -5001,7 +4997,6 @@ Reinholdgasse,,,,way
 Reiningerweg,,,,way
 Reinischgasse,,,,way
 Reinlgasse,,,,way
-"Reinprechtsdorfer Brücke",,,,way
 "Reinprechtsdorfer Straße",,,,way
 Reisberggasse,,,,way
 Reischachstraße,,,,way
@@ -5315,7 +5310,6 @@ Sauraugasse,,,,way
 Sautergasse,,,,way
 Savoyenstraße,,,,way
 Scalagasse,,,,way
-Scariaweg,,,,way
 Schablergasse,,,,way
 Schachnerstraße,,,,way
 Schacht-2-Weg,,,,way
@@ -5433,6 +5427,7 @@ Schlossallee,,,,way
 Schlossberggasse,,,,way
 Schlösselgasse,,,,way
 Schlosserallee,,,,way
+Schlossergang,,,,way
 Schlossergasse,,,,way
 Schlosserplatzl,,,,way
 Schlossgasse,,,,way
@@ -5449,7 +5444,6 @@ Schmalzhofgasse,,,,way
 Schmardagasse,,,,way
 Schmätzerweg,,,,way
 Schmeckender-Wurm-Hof,,,,way
-Schmedesweg,,,,way
 Schmelzbrückenrampe,,,,way
 Schmelzgasse,,,,way
 Schmidgasse,,,,way
@@ -5973,6 +5967,7 @@ Sterkgasse,,,,way
 Sternenpassage,,,,way
 Sterngasse,,,,way
 Sternwartestraße,,,,way
+Sternweg,,,,way
 Steudelgasse,,,,way
 Steyrerhof,,,,way
 Stiegengasse,,,,way
@@ -6049,7 +6044,6 @@ Strudlhofstiege,,,,relation
 Strunzgasse,,,,way
 Stryeckgasse,,,,way
 Stubenbastei,,,,way
-Stubenbrücke,,,,way
 Stubenring,,,,way
 Stuckgasse,,,,way
 Studenygasse,,,,way
@@ -6469,6 +6463,7 @@ Vöschergasse,,,,way
 "Vösendorfer Straße",,,,way
 Vösendorfergrabenweg,,,,way
 W3,,,,way
+WL-Bergsprint,,,,way
 Waaggasse,,,,way
 Wachaustraße,,,,way
 Wacholderweg,,,,way
