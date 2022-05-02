@@ -5,6 +5,8 @@ Albertinaplatz,wikidata,,Q371908,way
 "Altmannsdorfer Anger",wikidata,,Q442551,way
 "Altmannsdorfer Straße",wikidata,,Q442551,way
 "Am Gestade",wikidata,,Q896586,way
+Apollogasse,wikidata,,Q619516,way
+Argentinierstraße,wikidata,,Q414,way
 "Atzgersdorfer Straße",wikidata,,Q758336,way
 Augustinerstraße,wikidata,,Q693869,way
 Ausstellungsstraße,wikidata,,Q871508,way
@@ -14,6 +16,8 @@ Barbaragasse,wikidata,,Q701345,way
 Blindengasse,wikidata,,Q884251,way
 "Breitenfelder Gasse",wikidata,,Q906322,way
 "Breitenfurter Straße",wikidata,,Q662190,way
+Bundesländerplatz,wikidata,,Q7146024,way
+Burggasse,wikidata,,Q46242,way
 Concordiaplatz,wikidata,,Q2108920,way
 Domgasse,wikidata,,Q5943,way
 Dominikanerbastei,wikidata,,Q131479,way
@@ -22,8 +26,10 @@ Dörfelstraße,wikidata,,Q2576216,way
 Esparsette-Weg,wikidata,,Q156932,way
 Europaplatz,wikidata,,Q8908,way
 Färbergasse,wikidata,,Q6147194,way
+Fassziehergasse,wikidata,,Q56298815,way
 Franz-Hauer-Platz,wikidata,,Q20758720,way
 Franziskanerplatz,wikidata,,Q165005,relation+way
+Fünfhausgasse,wikidata,,Q1481965,way
 Gatterholzgasse,wikidata,,Q1114344,way
 "Gaudenzdorfer Gürtel",wikidata,,Q1495934,way
 Graffitistraße,wikidata,,Q17514,way
@@ -32,23 +38,34 @@ Gudrunstraße,wikidata,,Q1257834,way
 Ha-Wei-Brücke,wikidata,,Q1567437,way
 "Hackinger Steg",wikidata,,Q1526933,way
 "Hetzendorfer Straße",wikidata,,Q1616329,way
+Hollergasse,wikidata,,Q131448,way
+Innstraße,wikidata,,Q14369,way
 Jerusalem-Stiege,wikidata,,Q1218,way
 Karlsgasse,wikidata,,Q408847,way
 "Kärntner Straße",wikidata,,Q37985,way
 Kastanienallee,wikidata,,Q22699,way
 Kettenbrückengasse,wikidata,,Q53673375,way
+Kirchengasse,wikidata,,Q251468,way
 Kirschenallee,wikidata,,Q165137,way
+"Kleine Marxerbrücke",wikidata,,Q106194092,way
 Landgutgasse,wikidata,,Q439260,way
+Landhausgasse,wikidata,,Q1498120,way
+Liesingbachbegleitweg,wikidata,,Q1824337,way
 Lobkowitzplatz,wikidata,,Q999439,way
 Margaretenplatz,wikidata,,Q1716764,way
+"Maria vom Siege",wikidata,,Q990425,relation+way
 "Marx-Meidlinger Straße",wikidata,,Q1730731;Q2237824,way
 "Matzleinsdorfer Platz",wikidata,,Q1910897,way
 "Meidlinger Hauptstraße",wikidata,,Q697557,way
 "Meidlinger Platzl",wikidata,,Q697557,way
 Minciostraße,wikidata,,Q734023,way
 Minoritenplatz,wikidata,,Q692799,relation+way
+Mortaraplatz,wikidata,,Q40834,way
 Münchenstraße,wikidata,,Q1726,way
 Murlingengasse,wikidata,,Q697557,way
+Museumstraße,wikidata,,Q95569;Q688704,way
+Myrthengasse,wikidata,,Q165152,way
+Neubaugasse,wikidata,,Q1979250,relation+way
 Nikolaisteg,wikidata,,Q1702683,way
 Oeverseestraße,wikidata,,Q1434874,way
 Operngasse,wikidata,,Q209937,way
@@ -57,7 +74,10 @@ Osrambrücke,wikidata,,Q310481,way
 Paulanergasse,wikidata,,Q1367736,way
 Philadelphiabrücke,wikidata,,Q2537609,way
 Philharmonikerstraße,wikidata,,Q154685,way
+Pielachgasse,wikidata,,Q782708,way
 Pilgramgasse,wikidata,,Q114254;Q100709330,way
+"Platz der Menschenrechte",wikidata,,Q8458,way
+Pöchlarnstraße,wikidata,,Q255350,way
 "Pottendorfer Straße",wikidata,,Q2106579,way
 Rathausplatz,wikidata,,Q686468,way
 Rathausstraße,wikidata,,Q686468,way
@@ -71,22 +91,35 @@ Rotenturmstraße,wikidata,,Q2168330,way
 Ruprechtsplatz,wikidata,,Q689008,relation+way
 Ruprechtsstiege,wikidata,,Q44947;Q689008,way
 Rustensteg,wikidata,,Q1486199,way
+Salzachstraße,wikidata,,Q152661,way
 Schmelzbrücke,wikidata,,Q2245976,way
+"Schönbrunner Allee",wikidata,,Q131330,way
+"Schönbrunner Schlossbrücke",wikidata,,Q131330,relation+way
 Schönlaterngasse,wikidata,,Q37996366,way
+Schottenfeldgasse,wikidata,,Q2249172,way
 Schottengasse,wikidata,,Q549585,way
 Schwedenplatz,wikidata,,Q34,relation+way
+"Sechshauser Straße",wikidata,,Q2263631,way
 Seitenstettengasse,wikidata,,Q37996254,way
+Siebensternplatz,wikidata,,Q47532165,relation
 Sonnenallee,wikidata,,Q540191,way
 Sparefrohgasse,wikidata,,Q1682039,way
+Spittelberggasse,wikidata,,Q1587233,way
 St.-Elisabeth-Platz,wikidata,,Q159862;Q2318104,way
+St.-Ulrichs-Platz,wikidata,,Q2477141,way
 Stephansplatz,wikidata,,Q5943,relation+way
 Stiftgasse,wikidata,,Q1062556,way
 Stock-im-Eisen-Platz,wikidata,,Q25629422,way
 Stubenbrücke,wikidata,,Q2358079,way
 Tivolibrücke,wikidata,,Q2437258,way
+Tivoligasse,wikidata,,Q2437258,way
+Traisengasse,wikidata,,Q700692,way
+Turnergasse,wikidata,,Q43450,way
 "Unter-Meidlinger Straße",wikidata,,Q1448542,relation+way
+Westbahnstraße,wikidata,,Q694717,way
 "Wiedner Hauptstraße",wikidata,,Q877374,way
 Wienflussaufsichtssteg,wikidata,,Q37920142,way
+Zollamtssteg,wikidata,,Q29169592,way
 """Am Wasser""",,,,way
 1,,,,way
 "1. Haidequerstraße",,,,way
@@ -153,7 +186,6 @@ Afritschweg,,,,way
 Agavenweg,,,,way
 Agnesgasse,,,,way
 Agricolagasse,,,,way
-Ahornergasse,,,,way
 Ahornhof,,,,way
 Ahornweg,,,,way
 Ährengrubenweg,,,,way
@@ -177,7 +209,6 @@ Alberichgasse,,,,way
 Albert-Schweitzer-Gasse,,,,way
 Albertisgasse,,,,way
 Albin-Hirsch-Platz,,,,way
-Albrechtsbergergasse,,,,way
 Albrechtskreithgasse,,,,way
 Alexander-Mell-Gasse,,,,way
 Alexander-Nehr-Gasse,,,,way
@@ -394,7 +425,6 @@ Anningerweg,,,,way
 Anny-Angel-Katan-Weg,,,,way
 Anreitergasse,,,,way
 Anschlußgasse,,,,way
-Anschützgasse,,,,way
 Antaeusgasse,,,,way
 Antelweg,,,,way
 Anton-Anderer-Platz,,,,way
@@ -438,7 +468,6 @@ Anzengruberstraße,,,,way
 Apfelgasse,,,,way
 Apfelrosenweg,,,,way
 Apfelweg,,,,way
-Apollogasse,,,,way
 Apostelgasse,,,,way
 Aquäduktsteg,,,,way
 Arabellagasse,,,,way
@@ -448,7 +477,6 @@ Arbeiterstrandbadstraße,,,,way
 Arbesbachgasse,,,,way
 Arenberggasse,,,,way
 Argauergasse,,,,way
-Argentinierstraße,,,,way
 Argonautenstraße,,,,way
 Ari-Rath-Platz,,,,way
 Aribogasse,,,,way
@@ -466,7 +494,6 @@ Arnimgasse,,,,way
 Arnold-Holm-Gasse,,,,way
 Arnold-Pollak-Brücke,,,,way
 Arnoldgasse,,,,way
-Arnsteingasse,,,,way
 Arsenalstraße,,,,way
 Artariastraße,,,,way
 Arthaberplatz,,,,way
@@ -520,7 +547,6 @@ August-Sigl-Straße,,,,way
 Augustinerbastei,,,,relation+way
 Augustinerwaldbrücke,,,,way
 Augustinerwaldgasse,,,,way
-Augustinplatz,,,,way
 Auhirschenweg,,,,way
 "Auhof Verbindungsweg",,,,way
 Auhofergutweg,,,,way
@@ -666,7 +692,6 @@ Berlepschgasse,,,,way
 Bermenrampe,,,,way
 Bermenweg,,,,way
 Bernadottegasse,,,,way
-Bernardgasse,,,,way
 Bernatzikgasse,,,,way
 Bernhard-Billes-Gasse,,,,way
 Bernhard-Bolzano-Gasse,,,,way
@@ -899,7 +924,6 @@ Bujattigasse,,,,way
 Bukovicsgasse,,,,way
 Bullagasse,,,,way
 Bullgasse,,,,way
-Bundesländerplatz,,,,way
 Bundesweg,,,,way
 Bunsengasse,,,,way
 Bureschgasse,,,,way
@@ -909,7 +933,6 @@ Bürgermeisterweg,,,,way
 Bürgerspitalgasse,,,,way
 Bürgerspitalwiese,,,,way
 Burgersteingasse,,,,way
-Burggasse,,,,way
 Burghardtgasse,,,,way
 Burgkmairgasse,,,,way
 Burgring,,,,way
@@ -947,7 +970,6 @@ Castellezgasse,,,,way
 Castelligasse,,,,way
 Castlegasse,,,,way
 Cebotariweg,,,,way
-Ceija-Stojka-Platz,,,,way
 Celtesgasse,,,,way
 Ceralegasse,,,,way
 Cervantesgasse,,,,way
@@ -976,7 +998,6 @@ Churhausgasse,,,,way
 Chvostekgasse,,,,way
 Chwallagasse,,,,way
 Cilli-Löwinger-Weg,,,,way
-Cissy-Kraner-Platz,,,,way
 Cizekplatz,,,,way
 Claretinergasse,,,,way
 Claudia-Dietl-Platz,,,,way
@@ -1111,7 +1132,6 @@ Diesterweggasse,,,,way
 Dietmayrgasse,,,,way
 Dietrichgasse,,,,way
 Dietrichsteingasse,,,,way
-Dingelstedtgasse,,,,way
 Dinsfüßlweg,,,,way
 Dionysius-Andrassy-Straße,,,,way
 Dirkensgasse,,,,way
@@ -1377,7 +1397,6 @@ Emichgasse,,,,way
 Emil-Fucik-Gasse,,,,way
 Emil-Hertzka-Platz,,,,way
 Emil-Kralik-Gasse,,,,way
-Emil-Maurer-Platz,,,,way
 Emil-Ottenthal-Gasse,,,,way
 Emilie-Bach-Weg,,,,way
 Emilie-Flöge-Weg,,,,way
@@ -1408,7 +1427,6 @@ Entersweg,,,,way
 Enzelsbergergasse,,,,way
 Enzianweg,,,,way
 Enzingergasse,,,,way
-Erbacherweg,,,,way
 Erbpostgasse,,,,way
 Erbsenbachgasse,,,,way
 "Erdberger Brücke",,,,way
@@ -1468,7 +1486,6 @@ Esslinggasse,,,,way
 Esterházygasse,,,,way
 "Eßlinger Furt",,,,way
 Etrichstraße,,,,way
-Etschnerweg,,,,way
 Ettingshausengasse,,,,way
 Eugen-Bormann-Gasse,,,,way
 Eugen-Jettel-Weg,,,,way
@@ -1494,6 +1511,7 @@ Fahnengasse,,,,way
 Fahnenweg,,,,way
 Fahngasse,,,,way
 Fahrbachgasse,,,,way
+Fahrschulübungsplatz,,,,way
 Faistauergasse,,,,way
 Falcogasse,,,,way
 Falcostiege,,,,way
@@ -1515,7 +1533,6 @@ Faschinggasse,,,,way
 Fasholdgasse,,,,way
 Fassbendergasse,,,,way
 Fasslbergweg,,,,way
-Fassziehergasse,,,,way
 Fatinitzaweg,,,,way
 Fatty-George-Gasse,,,,way
 Favoritenstraße,,,,way
@@ -1668,7 +1685,6 @@ Franz-Boos-Gasse,,,,way
 Franz-Eduard-Matras-Gasse,,,,way
 Franz-Egermaier-Weg,,,,way
 Franz-Eichert-Weg,,,,way
-Franz-Emerich-Gasse,,,,way
 Franz-Fellner-Gasse,,,,way
 Franz-Glaser-Gasse,,,,way
 Franz-Graßler-Gasse,,,,way
@@ -1767,11 +1783,9 @@ Friedrich-Lieder-Weg,,,,way
 Friedrich-Manhart-Straße,,,,way
 Friedrich-Teller-Gasse,,,,way
 Friedrich-Wagner-Gasse,,,,way
-Friedrich-Wilhelm-Raiffeisen-Platz,,,,way
 Friedrichsplatz,,,,way
 Friedstraße,,,,way
 Friesenplatz,,,,way
-Friesgasse,,,,way
 Frimbergergasse,,,,way
 Frimmelgasse,,,,way
 Fritz-Feigl-Weg,,,,way
@@ -1782,7 +1796,6 @@ Fritz-Pregl-Gasse,,,,way
 Fritz-Steinbach-Gasse,,,,way
 Fritz-Wotruba-Promenade,,,,way
 Fröbelgasse,,,,way
-Frödenplatz,,,,way
 Frohes-Schaffen-Weg,,,,way
 Fröhlichgasse,,,,way
 Frömmlgasse,,,,way
@@ -1808,7 +1821,6 @@ Fuhrmannsgasse,,,,relation
 Fuhrygasse,,,,way
 Fultonstraße,,,,way
 Fundergasse,,,,way
-Fünfhausgasse,,,,way
 Funkengerngasse,,,,way
 Funkgasse,,,,way
 Fünkhgasse,,,,way
@@ -1821,7 +1833,6 @@ Furtwänglerplatz,,,,way
 Füsterweg,,,,way
 "Fußgängerbrücke Stadlauer Ohr",,,,way
 "Fußweg Puffergasse",,,,way
-"Fußweg in die Buchbinderei Werkstatt im Hof",,,,way
 Fütterergasse,,,,way
 Futterknechtgasse,,,,way
 Gaargasse,,,,way
@@ -1882,7 +1893,6 @@ Gebirgsgasse,,,,way
 Geblergasse,,,,way
 Gebrüder-Lang-Gasse,,,,way
 Gegenbauerweg,,,,way
-Geibelgasse,,,,way
 Geiereckstraße,,,,way
 Geigergasse,,,,way
 Geigeringasse,,,,way
@@ -1903,6 +1913,7 @@ Gennarogasse,,,,way
 Genochplatz,,,,way
 Genossenschaftsstraße,,,,way
 Gentzgasse,,,,way
+"Genuss-Weg im Prater",,,,way
 Geologengasse,,,,way
 Georg-Bilgeri-Straße,,,,way
 Georg-Danzer-Steg,,,,way
@@ -2102,7 +2113,6 @@ Grillgasse,,,,way
 Grillgassensteg,,,,way
 Grillparzerstraße,,,,way
 Grillparzerweg,,,,way
-Grimmgasse,,,,way
 "Grinzinger Allee",,,,way
 "Grinzinger Steig",,,,way
 "Grinzinger Straße",,,,way
@@ -2199,7 +2209,6 @@ Gußhausstraße,,,,way
 Gütenbachbrücke,,,,way
 Gütenbachstraße,,,,way
 Gütenbachtorbrücke,,,,way
-Gutenberggasse,,,,way
 Güterslohgasse,,,,way
 "Gutheil-Schoder Gasse",,,,way
 Gutheil-Schoder-Brücke,,,,way
@@ -2422,7 +2431,6 @@ Heimstättenstraße,,,,way
 Heindlgasse,,,,way
 Heinestraße,,,,way
 Heingasse,,,,way
-Heinickegasse,,,,way
 Heinrich-Collin-Straße,,,,way
 Heinrich-Kneissl-Gasse,,,,way
 Heinrich-Lefler-Gasse,,,,way
@@ -2460,7 +2468,6 @@ Helscherweg,,,,way
 Henckellgasse,,,,way
 Henneberggasse,,,,way
 Henriette-von-Nassau-Weg,,,,way
-Henriettenplatz,,,,way
 Henslerstraße,,,,way
 Hentschelgasse,,,,way
 Hentzigasse,,,,way
@@ -2612,7 +2619,6 @@ Hofherrgasse,,,,way
 Hofjagdstraße,,,,way
 "Hofjagdstraße Zufahrtsweg",,,,way
 Hofjägerstraße,,,,way
-Hofmoklgasse,,,,way
 Hofmühlgasse,,,,way
 Hofstädtengasse,,,,way
 Hofstättenweg,,,,way
@@ -2640,7 +2646,7 @@ Holbeingasse,,,,way
 Holetschekgasse,,,,way
 Holeyplatz,,,,way
 Hollandstraße,,,,way
-Hollergasse,,,,way
+Hollandstraße;Friedrich-Wilhelm-Raiffeisen-Platz,,,,way
 Hollerweg,,,,way
 Hollgasse,,,,way
 Hollitzergasse,,,,way
@@ -2780,7 +2786,6 @@ Ingen-Housz-Gasse,,,,way
 Innocentiagasse,,,,way
 Innovationsstraße,,,,way
 Innozenz-Lang-Gasse,,,,way
-Innstraße,,,,way
 Invalidenstraße,,,,way
 Inwaldweg,,,,way
 "Inzersdorf Kirchenplatz",,,,way
@@ -2842,7 +2847,6 @@ Jenbachgasse,,,,way
 Jeneweingasse,,,,way
 Jenischenweg,,,,way
 Jennerplatz,,,,way
-Jenny-Steiner-Weg,,,,way
 Jenschikweg,,,,way
 Jenullgasse,,,,way
 Jerusalemgasse,,,,way
@@ -2852,7 +2856,6 @@ Jesuitensteig,,,,way
 Jetldorfweg,,,,way
 Jettmargasse,,,,way
 Jezikweg,,,,way
-Jheringgasse,,,,way
 Jiricekgasse,,,,way
 Joachim-Schettl-Gasse,,,,way
 Joachimsthalerplatz,,,,way
@@ -2878,6 +2881,7 @@ Johann-Knoll-Gasse,,,,way
 Johann-Kutschera-Gasse,,,,way
 Johann-Laufner-Gasse,,,,way
 Johann-Nepomuk-Berger-Platz,,,,way
+Johann-Nepomuk-Vogl-Platz,,,,way
 Johann-Orth-Platz,,,,way
 Johann-Orth-Weg,,,,way
 Johann-Peter-Au-Gasse,,,,way
@@ -2893,7 +2897,6 @@ Johann-Treixler-Gasse,,,,way
 Johann-Weber-Straße,,,,way
 Johann-Zak-Weg,,,,way
 Johanna-Bauer-Platz,,,,way
-Johanna-Dohnal-Platz,,,,way
 Johannagasse,,,,way
 Johannes-Bischko-Platz,,,,way
 Johannes-Fehring-Promenade,,,,way
@@ -2975,7 +2978,6 @@ Julius-Berger-Gasse,,,,way
 Julius-Ficker-Straße,,,,way
 Julius-Meinl-Gasse,,,,way
 Julius-Payer-Gasse,,,,way
-Julius-Raab-Platz,,,,way
 Julius-Schlegel-Gasse,,,,way
 Julius-Tandler-Platz,,,,way
 Jumbo-Platz,,,,way
@@ -3033,7 +3035,6 @@ Kaisermühlenbrücke,,,,way
 Kaisermühlenstraße,,,,way
 Kaisermühlenstraßenbrücke,,,,way
 Kaisersteiggasse,,,,way
-Kaiserstraße,,,,way
 Kaiserwasserbrücke,,,,way
 Kaiserwassersteg,,,,way
 Kaiserzipfbrücke,,,,way
@@ -3121,7 +3122,6 @@ Karl-Scheiber-Gasse,,,,way
 Karl-Schott-Gasse,,,,way
 Karl-Schwanzer-Gasse,,,,way
 Karl-Schwed-Gasse,,,,way
-Karl-Schweighofer-Gasse,,,,way
 Karl-Toldt-Weg,,,,way
 Karl-Tornay-Gasse,,,,way
 Karl-Wagner-Weg,,,,way
@@ -3142,6 +3142,7 @@ Karmeliterplatz,,,,way
 "Kärntner Durchgang",,,,way
 "Kärntner Ring",,,,way
 Kärntnertorpassage,,,,way
+Karoline-Perin-Gasse,,,,way
 Karolinengasse,,,,way
 Karthäuserstraße,,,,way
 Kartouschgasse,,,,way
@@ -3188,7 +3189,6 @@ Keldorfergasse,,,,way
 Kellerberggasse,,,,way
 Kellergasse,,,,way
 Kellermannbrücke,,,,way
-Kellermanngasse,,,,way
 Kellinggasse,,,,way
 Keltengasse,,,,way
 Kempelenbrücke,,,,way
@@ -3198,7 +3198,6 @@ Kempfengerngasse,,,,way
 Kendegasse,,,,way
 Kendlerstraße,,,,way
 Kennergasse,,,,way
-Kenyongasse,,,,way
 Keplergasse,,,,way
 Keplerplatz,,,,way
 Keplingergasse,,,,way
@@ -3234,7 +3233,6 @@ Kinkplatz,,,,way
 Kinskygasse,,,,way
 Kinzerplatz,,,,way
 Kirchberggasse,,,,way
-Kirchengasse,,,,way
 Kirchenlucken,,,,way
 Kirchenplatz,,,,way
 Kirchenweg,,,,way
@@ -3269,7 +3267,6 @@ Kleeblattweg,,,,way
 Kleegasse,,,,way
 Kleeweg,,,,way
 Kleibersteg,,,,way
-"Kleine Marxerbrücke",,,,way
 "Kleine Mohrengasse",,,,way
 "Kleine Neugasse",,,,way
 "Kleine Pfarrgasse",,,,way
@@ -3333,7 +3330,6 @@ Kohlesgasse,,,,way
 Kohlgasse,,,,way
 Kohlmarkt,,,,way
 Kohlweg,,,,way
-"Kolariks Genießerweg",,,,way
 Kolbegasse,,,,way
 Kolbetergasse,,,,way
 Kolbetersteg,,,,way
@@ -3360,7 +3356,6 @@ Kommunikationsplatz,,,,way
 Komödiengasse,,,,way
 Kompertgasse,,,,way
 Komzakgasse,,,,way
-Koniczekweg,,,,way
 Königgasse,,,,way
 Königseggasse,,,,way
 Königsklostergasse,,,,way
@@ -3379,7 +3374,6 @@ Konsumwaldweg,,,,way
 Kopalgasse,,,,way
 Kopallikgasse,,,,way
 Kopfgasse,,,,way
-Köppelweg,,,,way
 Koppreitergasse,,,,way
 Koppstraße,,,,way
 Korbergasse,,,,way
@@ -3512,13 +3506,11 @@ Kupkagasse,,,,way
 Kürassierweg,,,,way
 Kurbadstraße,,,,way
 Kürbisweg,,,,way
-Kürnbergergasse,,,,way
 Kurrentgasse,,,,way
 Kürschnergasse,,,,way
 Kurt-Absolon-Weg,,,,way
 Kurt-Heller-Steg,,,,way
 Kurt-Ohnsorg-Weg,,,,way
-Kurt-Pint-Platz,,,,relation
 Kurt-Tichy-Gasse,,,,way
 Kurzbauergasse,,,,way
 Kurzböckgasse,,,,way
@@ -3535,7 +3527,6 @@ Laaerbergtunnel,,,,way
 Labanweg,,,,way
 Laberlsteg,,,,way
 Laberlweg,,,,way
-Labersteig,,,,way
 Laborweg,,,,way
 Lachsweg,,,,way
 Lackenbachweg,,,,way
@@ -3563,7 +3554,6 @@ Lampigasse,,,,way
 Lancplatz,,,,way
 Landaugasse,,,,way
 Landesgerichtsstraße,,,,way
-Landhausgasse,,,,way
 Landskrongasse,,,,way
 Landsteinergasse,,,,way
 "Landstraße Gürtelbrücke",,,,way
@@ -3684,7 +3674,6 @@ Leopold-Abelles-Gasse,,,,way
 Leopold-Bauer-Weg,,,,way
 Leopold-Ernst-Gasse,,,,way
 Leopold-Ferstl-Gasse,,,,way
-Leopold-Figl-Gasse,,,,way
 Leopold-Kohr-Straße,,,,way
 Leopold-Kunschak-Platz,,,,way
 Leopold-Mistinger-Platz,,,,relation
@@ -3749,7 +3738,6 @@ Lieglerstraße,,,,way
 Lieleggweg,,,,way
 Lienfeldergasse,,,,way
 Liepoltgasse,,,,way
-Liesingbachbegleitweg,,,,way
 Liesingbachradweg,,,,way
 Liesingbachstraße,,,,way
 "Liesinger Platz",,,,way
@@ -3803,7 +3791,6 @@ Lobauwegerl,,,,way
 Lobelienweg,,,,way
 Lobenhauerngasse,,,,way
 Lobgrundstraße,,,,way
-Lobkowitzbrücke,,,,way
 Lobkowitztunnel,,,,way
 Löblichgasse,,,,way
 Löblweg,,,,way
@@ -3823,7 +3810,6 @@ Loimerweg,,,,way
 Loitlsbergerweg,,,,way
 Lokomotivgasse,,,,way
 Loosgasse,,,,way
-Loquaiplatz,,,,way
 Lorbeergasse,,,,way
 Lorenz-Bayer-Platz,,,,way
 Lorenz-Böhler-Gasse,,,,way
@@ -3971,7 +3957,6 @@ Margaritensteg,,,,way
 Margeritenweg,,,,way
 Margetinstraße,,,,way
 Margit-Doppler-Gasse,,,,way
-"Maria vom Siege",,,,relation+way
 Maria-Andergast-Weg,,,,way
 Maria-Grengg-Gasse,,,,way
 Maria-Hirschler-Weg,,,,way
@@ -4090,7 +4075,6 @@ Mayrederbrücke,,,,way
 Mayredergasse,,,,way
 Mayssengasse,,,,way
 Mazellegasse,,,,way
-Mechitaristengasse,,,,way
 Medeagasse,,,,way
 Medlergasse,,,,way
 Medwedweg,,,,way
@@ -4121,7 +4105,6 @@ Memlinggasse,,,,way
 Mendelssohngasse,,,,way
 Menger-Tor,,,,way
 Mengergasse,,,,way
-Mentergasse,,,,way
 Menzelgasse,,,,way
 Menzelstraße,,,,way
 Meranerweg,,,,way
@@ -4230,7 +4213,6 @@ Moritz-Dreger-Gasse,,,,way
 Moritz-Seeler-Gasse,,,,way
 Morizgasse,,,,way
 Morsegasse,,,,way
-Mortaraplatz,,,,way
 Mörthgasse,,,,way
 Moschingergasse,,,,way
 Moselgasse,,,,way
@@ -4288,7 +4270,6 @@ Murraygasse,,,,way
 Murrstraße,,,,way
 Museumsplatz,,,,relation+way
 Museumsteg,,,,way
-Museumstraße,,,,way
 Musgergasse,,,,way
 Musikvereinsplatz,,,,way
 Musikzugplatz,,,,way
@@ -4299,7 +4280,6 @@ Muthsamgasse,,,,way
 Muttergartenweg,,,,way
 Mylius-Bluntschli-Straße,,,,way
 Myrbachgasse,,,,way
-Myrthengasse,,,,way
 "N Weg",,,,way
 Naaffgasse,,,,way
 Nabuccogasse,,,,way
@@ -4340,7 +4320,6 @@ Nestroygasse,,,,way
 "Neu Albern",,,,way
 Neubachbrücke,,,,way
 Neubadgasse,,,,way
-Neubaugasse,,,,relation+way
 Neubaugürtel,,,,way
 Neubeckgasse,,,,way
 Neubergenstraße,,,,way
@@ -4471,7 +4450,6 @@ Ocwirkgasse,,,,way
 Odeongasse,,,,way
 Odoakergasse,,,,way
 Oellacherweg,,,,way
-Oelweingasse,,,,way
 Oerleygasse,,,,way
 Oesterleingasse,,,,way
 Offenbachgasse,,,,way
@@ -4519,7 +4497,6 @@ Oskar-Morgenstern-Platz,,,,way
 Oskar-Sima-Gasse,,,,way
 Oskar-Simony-Straße,,,,way
 Oskar-Spiel-Gasse,,,,way
-Oskar-Werner-Platz,,,,way
 Osloplatz,,,,way
 Ospelgasse,,,,way
 Ostautobahn,,,,way
@@ -4619,7 +4596,6 @@ Pasteurgasse,,,,way
 Pastinakweg,,,,way
 Pastorstraße,,,,way
 Patekweg,,,,way
-Pater-Schwartz-Gasse,,,,way
 Pater-Zeininger-Platz,,,,way
 Patrizigasse,,,,way
 Patrubangasse,,,,way
@@ -4679,7 +4655,6 @@ Peter-Kaiser-Gasse,,,,way
 Peter-Rosegger-Gasse,,,,way
 Peterlinigasse,,,,way
 Petersplatz,,,,way
-Petrarcagasse,,,,way
 Petraschgasse,,,,way
 Petritschgasse,,,,way
 Petrus-Klotz-Gasse,,,,way
@@ -4736,7 +4711,6 @@ Pichelwangergasse,,,,way
 Pichlergasse,,,,way
 Pichlgasse,,,,way
 Pickgasse,,,,way
-Pielachgasse,,,,way
 Pierre-de-Coubertin-Platz,,,,way
 Pierrongasse,,,,way
 Pilatgasse,,,,way
@@ -4765,7 +4739,6 @@ Plankengasse,,,,way
 Plankenmaisstraße,,,,way
 Plattensteinergasse,,,,way
 Plattlgasse,,,,way
-"Platz der Menschenrechte",,,,way
 "Platz der Opfer der Deportation",,,,way
 "Platz der Sozialen Sicherheit",,,,way
 "Platz der Vereinten Nationen",,,,way
@@ -4776,7 +4749,6 @@ Pliwagasse,,,,way
 Plößlgasse,,,,way
 Plunkergasse,,,,way
 Plutoweg,,,,way
-Pöchlarnstraße,,,,way
 Podhagskygasse,,,,way
 Podhorezkygasse,,,,way
 Podlahagasse,,,,way
@@ -4853,7 +4825,6 @@ Prießnitzgasse,,,,way
 Primelweg,,,,way
 Prinz-Eugen-Straße,,,,way
 Prinzgasse,,,,way
-Privatweg,,,,way
 Prixgasse,,,,way
 Probusgasse,,,,way
 Prochstraße,,,,way
@@ -4914,7 +4885,6 @@ Rabnitzweg,,,,way
 Rädda-Barnen-Platz,,,,way
 Radeckgasse,,,,way
 Radelmayergasse,,,,way
-Radetzkybrücke,,,,way
 Radetzkyplatz,,,,way
 Radingerstraße,,,,way
 Radnitzkygasse,,,,way
@@ -5068,7 +5038,6 @@ Röbbelinggasse,,,,way
 Robert-Blum-Gasse,,,,way
 Robert-Dienst-Gasse,,,,way
 Robert-Fuchs-Gasse,,,,way
-Robert-Hamerling-Gasse,,,,way
 Robert-Lach-Gasse,,,,way
 Robert-Parzer-Weg,,,,way
 Robert-Stolz-Platz,,,,way
@@ -5234,7 +5203,6 @@ Rußbergstraße,,,,way
 Rußpekgasse,,,,way
 Rußweg,,,,way
 Ruth-Brinkmann-Gasse,,,,way
-Ruth-Klüger-Platz,,,,way
 Ruthgasse,,,,way
 Ruthnergasse,,,,way
 Ruzickagasse,,,,way
@@ -5267,7 +5235,6 @@ Salusgasse,,,,way
 Salvatorgasse,,,,way
 Salvatorianerplatz,,,,way
 Salvigasse,,,,way
-Salzachstraße,,,,way
 Salzergasse,,,,way
 Salzgasse,,,,way
 Salzgries,,,,way
@@ -5422,7 +5389,6 @@ Schlickplatz,,,,way
 Schliemanngasse,,,,way
 Schließmanngasse,,,,way
 Schlimekgasse,,,,way
-Schlöglgasse,,,,way
 Schlossallee,,,,way
 Schlossberggasse,,,,way
 Schlösselgasse,,,,way
@@ -5439,7 +5405,6 @@ Schloßparkgasse,,,,way
 Schloßpromenade,,,,way
 Schluckergasse,,,,way
 Schlüsselgasse,,,,way
-Schmalerweg,,,,way
 Schmalzhofgasse,,,,way
 Schmardagasse,,,,way
 Schmätzerweg,,,,way
@@ -5475,10 +5440,8 @@ Schönauerweg,,,,way
 Schönbachstraße,,,,way
 Schönbergplatz,,,,way
 Schönborngasse,,,,relation
-"Schönbrunner Allee",,,,way
 "Schönbrunner Brücke",,,,way
 "Schönbrunner Graben",,,,way
-"Schönbrunner Schlossbrücke",,,,relation+way
 "Schönbrunner Schlossstraße",,,,way
 "Schönbrunner Straße",,,,way
 Schönburgstraße,,,,way
@@ -5497,7 +5460,6 @@ Schöpfwerkpromenade,,,,way
 Schöpsstraße,,,,way
 Schottenaustraße,,,,way
 Schottenbastei,,,,way
-Schottenfeldgasse,,,,way
 Schottenring,,,,way
 Schottenwaldweg,,,,way
 Schotterfeldweg,,,,way
@@ -5588,13 +5550,11 @@ Schwemmäckergasse,,,,way
 Schwemmgasse,,,,way
 Schwemmingergasse,,,,way
 Schwendenweingasse,,,,way
-Schwendergasse,,,,way
 Schwenkgasse,,,,way
 Schwerlaststraße,,,,way
 Schwertgasse,,,,way
 Schwetzweg,,,,way
 "Schwimmsteg Yachtclub Seewind",,,,way
-Schwindgasse,,,,way
 Schwinglgasse,,,,way
 Scottgasse,,,,way
 Sebaldgasse,,,,way
@@ -5606,10 +5566,8 @@ Sebastian-Kohl-Gasse,,,,way
 Sebastianbrücke,,,,way
 Sebastianplatz,,,,way
 "Sechshauser Gürtel",,,,way
-"Sechshauser Straße",,,,way
 Sechskrügelgasse,,,,way
 Sechsschimmelgasse,,,,way
-Sechtergasse,,,,way
 Seckendorff-Gudent-Weg,,,,way
 Seckendorfstraße,,,,way
 Sedlacekweg,,,,way
@@ -5686,7 +5644,6 @@ Siebenbürgerstraße,,,,way
 Siebeneichengasse,,,,way
 Siebenhirtenstraße,,,,way
 Siebensterngasse,,,,way
-Siebensternplatz,,,,relation
 Siebertgasse,,,,way
 Siedlungsstraße,,,,way
 Siegelgasse,,,,way
@@ -5701,7 +5658,6 @@ Siemensstraße,,,,way
 Siemensweg,,,,way
 "Sieveringer Brücke",,,,way
 "Sieveringer Straße",,,,way
-Sigmundsgasse,,,,way
 Silberergasse,,,,way
 Silbergasse,,,,way
 Silberwurzweg,,,,way
@@ -5779,6 +5735,7 @@ Sophie-Scholl-Gasse,,,,way
 Sorbaitgasse,,,,way
 Sorgenthalgasse,,,,way
 Sorgogasse,,,,way
+Sowinetzgasse,,,,way
 Spallartgasse,,,,way
 Spalowskygasse,,,,way
 Spandlgasse,,,,way
@@ -5807,7 +5764,6 @@ Spiegelgrundstraße,,,,way
 Spielmanngasse,,,,way
 Spielmannplatz,,,,way
 Spielplatz,,,,way
-Spießhammergasse,,,,way
 Spießweg,,,,way
 Spießwegsteg,,,,way
 Spindeleggergasse,,,,way
@@ -5819,7 +5775,6 @@ Spitalgasse,,,,way
 "Spittelauer Lände",,,,way
 "Spittelauer Platz",,,,way
 "Spittelauer Steg",,,,way
-Spittelberggasse,,,,way
 Spittelbreitengasse,,,,way
 Spitzackergasse,,,,way
 Spitzahornweg,,,,way
@@ -5852,7 +5807,6 @@ St.-Hubertus-Platz,,,,way
 St.-Michael-Gasse,,,,way
 St.-Nikolaus-Platz,,,,way
 St.-Peter-Gasse,,,,way
-St.-Ulrichs-Platz,,,,way
 St.-Veit-Gasse,,,,way
 St.-Wendelin-Gasse,,,,way
 St.-Wendelin-Platz,,,,way
@@ -5902,14 +5856,12 @@ Stefan-Fadinger-Platz,,,,way
 Stefan-Koblinger-Gasse,,,,way
 Stefan-Zweig-Platz,,,,way
 "Steg Absberggasse",,,,way
-"Steg Geiereckstraße",,,,way
 "Steg Kollegium Kalksburg",,,,way
 "Steg Rudolf-Waisenhorn-Gasse",,,,way
 "Steg Tuschlgasse",,,,way
 "Steg Viktor-Kaplan-Straße",,,,way
 "Steg bei Schumanngasse",,,,way
 "Steg beim Ambrosweg",,,,way
-"Steg der Freundschaft; Liane-Zimbler-Steg",,,,way
 "Steg in den Gedenkwald",,,,way
 "Steg neben der Peutlmühle",,,,way
 "Steg über die Liesing",,,,way
@@ -5990,7 +5942,6 @@ Stoesslgasse,,,,way
 Stoffellagasse,,,,way
 Stöhrgasse,,,,way
 Stolberggasse,,,,way
-Stollgasse,,,,way
 Stolzenthalergasse,,,,way
 Stooßgasse,,,,way
 Storchengasse,,,,way
@@ -6197,7 +6148,6 @@ Tinterstraße,,,,way
 "Tiroler Gasse",,,,way
 "Tiroler Weg",,,,way
 Titlgasse,,,,way
-Tivoligasse,,,,way
 Tokiostraße,,,,way
 Toldgasse,,,,way
 Töllergasse,,,,way
@@ -6222,7 +6172,6 @@ Touristenweg,,,,way
 Town-Town-Spange,,,,way
 Trabertgasse,,,,way
 Trabrennstraße,,,,way
-Traisengasse,,,,way
 Traklgasse,,,,way
 Trambauerstraße,,,,way
 Traminergasse,,,,way
@@ -6293,11 +6242,11 @@ Türkenschanzstraße,,,,way
 Türkenstraße,,,,way
 Türkisgasse,,,,way
 Turmburggasse,,,,way
-Turnergasse,,,,way
 Tuschlgasse,,,,way
 Twarochgasse,,,,way
 Typopassage,,,,way
 "Tyrnauer Gasse",,,,way
+"U-Bahn Vorplatz Seestadt",,,,relation
 Überfuhrstraße,,,,way
 Überreiterweg,,,,way
 Udelweg,,,,way
@@ -6359,7 +6308,6 @@ Unterm-Wasserturm-Weg,,,,way
 Upsalagasse,,,,way
 Uraniastraße,,,,way
 Uranusweg,,,,way
-Urban-Loritz-Platz,,,,way
 Urbangasse,,,,way
 Urschenböckgasse,,,,way
 Urselbrunnengasse,,,,way
@@ -6403,7 +6351,6 @@ Victor-Braun-Platz,,,,way
 Victor-Gruen-Gasse,,,,way
 Viehmarktgasse,,,,way
 Viehtriftgasse,,,,way
-Vierthalergasse,,,,way
 Viktor-Adler-Platz,,,,way
 Viktor-C.-Frankl-Weg,,,,way
 Viktor-Christ-Gasse,,,,way
@@ -6426,7 +6373,6 @@ Viriotgasse,,,,way
 Vitusgasse,,,,way
 Vivaldigasse,,,,way
 Vivariumstraße,,,,way
-Vivenotgasse,,,,way
 Vizanigasse,,,,way
 Vogelbeerengasse,,,,way
 Vogelsanggasse,,,,way
@@ -6596,7 +6542,6 @@ Weidlichgasse,,,,way
 "Weidlinger Damm",,,,way
 Weidmanngasse,,,,way
 Weigandhof,,,,way
-Weiglgasse,,,,way
 Weihburggasse,,,,way
 Weilandgasse,,,,way
 Weilgasse,,,,way
@@ -6660,7 +6605,6 @@ Werthenburggasse,,,,way
 Weschelstraße,,,,way
 Westautobahn,,,,way
 Westbahnhof,,,,way
-Westbahnstraße,,,,way
 Westermayergasse,,,,way
 Wettengelgasse,,,,way
 Wettsteingasse,,,,way
@@ -6701,6 +6645,7 @@ Wienflussweg,,,,way
 "Wienflussweg - St. Veiter Brücke",,,,way
 Wiengasse,,,,way
 Wieningerplatz,,,,way
+Wiental-Steg,,,,way
 Wientalstraße,,,,way
 Wiesberggasse,,,,way
 "Wieselburger Gasse",,,,way
@@ -6748,7 +6693,6 @@ Willerbrücke,,,,way
 Willergasse,,,,way
 Willi-Forst-Weg,,,,way
 Wiltweg,,,,way
-Wimbergergasse,,,,way
 Wimmergasse,,,,way
 Wimpffengasse,,,,way
 Wimpissingerweg,,,,way
@@ -6788,7 +6732,6 @@ Wöhlergasse,,,,way
 Wohlfahrtsweg,,,,way
 Wohlfühlweg,,,,way
 Wohlgemuthgasse,,,,way
-Wohllebengasse,,,,way
 Wohlmutstraße,,,,way
 Wohnparkstraße,,,,way
 Woinovichgasse,,,,way
@@ -6835,6 +6778,7 @@ Wurzbachtalgasse,,,,way
 Würzburggasse,,,,way
 Wurzingergasse,,,,way
 Ybbsstraße,,,,way
+Yehudi-Menuhin-Weg,,,,way
 Yppengasse,,,,way
 Yppenplatz,,,,way
 Z-Weg,,,,way
@@ -6915,7 +6859,6 @@ Zitterhofergasse,,,,way
 Zöchbauerstraße,,,,way
 Zohmanngasse,,,,way
 Zolagasse,,,,way
-Zollamtssteg,,,,way
 Zollergasse,,,,way
 Zollernsperggasse,,,,way
 Zollgasse,,,,way
