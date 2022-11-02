@@ -180,6 +180,7 @@ Adam-Betz-Gasse,,,,way
 Adambergergasse,,,,way
 Adamovichgasse,,,,way
 Adamsgasse,,,,way
+Adele-Jellinek-Promenade,,,,way
 Adele-Perlmutter-Platz,,,,relation
 "Aderklaaer Straße",,,,way
 Adolf-Amadeo-Gasse,,,,way
@@ -628,6 +629,7 @@ Bärenmühldurchgang,,,,way
 Barmherzigengasse,,,,way
 Barnabitengasse,,,,way
 Baron-Karl-Gasse,,,,way
+"Barrierefreier Zugang",,,,way
 Bartensteingasse,,,,way
 Barthgasse,,,,way
 Baschgasse,,,,way
@@ -1003,7 +1005,6 @@ Chmelgasse,,,,way
 Chrastekgasse,,,,way
 Christbaumkulturweg,,,,way
 Christenson-Steg,,,,way
-Christian-Broda-Platz,,,,way
 Christian-Bucher-Gasse,,,,way
 Christian-Petzlberger-Weg,,,,way
 Christian-von-Arup-Gasse,,,,way
@@ -1156,7 +1157,6 @@ Dirkensgasse,,,,way
 Dirmhirngasse,,,,way
 Dirndlgasse,,,,way
 Dirnelstraße,,,,way
-Dirnelwiese,,,,relation
 Distelweg,,,,way
 Dißlergasse,,,,way
 Ditscheinergasse,,,,way
@@ -1788,6 +1788,7 @@ Friedhofseingang,,,,way
 Friedhofstraße,,,,way
 Friedhofweg,,,,way
 Friedjunggasse,,,,way
+Friedl-Dicker-Brandeis-Promenade,,,,way
 Friedlgasse,,,,way
 Friedlweg,,,,way
 Friedmanngasse,,,,way
@@ -1971,7 +1972,7 @@ Gerstlgasse,,,,way
 Gerstmayerweg,,,,way
 Gerstnerstraße,,,,way
 Gersunygasse,,,,way
-Gertrude-Bodenwieser-Gasse,,,,way
+Gertrud-Bodenwieser-Gasse,,,,way
 Gertrude-Fröhlich-Sandner-Straße,,,,way
 Gertrudplatz,,,,relation+way
 Gerunggasse,,,,way
@@ -2463,7 +2464,6 @@ Heizwerkstraße,,,,way
 Helblinggasse,,,,way
 Heldenplatz,,,,way
 Helen-Keller-Gasse,,,,way
-Helene-Bauer-Platz,,,,way
 Helene-Lieser-Platz,,,,way
 Helene-Odilon-Gasse,,,,way
 Helene-Richter-Gasse,,,,way
@@ -2479,7 +2479,7 @@ Helmergasse,,,,way
 Helmholtzgasse,,,,way
 Helscherweg,,,,way
 Henckellgasse,,,,way
-Henneberggasse,,,,way
+Henriette-Willardt-Promenade,,,,way
 Henriette-von-Nassau-Weg,,,,way
 Henslerstraße,,,,way
 Hentschelgasse,,,,way
@@ -3888,7 +3888,6 @@ Lüssenpromenade,,,,way
 Lustgasse,,,,way
 Lusthausstraße,,,,way
 Lustkandlgasse,,,,way
-Lutherplatz,,,,way
 Lützowgasse,,,,way
 Luzegasse,,,,way
 Lynkeusgasse,,,,way
@@ -3968,7 +3967,6 @@ Margit-Doppler-Gasse,,,,way
 Maria-Andergast-Weg,,,,way
 Maria-Grengg-Gasse,,,,way
 Maria-Hirschler-Weg,,,,way
-Maria-Jacobi-Gasse,,,,way
 Maria-Jeritza-Weg,,,,way
 Maria-Kuhn-Gasse,,,,way
 Maria-Merian-Gasse,,,,way
@@ -5989,7 +5987,7 @@ Strohmayergasse,,,,way
 Stromstraße,,,,way
 Strozzigasse,,,,way
 Strudlhofgasse,,,,way
-Strudlhofstiege,,,,relation
+Strudlhofstiege,,,,relation+way
 Strunzgasse,,,,way
 Stryeckgasse,,,,way
 Stubenbastei,,,,way
@@ -6360,6 +6358,7 @@ Viktorgasse,,,,way
 Viktoriagasse,,,,way
 Vilicusweg,,,,way
 Villenweg,,,,way
+Vilma-Steindling-Promenade,,,,way
 Vinzenz-Hauschka-Gasse,,,,way
 Vinzenz-Heß-Gasse,,,,way
 Vinzenzgasse,,,,way
