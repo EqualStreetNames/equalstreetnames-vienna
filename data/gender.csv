@@ -3,6 +3,7 @@ Augustinplatz,wikidata,+,Q12218328;Q446684,way
 Bloch-Bauer-Promenade,wikidata,+,Q90205;Q1280247,way
 Proschkogasse,wikidata,+,Q87313;Q59653275,way
 Tausigplatz,wikidata,+,Q90438;Q90466,way
+Ada-Christen-Gasse,wikidata,F,Q85002,way
 Ada-Lovelace-Straße,wikidata,F,Q7259,way
 Adelheid-Popp-Gasse,wikidata,F,Q34391,way
 Agnes-Primocic-Gasse,wikidata,F,Q394620,way
@@ -54,9 +55,9 @@ Johanna-Dohnal-Platz,wikidata,F,Q112494,way
 Josefine-Wessely-Weg,wikidata,F,Q390428,way
 Kenyongasse,wikidata,F,Q111568928,way
 Klährgasse,wikidata,F,Q55907560,way
-Längenfeldgasse,wikidata,F,Q1708402,way
 Lella-Lombardi-Gasse,wikidata,F,Q171569,way
 Leopoldine-Glöckel-Weg,wikidata,F,Q1819939,way
+Lotte-Lang-Platz,wikidata,F,Q89481,way
 Lydia-Sicher-Gasse,wikidata,F,Q1719995,way
 Margarete-Seemann-Weg,wikidata,F,Q1895025,way
 Maria-Jacobi-Gasse,wikidata,F,Q1123834,way
@@ -86,6 +87,7 @@ Weißenthurngasse,wikidata,F,Q1696932,way
 Abraham-a-Sancta-Clara-Gasse,wikidata,M,Q61137,way
 Adolf-Blamauer-Gasse,wikidata,M,Q360989,way
 Ahornergasse,wikidata,M,Q111569011,way
+Ailecgasse,wikidata,M,Q12792944,way
 Albertgasse,wikidata,M,Q60657,way
 Albertplatz,wikidata,M,Q60657,way
 Albrechtsbergergasse,wikidata,M,Q314164,way
@@ -113,6 +115,7 @@ Bennoplatz,wikidata,M,Q817975,way
 Benyastraße,wikidata,M,Q114987,way
 Bernardgasse,wikidata,M,Q62967972,way
 Bischoffgasse,wikidata,M,Q1657516,way
+Bleichsteinerstraße,wikidata,M,Q1283212,way
 Böckhgasse,wikidata,M,Q1447154,way
 Boërgasse,wikidata,M,Q1695394,way
 Boerhaavegasse,wikidata,M,Q313093,way
@@ -158,6 +161,7 @@ Erzherzog-Johann-Platz,wikidata,M,Q93427,way
 Eschenbachgasse,wikidata,M,Q107998545,way
 Esteplatz,wikidata,M,Q43063,way
 Ettenreichgasse,wikidata,M,Q1704557,way
+Fabianistraße,wikidata,M,Q597895,way
 Faradaygasse,wikidata,M,Q8750,way
 Faulmanngasse,wikidata,M,Q75420,way
 Fockygasse,wikidata,M,Q1160684,way
@@ -165,6 +169,7 @@ Franz-Emerich-Gasse,wikidata,M,Q1446658,way
 Franz-Josefs-Kai,wikidata,M,Q51056,relation+way
 Franzensbrücke,wikidata,M,Q130834,way
 Fraungrubergasse,wikidata,M,Q1579532,way
+Fred-Zinnemann-Platz,wikidata,M,Q55420,relation+way
 Friedrich-Schmidt-Platz,wikidata,M,Q77431,way
 Friedrichstraße,wikidata,M,Q150966,way
 Fritz-Grünbaum-Platz,wikidata,M,Q87857,way
@@ -219,6 +224,8 @@ Hofmoklgasse,wikidata,M,Q1693298,way
 Hohenbergstraße,wikidata,M,Q1693429,way
 Hufelandgasse,wikidata,M,Q32257,way
 Hugo-Wiener-Platz,wikidata,M,Q1635855,way
+Humboldtgasse,wikidata,M,Q6694,way
+Humboldtplatz,wikidata,M,Q6694,way
 Hundertwasser-Promenade,wikidata,M,Q151836,way
 Hüttenbrennergasse,wikidata,M,Q569557,way
 Hyegasse,wikidata,M,Q590412,way
@@ -261,6 +268,7 @@ Köglergasse,wikidata,M,Q94891794,way
 Kolonitzgasse,wikidata,M,Q695352,way
 Kolonitzplatz,wikidata,M,Q695352,relation+way
 Kopernikusgasse,wikidata,M,Q619,way
+Kossmatplatz,wikidata,M,Q87881,way
 Krastelgasse,wikidata,M,Q1440717,way
 Kreutzingergasse,wikidata,M,Q1705056,way
 Krotenthallergasse,wikidata,M,Q60816410,way
@@ -273,6 +281,7 @@ Kürnbergergasse,wikidata,M,Q669703,way
 Kurt-Pint-Platz,wikidata,M,Q53537519,relation
 Kutschkergasse,wikidata,M,Q78985,way
 Laskegasse,wikidata,M,Q2033812,way
+Leebgasse,wikidata,M,Q89485,way
 Leopold-Böhm-Straße,wikidata,M,Q1687621,way
 Leopold-Figl-Gasse,wikidata,M,Q11715,way
 Leopold-Gratz-Platz,wikidata,M,Q78999,way
@@ -358,6 +367,7 @@ Rüdigergasse,wikidata,M,Q551615,way
 Rudolf-Sallinger-Platz,wikidata,M,Q2173685,way
 Rudolf-von-Alt-Platz,wikidata,M,Q638183,way
 Ruttenstockgasse,wikidata,M,Q55133988,way
+Safargasse,wikidata,M,Q684673,way
 Schallautzerstraße,wikidata,M,Q1613538,way
 Schallergasse,wikidata,M,Q682953,way
 Schaurhofergasse,wikidata,M,Q55675597,way
@@ -371,6 +381,7 @@ Schreyvogelgasse,wikidata,M,Q94645,way
 Schrutkagasse,wikidata,M,Q55886420,way
 Schuhmeierplatz,wikidata,M,Q1031252,way
 Schwarzenbergplatz,wikidata,M,Q163755,way
+Schwarzgrubergasse,wikidata,M,Q2173782,way
 Schwendergasse,wikidata,M,Q60822047,way
 Schwindgasse,wikidata,M,Q551901,way
 Sechtergasse,wikidata,M,Q582713,way
@@ -378,10 +389,12 @@ Seidlgasse,wikidata,M,Q86587,way
 Semperstraße,wikidata,M,Q61342,way
 Sigmundsgasse,wikidata,M,Q2284807,way
 Skodagasse,wikidata,M,Q79165;Q2639631,way
+Sobieskiplatz,wikidata,M,Q53454,way
 Spießhammergasse,wikidata,M,Q688647,way
 Stelzhamergasse,wikidata,M,Q45580,way
 Steudelgasse,wikidata,M,Q1694505,way
 Stollgasse,wikidata,M,Q214177,way
+Stolzenthalergasse,wikidata,M,Q29460289,way
 Stranitzkygasse,wikidata,M,Q85811,way
 Stüber-Gunther-Gasse,wikidata,M,Q1468581,way
 Tautenhayngasse,wikidata,M,Q88874,way
@@ -395,6 +408,7 @@ Tyroltgasse,wikidata,M,Q1721446,way
 Uchatiusgasse,wikidata,M,Q79129,way
 Uhlplatz,wikidata,M,Q114983,way
 Urban-Loritz-Platz,wikidata,M,Q1394733,way
+Victor-Braun-Platz,wikidata,M,Q1479962,way
 Vierthalergasse,wikidata,M,Q2696190,way
 Vivenotgasse,wikidata,M,Q55127113,way
 Vogelweidplatz,wikidata,M,Q44385,way
