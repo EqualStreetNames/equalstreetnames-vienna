@@ -128,6 +128,7 @@ Sonnenallee,wikidata,,Q540191,way
 Sparefrohgasse,wikidata,,Q1682039,way
 "Spittelauer Steg",wikidata,,Q440448,way
 Spittelberggasse,wikidata,,Q1587233,way
+St.-Bartholomäus-Platz,wikidata,,Q1722766,way
 St.-Elisabeth-Platz,wikidata,,Q159862;Q2318104,way
 St.-Ulrichs-Platz,wikidata,,Q2477141,way
 Stephansplatz,wikidata,,Q5943,relation+way
@@ -1074,7 +1075,7 @@ Czerninplatz,,,,way
 Czibulkagasse,,,,way
 Czubergasse,,,,way
 D,,,,relation
-D’Orsaygasse,,,,way
+D'Orsaygasse,,,,way
 "DZ Arena",,,,way
 "DZ Nova",,,,way
 Dachsensteig,,,,way
@@ -1393,7 +1394,6 @@ Eitnergasse,,,,way
 Elderschplatz,,,,way
 "Electric Avenue",,,,way
 Elfingerweg,,,,way
-Elfriede-Gerstl-Steg,,,,way
 Elidagasse,,,,way
 Elisabeth-Bergner-Weg,,,,way
 Elisabeth-Freundlich-Weg,,,,way
@@ -2454,7 +2454,6 @@ Heinrichsgasse,,,,way
 Heinz-Holecek-Platz,,,,way
 Heinz-Lazek-Weg,,,,way
 Heinz-Nittel-Weg,,,,way
-Heinz-Werner-Schimanko-Weg,,,,way
 Heinzelmanngasse,,,,way
 Heistergasse,,,,way
 Heißgasse,,,,way
@@ -2495,6 +2494,7 @@ Herklotzgasse,,,,way
 "Hermann Pacher-Weg",,,,way
 Hermann-Bahr-Straße,,,,way
 Hermann-Gebauer-Straße,,,,way
+Hermann-Glück-Weg,,,,way
 Hermann-Greulich-Platz,,,,way
 Hermann-Langbein-Weg,,,,way
 Hermann-Lanske-Weg,,,,way
@@ -4798,7 +4798,6 @@ Praschnikerweg,,,,way
 "Prater Hochstraße",,,,way
 "Prater Platz F",,,,way
 Praterbrücke,,,,way
-Praterlände,,,,way
 Praterspitzstraße,,,,way
 Praterstern,,,,relation+way
 Praterstraße,,,,way
