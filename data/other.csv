@@ -73,6 +73,7 @@ Markgraf-Rüdiger-Straße,wikidata,,Q1651599,way
 "Marx-Meidlinger Straße",wikidata,,Q1730731;Q2237824,way
 "Matzleinsdorfer Platz",wikidata,,Q1910897,way
 "Maurer Lange Gasse",wikidata,,Q1910986,way
+Max-Weiler-Platz,wikidata,,Q2523348,way
 "Meidlinger Hauptstraße",wikidata,,Q697557,way
 "Meidlinger Platzl",wikidata,,Q697557,way
 Michaelerplatz,wikidata,,Q877584,relation
@@ -123,6 +124,7 @@ Schwedenplatz,wikidata,,Q34,relation+way
 "Sechshauser Straße",wikidata,,Q2263631,way
 Seitenstettengasse,wikidata,,Q37996254,way
 Siebensternplatz,wikidata,,Q47532165,relation
+Singerstraße,wikidata,,Q107024680,way
 Sommerweg,wikidata,,Q1313,way
 Sonnenallee,wikidata,,Q540191,way
 Sparefrohgasse,wikidata,,Q1682039,way
@@ -238,6 +240,7 @@ Alexander-Nehr-Gasse,,,,way
 Alexander-Poch-Platz,,,,way
 Alfons-Mucha-Weg,,,,way
 Alfons-Petzold-Gasse,,,,way
+Alfred-Grasel-Gasse,,,,way
 Alfred-Grünfeld-Gasse,,,,way
 Alfred-Huth-Gasse,,,,way
 Alfred-Kubin-Platz,,,,way
@@ -297,6 +300,7 @@ Altomontegasse,,,,way
 Altwirthgasse,,,,way
 Alvarsgasse,,,,way
 Alxingergasse,,,,way
+"Am Albert-Schultz-Park",,,,way
 "Am Augartenspitz",,,,way
 "Am Auwald",,,,way
 "Am Badfeld",,,,way
@@ -432,6 +436,7 @@ Angyalföldstraße,,,,way
 Anichweg,,,,way
 Anilingasse,,,,way
 Anisgasse,,,,way
+Anita-Berber-Gasse,,,,way
 Anitta-Müller-Cohen-Platz,,,,way
 Anna-Bastel-Gasse,,,,way
 Anna-Boschek-Platz,,,,way
@@ -515,6 +520,7 @@ Arnikaweg,,,,way
 Arnimgasse,,,,way
 Arnold-Holm-Gasse,,,,way
 Arnold-Pollak-Brücke,,,,way
+Arnold-Rosé-Gasse,,,,way
 Arnoldgasse,,,,way
 Arsenalstraße,,,,way
 Artariastraße,,,,way
@@ -922,6 +928,7 @@ Bruno-Kreisky-Platz,,,,way
 Bruno-Marek-Allee,,,,way
 Bruno-Pezzey-Weg,,,,way
 Bruno-Pittermann-Platz,,,,relation
+Bruno-Walter-Gasse,,,,way
 Brüßlgasse,,,,way
 Bubergasse,,,,way
 Buchbergstraße,,,,way
@@ -1008,7 +1015,7 @@ Christenson-Steg,,,,way
 Christian-Bucher-Gasse,,,,way
 Christian-Petzlberger-Weg,,,,way
 Christian-von-Arup-Gasse,,,,way
-Christinengasse,,,,way
+Christine-Lavant-Gasse,,,,way
 Christmanngasse,,,,way
 Christophgasse,,,,way
 Chrobakgasse,,,,way
@@ -1019,6 +1026,8 @@ Chvostekgasse,,,,way
 Chwallagasse,,,,way
 Cilli-Löwinger-Weg,,,,way
 Cizekplatz,,,,way
+Claire-Bauroff-Gasse,,,,way
+Clara-Schumann-Gasse,,,,way
 Claretinergasse,,,,way
 Claudia-Dietl-Platz,,,,way
 Claudia-Heill-Weg,,,,way
@@ -1240,7 +1249,6 @@ Dr.-Heinrich-Müller-Gasse,,,,way
 Dr.-Jakob-Neumann-Steig,,,,way
 Dr.-Josef-Resch-Platz,,,,way
 Dr.-Josef-Stiny-Weg,,,,way
-Dr.-Karl-Renner-Ring,,,,way
 Dr.-Karl-von-Terzaghi-Weg,,,,way
 Dr.-Kühne-Gasse,,,,way
 Dr.-Leopold-Müller-Weg,,,,way
@@ -1422,6 +1430,7 @@ Emilie-Bach-Weg,,,,way
 Emilie-Flöge-Weg,,,,way
 Emilienstiege,,,,way
 Emmerich-Fasching-Gasse,,,,way
+Emmi-Freundlich-Gasse,,,,way
 Emmi-Pikler-Straße,,,,way
 Empergergasse,,,,way
 Endemanngasse,,,,way
@@ -1809,6 +1818,7 @@ Frimmelgasse,,,,way
 Fritz-Feigl-Weg,,,,way
 Fritz-Kandl-Gasse,,,,way
 Fritz-Kastner-Weg,,,,way
+Fritz-Kreisler-Weg,,,,way
 Fritz-Moravec-Steig,,,,way
 Fritz-Pregl-Gasse,,,,way
 Fritz-Steinbach-Gasse,,,,way
@@ -2052,7 +2062,6 @@ Goldschlagstraßenbrücke,,,,way
 Goldschmiedgasse,,,,way
 Goldsterngasse,,,,way
 Göllnergasse,,,,way
-Gölsdorfgasse,,,,way
 Goltzgasse,,,,way
 Gombrichgasse,,,,way
 Gomperzgasse,,,,way
@@ -2215,6 +2224,7 @@ Gussenbauergasse,,,,way
 Gustav-Brünner-Gasse,,,,way
 Gustav-Fischer-Steig,,,,way
 Gustav-Holzmann-Platz,,,,way
+Gustav-Merten-Platz,,,,way
 Gustav-Pick-Gasse,,,,way
 Gustav-Seidel-Gasse,,,,way
 Gustav-Tschermak-Gasse,,,,way
@@ -2337,6 +2347,7 @@ Hans-Schilder-Platz,,,,way
 Hans-Spitzy-Gasse,,,,way
 Hans-Steger-Gasse,,,,way
 Hans-Temple-Gasse,,,,way
+Hans-Weigel-Gasse,,,,way
 Hansalgasse,,,,way
 Hanschweg,,,,way
 Hanschwegbrücke,,,,way
@@ -2889,6 +2900,7 @@ Johann-Hörbiger-Gasse,,,,way
 Johann-Jakisch-Weg,,,,way
 Johann-Josef-Krätzer-Gasse,,,,way
 Johann-Knoll-Gasse,,,,way
+Johann-Kresnik-Gasse,,,,way
 Johann-Kutschera-Gasse,,,,way
 Johann-Laufner-Gasse,,,,way
 Johann-Nepomuk-Berger-Platz,,,,way
@@ -2979,6 +2991,7 @@ Joseph-Lister-Gasse,,,,way
 Joseph-Roth-Gasse,,,,way
 Joseph-Schmidt-Platz,,,,way
 Joseph-Wagner-Weg,,,,way
+Josepha-Auernhammer-Gasse,,,,way
 Juchgasse,,,,way
 Judengasse,,,,way
 Judenplatz,,,,relation+way
@@ -3094,6 +3107,7 @@ Kardinal-Piffl-Gasse,,,,way
 Kardinal-Rauscher-Platz,,,,relation+way
 Kargergasse,,,,way
 "Karl Urban Weg",,,,way
+Karl-Abarth-Gasse,,,,way
 Karl-Aschenbrenner-Gasse,,,,way
 Karl-Beck-Gasse,,,,way
 Karl-Bednarik-Gasse,,,,way
@@ -3630,6 +3644,7 @@ Lechnerstraße,,,,way
 Lechthalergasse,,,,way
 Lederergasse,,,,relation
 Ledererhof,,,,way
+Lee-Miller-Promenade,,,,way
 Leegasse,,,,way
 Lehárgasse,,,,way
 Lehenstraße,,,,way
@@ -3756,6 +3771,7 @@ Liliengasse,,,,way
 Lilienweg,,,,way
 Lilly-Dillenz-Straße,,,,way
 Lina-Bo-Bardi-Platz,,,,way
+Lina-Loos-Platz,,,,way
 Lindauergasse,,,,way
 Lindenallee,,,,way
 Lindenbauergasse,,,,way
@@ -3840,7 +3856,7 @@ Lotte-Lehmann-Weg,,,,way
 Lotte-Lenya-Platz,,,,way
 Lotte-Profohs-Weg,,,,way
 Lottgasse,,,,way
-"Loudonsteg (abgerissen, Neubau in 2022)",,,,way
+Loudonsteg,,,,way
 Loudonstraße,,,,way
 Louis-Häfliger-Gasse,,,,way
 Louise-Martini-Weg,,,,way
@@ -3920,6 +3936,7 @@ Malmögasse,,,,way
 Malvengasse,,,,way
 Mälzelplatz,,,,way
 Malzgasse,,,,way
+Man-Ray-Promenade,,,,way
 Mandlgasse,,,,way
 Mannaberggasse,,,,way
 Mannagettagasse,,,,way
@@ -3937,7 +3954,6 @@ Marangasse,,,,way
 Marathonweg,,,,way
 Marbodgasse,,,,way
 Marburggasse,,,,way
-Marc-Aurel-Straße,,,,way
 Marcel-Prawy-Promenade,,,,way
 Märchenfigurenweg,,,,way
 Marchesigasse,,,,way
@@ -3975,6 +3991,7 @@ Maria-Welser-Platz,,,,way
 "Mariabrunner Straße",,,,way
 "Mariahilfer Gürtel",,,,way
 "Mariahilfer Straße",,,,way
+Marianna-Martines-Weg,,,,way
 Marianne-Pollak-Gasse,,,,way
 Marianne-Schönauer-Gasse,,,,way
 Mariannengasse,,,,way
@@ -4057,7 +4074,6 @@ Max-Mauermann-Gasse,,,,way
 Max-Patat-Weg,,,,way
 Max-Raub-Weg,,,,way
 Max-Reinhardt-Gasse,,,,way
-Max-Weiler-Platz,,,,way
 Max-Winter-Platz,,,,way
 Maxie-Wander-Gasse,,,,way
 Maximilian-Reich-Weg,,,,way
@@ -5676,7 +5692,6 @@ Sinagasse,,,,way
 Sinawastingasse,,,,way
 Sindelargasse,,,,way
 Sindinggasse,,,,way
-Singerstraße,,,,way
 Singrienergasse,,,,way
 Sintiweg,,,,way
 Siolygasse,,,,way
