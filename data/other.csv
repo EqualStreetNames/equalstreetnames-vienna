@@ -324,7 +324,7 @@ Alxingergasse,,,,way
 "Am Heidjöchl",,,,way
 "Am Heumarkt",,,,way
 "Am Himmelreich",,,,way
-"Am Hof",,,,relation+way
+"Am Hof",,,,way
 "Am Hofgartel",,,,way
 "Am Hubertusdamm",,,,way
 "Am Hundsturm",,,,way
@@ -428,7 +428,6 @@ Anfanggasse,,,,way
 Angela-Stadtherr-Gasse,,,,way
 Angeligasse,,,,way
 "Angerer Straße",,,,way
-Angergasse,,,,way
 Angermayergasse,,,,way
 Anglerweg,,,,way
 Angoraweg,,,,way
@@ -1359,6 +1358,7 @@ Egon-Haug-Gasse,,,,way
 Egon-Schiele-Gasse,,,,way
 Ehamgasse,,,,way
 "Ehamgasse Fußweg",,,,way
+Ehmweg,,,,way
 Ehngasse,,,,way
 Ehrenpreisgasse,,,,way
 Ehrensteingasse,,,,way
@@ -1443,7 +1443,6 @@ Enenkelstraße,,,,way
 Engelbrechtweg,,,,way
 Engelhartgasse,,,,way
 Engelhorngasse,,,,way
-Engelmanngasse,,,,way
 Engelsburggasse,,,,way
 Engelshofengasse,,,,way
 Engerthstraße,,,,way
@@ -1547,6 +1546,7 @@ Falcostiege,,,,way
 Falkestraße,,,,way
 Fallgasse,,,,way
 Fallmerayerweg,,,,way
+Falschlehnerweg,,,,way
 Familienplatz,,,,way
 Fännergasse,,,,way
 Fännersteg,,,,way
@@ -2503,6 +2503,7 @@ Herbststraße,,,,way
 Herchenhahngasse,,,,way
 Herderplatz,,,,way
 Heribert-Meisel-Gasse,,,,way
+Heribert-Rath-Weg,,,,way
 Heringgasse,,,,way
 Herklotzgasse,,,,way
 "Hermann Katinger-Stiege",,,,way
@@ -3767,7 +3768,6 @@ Liesingbachstraße,,,,way
 "Liesinger Platz",,,,way
 Liesinger-Flur-Gasse,,,,way
 Liesneckgasse,,,,way
-Ligusterweg,,,,way
 Lili-Grün-Platz,,,,way
 Lilienberggasse,,,,way
 Lilienbrunngasse,,,,way
@@ -3856,6 +3856,7 @@ Lößlweg,,,,way
 Lotheißengasse,,,,way
 Lothringerstraße,,,,way
 Lotsenweg,,,,way
+Lotte-Hass-Weg,,,,way
 Lotte-Lehmann-Weg,,,,way
 Lotte-Lenya-Platz,,,,way
 Lotte-Profohs-Weg,,,,way
@@ -5125,6 +5126,7 @@ Rosenkranzweg,,,,way
 Rosensteingasse,,,,way
 Rosentalgasse,,,,way
 Rosenweg,,,,way
+Rosenweg-Schafberg,,,,way
 Rosenzeile,,,,way
 Rosinagasse,,,,way
 Rosiwalgasse,,,,way
@@ -6252,7 +6254,6 @@ Tuschlgasse,,,,way
 Twarochgasse,,,,way
 Typopassage,,,,way
 "Tyrnauer Gasse",,,,way
-"U-Bahn Vorplatz Seestadt",,,,relation
 Überfuhrstraße,,,,way
 Überreiterweg,,,,way
 Udelweg,,,,way
@@ -6308,7 +6309,6 @@ Unterfeldweg,,,,way
 "Unterführung Rappachgasse",,,,way
 "Unterlaaer Platz",,,,way
 "Unterlaaer Straße",,,,way
-Unterm-Wasserturm-Weg,,,,way
 "Uphill Trail",,,,way
 Upsalagasse,,,,way
 Uraniastraße,,,,way
@@ -6617,6 +6617,7 @@ Weyprechtgasse,,,,way
 Weyringergasse,,,,way
 Wichnergasse,,,,way
 Wichtelgasse,,,,way
+"Wichtiges Rad-Verbindungsstsück - allerdings Schiebestelle",,,,way
 Wickenburggasse,,,,way
 Wickengasse,,,,way
 Wickhoffgasse,,,,way
@@ -6731,7 +6732,6 @@ Wodiczkagasse,,,,way
 Wögingergasse,,,,way
 Wöhlergasse,,,,way
 Wohlfahrtsweg,,,,way
-Wohlfühlweg,,,,way
 Wohlgemuthgasse,,,,way
 Wohlmutstraße,,,,way
 Wohnparkstraße,,,,way
