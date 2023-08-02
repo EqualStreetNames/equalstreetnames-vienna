@@ -30,6 +30,7 @@ Elisabethallee,wikidata,F,Q150782,way
 Ella-Lingens-Straße,wikidata,F,Q94547,way
 Ellen-Key-Gasse,wikidata,F,Q238443,way
 Ertlgasse,wikidata,F,Q94622152,way
+Eugenie-Schwarzwald-Weg,wikidata,F,Q79173,way
 Eva-Maria-Mazzucco-Platz,wikidata,F,Q19361241,way
 Frenkel-Brunswik-Gasse,wikidata,F,Q87963,way
 Friesgasse,wikidata,F,Q22083797,way
@@ -96,6 +97,7 @@ Albrechtsbergergasse,wikidata,M,Q314164,way
 Alfred-Adler-Straße,wikidata,M,Q152393,way
 Alfred-Dallinger-Platz,wikidata,M,Q1551072,way
 Alois-Czedik-Steg,wikidata,M,Q1404703,way
+Alvarsgasse,wikidata,M,Q937452,way
 "Am Fuchsenfeld",wikidata,M,Q158899,way
 Am-Hans-Moser-Park,wikidata,M,Q113705,way
 Andersengasse,wikidata,M,Q5673,way
@@ -178,6 +180,7 @@ Friedrichstraße,wikidata,M,Q150966,way
 Fritz-Grünbaum-Platz,wikidata,M,Q87857,way
 Fritz-Hahn-Gasse,wikidata,M,Q1459481,way
 Führichgasse,wikidata,M,Q324318,way
+Furtwänglerplatz,wikidata,M,Q57285,way
 Gänsbachergasse,wikidata,M,Q1669362,way
 Gaßmannstraße,wikidata,M,Q700816,way
 Gaußplatz,wikidata,M,Q6722,way
@@ -340,6 +343,7 @@ Oskar-Werner-Platz,wikidata,M,Q84489,way
 Oswaldgasse,wikidata,M,Q336016,way
 Otto-Bondy-Platz,wikidata,M,Q24050605,way
 Otto-Preminger-Straße,wikidata,M,Q52997,way
+Parttartgasse,wikidata,M,Q55681301,way
 Pater-Schwartz-Gasse,wikidata,M,Q86031,way
 Paul-Amann-Brücke,wikidata,M,Q2058694,way
 Per-Albin-Hansson-Straße,wikidata,M,Q53660,way
@@ -365,6 +369,7 @@ Rizygasse,wikidata,M,Q60820808,way
 Robert-Hamerling-Gasse,wikidata,M,Q79088,way
 Roesnergasse,wikidata,M,Q422668,way
 Rohrbacherstraße,wikidata,M,Q60820881,way
+Romakogasse,wikidata,M,Q562614,way
 Rosasgasse,wikidata,M,Q596386,way
 Rothkirchgasse,wikidata,M,Q55860192,way
 Rottmayrgasse,wikidata,M,Q674772,way
@@ -385,6 +390,7 @@ Schrankgasse,wikidata,M,Q20755265,way
 Schreyvogelgasse,wikidata,M,Q94645,way
 Schrutkagasse,wikidata,M,Q55886420,way
 Schuhmeierplatz,wikidata,M,Q1031252,way
+Schurzgasse,wikidata,M,Q55126414,way
 Schwarzenbergplatz,wikidata,M,Q163755,way
 Schwarzgrubergasse,wikidata,M,Q2173782,way
 Schwendergasse,wikidata,M,Q60822047,way
@@ -412,14 +418,16 @@ Treitlstraße,wikidata,M,Q55889681,way
 Tyroltgasse,wikidata,M,Q1721446,way
 Uchatiusgasse,wikidata,M,Q79129,way
 Uhlplatz,wikidata,M,Q114983,way
-Urban-Loritz-Platz,wikidata,M,Q1394733,way
+Urban-Loritz-Platz,wikidata,M,Q1394733,relation+way
 Victor-Braun-Platz,wikidata,M,Q1479962,way
 Vierthalergasse,wikidata,M,Q2696190,way
 Vivenotgasse,wikidata,M,Q55127113,way
 Vogelweidplatz,wikidata,M,Q44385,way
+Walter-Jurmann-Gasse,wikidata,M,Q215611,way
 Walulisobrücke,wikidata,M,Q1436033,way
 Weiglgasse,wikidata,M,Q78798,way
 Weyrgasse,wikidata,M,Q876804,way
+Wiegelestraße,wikidata,M,Q1449449,way
 Wielandgasse,wikidata,M,Q154010,way
 Wielandplatz,wikidata,M,Q154010,way
 Wildgansplatz,wikidata,M,Q84894,way
@@ -427,6 +435,7 @@ Wilhelmstraße,wikidata,M,Q60822073,way
 Wimbergergasse,wikidata,M,Q104985174,way
 Wohllebengasse,wikidata,M,Q1545140,way
 Wolfganggasse,wikidata,M,Q2591610,way
+Wundtgasse,wikidata,M,Q75814,way
 Zamenhofgasse,wikidata,M,Q11758,way
 Zanaschkagasse,wikidata,M,Q2650510,way
 Zaunergasse,wikidata,M,Q1446106,way

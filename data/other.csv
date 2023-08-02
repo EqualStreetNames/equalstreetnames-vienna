@@ -7,6 +7,7 @@ Albertinaplatz,wikidata,,Q371908,way
 "Altmannsdorfer Anger",wikidata,,Q442551,way
 "Altmannsdorfer Straße",wikidata,,Q442551,way
 "Am Gestade",wikidata,,Q896586,way
+"Am Rosenhügel",wikidata,,Q21859814,way
 Amarantgasse,wikidata,,Q156344,way
 Apollogasse,wikidata,,Q619516,way
 Argentinierstraße,wikidata,,Q414,way
@@ -140,6 +141,7 @@ Stubenbrücke,wikidata,,Q2358079,way
 Tivolibrücke,wikidata,,Q2437258,way
 Tivoligasse,wikidata,,Q2437258,way
 Traisengasse,wikidata,,Q700692,way
+Tullnertalgasse,wikidata,,Q64521084,way
 Turnergasse,wikidata,,Q43450,way
 "Unter-Meidlinger Straße",wikidata,,Q1448542,relation+way
 Westbahnstraße,wikidata,,Q694717,way
@@ -149,7 +151,6 @@ Winterweg,wikidata,,Q1311,way
 Zeismannsbrunngasse,wikidata,,Q1764894,way
 Zollamtssteg,wikidata,,Q29169592,way
 """Am Wasser""",,,,way
-1,,,,way
 "1. Haidequerstraße",,,,way
 "1. Molostraße",,,,way
 "11. Haidequerstraße",,,,way
@@ -158,7 +159,6 @@ Zollamtssteg,wikidata,,Q29169592,way
 "17. Weg",,,,way
 "18. Weg",,,,way
 "19. Weg Sonnheimweg",,,,way
-2,,,,way
 "4. Rosenbachsteg",,,,way
 "5. Rosenbachsteg",,,,way
 "7. Haidequerstraße",,,,way
@@ -190,6 +190,7 @@ Adamsgasse,,,,way
 Adele-Jellinek-Promenade,,,,way
 Adele-Perlmutter-Platz,,,,relation
 "Aderklaaer Straße",,,,way
+"Adolf Sibor Weg",,,,way
 Adolf-Amadeo-Gasse,,,,way
 Adolf-Czettel-Gasse,,,,way
 Adolf-Gstöttner-Gasse,,,,way
@@ -298,7 +299,6 @@ Althoff-Jacobi-Gasse,,,,way
 Altmüttergasse,,,,way
 Altomontegasse,,,,way
 Altwirthgasse,,,,way
-Alvarsgasse,,,,way
 Alxingergasse,,,,way
 "Am Albert-Schultz-Park",,,,way
 "Am Augartenspitz",,,,way
@@ -349,7 +349,6 @@ Alxingergasse,,,,way
 "Am Ries",,,,way
 "Am Rollerdamm",,,,way
 "Am Rosenberg",,,,way
-"Am Rosenhügel",,,,way
 "Am Russwasser",,,,way
 "Am Schierlinggrund",,,,way
 "Am Schöpfwerk",,,,way
@@ -559,6 +558,7 @@ Augasse,,,,way
 Äugelbrücke,,,,way
 Äugelgasse,,,,way
 Augentrostgasse,,,,way
+Augrundweg,,,,way
 August-Forel-Gasse,,,,way
 August-Gliederer-Straße,,,,way
 August-Greiml-Weg,,,,way
@@ -689,6 +689,7 @@ Bellinigasse,,,,way
 Belovskyweg,,,,way
 Belvedereallee,,,,way
 "Belvedereallee 2",,,,way
+Belvederegarten,,,,way
 Belvederegasse,,,,way
 Benatzkygasse,,,,way
 Bendagasse,,,,way
@@ -1520,7 +1521,6 @@ Ettingshausengasse,,,,way
 Eugen-Bormann-Gasse,,,,way
 Eugen-Jettel-Weg,,,,way
 Eugenie-Fink-Gasse,,,,way
-Eugenie-Schwarzwald-Weg,,,,way
 Eustachiusweg,,,,way
 Eva-Popper-Weg,,,,way
 Eva-Zilcher-Gasse,,,,way
@@ -1652,6 +1652,7 @@ Fischhof,,,,way
 Fischhofgasse,,,,way
 Fischingergasse,,,,way
 Fischottergasse,,,,way
+Fitznerweg,,,,way
 Fitzweg,,,,way
 "Fixsteg Yachtclub Seewind",,,,way
 Flachgasse,,,,way
@@ -1814,6 +1815,7 @@ Friedrich-Lieder-Weg,,,,way
 Friedrich-Manhart-Straße,,,,way
 Friedrich-Teller-Gasse,,,,way
 Friedrich-Wagner-Gasse,,,,way
+Friedrich-Wilhelm-Raiffeisen-Platz,,,,way
 Friedrichsplatz,,,,way
 Friedstraße,,,,way
 Friesenplatz,,,,way
@@ -1860,7 +1862,6 @@ Fürst-Liechtenstein-Straße,,,,way
 Fürstengasse,,,,way
 Fürstenhoferstraße,,,,way
 Fürthweg,,,,way
-Furtwänglerplatz,,,,way
 Füsterweg,,,,way
 "Fußgängerbrücke Stadlauer Ohr",,,,way
 "Fußweg Puffergasse",,,,way
@@ -2492,6 +2493,7 @@ Hellwagstraße,,,,way
 Helmergasse,,,,way
 Helmholtzgasse,,,,way
 Helscherweg,,,,way
+Hemi-Hirsch-Weg,,,,way
 Henckellgasse,,,,way
 Henriette-Willardt-Promenade,,,,way
 Henriette-von-Nassau-Weg,,,,way
@@ -2675,7 +2677,6 @@ Holbeingasse,,,,way
 Holetschekgasse,,,,way
 Holeyplatz,,,,way
 Hollandstraße,,,,way
-Hollandstraße;Friedrich-Wilhelm-Raiffeisen-Platz,,,,way
 Hollerweg,,,,way
 Hollgasse,,,,way
 Hollitzergasse,,,,way
@@ -3051,7 +3052,7 @@ Kafkastraße,,,,way
 Kaftangasse,,,,way
 "Kagraner Anger",,,,way
 "Kagraner Brücke",,,,way
-"Kagraner Platz",,,,relation
+"Kagraner Platz",,,,way
 "Kahlenberger Steg",,,,way
 "Kahlenberger Straße",,,,way
 Kahlergasse,,,,way
@@ -3375,6 +3376,7 @@ Kollersteig,,,,way
 Kolletschkagasse,,,,way
 Kollmayergasse,,,,way
 Köllnerhofgasse,,,,way
+Kolnhoferweg,,,,way
 Kolo-Moser-Gasse,,,,way
 Koloniestraße,,,,way
 Kolonieweg,,,,way
@@ -3639,6 +3641,7 @@ Laverangasse,,,,way
 "Laxenburger Straße",,,,way
 Layerweg,,,,way
 Lazarettgasse,,,,way
+Lazarettgassenweg,,,,way
 Lazargasse,,,,way
 Lazaristengasse,,,,way
 Lazarsfeldgasse,,,,way
@@ -4545,6 +4548,7 @@ Otmar-Brix-Gasse,,,,way
 "Ottakringer Straße",,,,way
 Otterweg,,,,way
 Ottillingerplatz,,,,way
+"Otto Bondy Platz",,,,way
 Otto-Bauer-Gasse,,,,way
 Otto-Benedik-Platz,,,,way
 Otto-Beyschlag-Gasse,,,,way
@@ -4608,13 +4612,13 @@ Parapluieteichsteg,,,,way
 Paraselgasse,,,,way
 Parhamerplatz,,,,way
 Parisergasse,,,,way
+"Parkanlage Dürrnbacherstraße",,,,way
 Parkbachbrücke,,,,way
 Parkgasse,,,,way
 Parkplatzbrücke,,,,way
 Parkring,,,,way
 Parkweg,,,,way
 Partlgasse,,,,way
-Parttartgasse,,,,way
 Paschinggasse,,,,way
 Pasettistraße,,,,way
 "Passage 103",,,,way
@@ -4824,7 +4828,6 @@ Prandaugasse,,,,way
 Praschnikerweg,,,,way
 "Prater 80er Linie",,,,way
 "Prater Hochstraße",,,,way
-"Prater Platz F",,,,way
 Praterbrücke,,,,way
 Praterspitzstraße,,,,way
 Praterstern,,,,relation+way
@@ -5095,7 +5098,6 @@ Rolandweg,,,,way
 Rollerwassersteg,,,,way
 Röllgasse,,,,way
 Rollingergasse,,,,way
-Romakogasse,,,,way
 Roman-Felleis-Gasse,,,,way
 Romanogasse,,,,way
 Romberggasse,,,,way
@@ -5415,6 +5417,7 @@ Schlickplatz,,,,way
 Schliemanngasse,,,,way
 Schließmanngasse,,,,way
 Schlimekgasse,,,,way
+"Schloss Neugebäude - Unterer Garten",,,,way
 Schlossallee,,,,way
 Schlossberggasse,,,,way
 Schlösselgasse,,,,way
@@ -5533,7 +5536,6 @@ Schulzgasse,,,,way
 Schumanngasse,,,,way
 Schumpeterweg,,,,way
 Schuppengasse,,,,way
-Schurzgasse,,,,way
 Schuselkagasse,,,,way
 Schusslinie,,,,way
 Schusswallgasse,,,,way
@@ -5566,6 +5568,7 @@ Schwarzwaldgasse,,,,way
 Schweglerstraße,,,,way
 Schweidlgasse,,,,way
 Schweizer-Garten-Straße,,,,way
+Schweizergarten,,,,way
 Schweizerhausplatz,,,,way
 Schweizerhof,,,,way
 Schweizertalstraße,,,,way
@@ -6243,7 +6246,6 @@ Tuchlauben,,,,way
 Tuchlaubenhof,,,,way
 Tuersgasse,,,,way
 Tulipanenweg,,,,way
-Tullnertalgasse,,,,way
 Tulpengasse,,,,way
 Tulpenweg,,,,way
 Tulzergasse,,,,way
@@ -6267,6 +6269,8 @@ Typopassage,,,,way
 Udelweg,,,,way
 Uetzgasse,,,,way
 Uferstiege,,,,way
+"Uferstiege Neue Donau",,,,way
+"Uferstiege Rechte Donau",,,,way
 Uferweg,,,,way
 Uhlandgasse,,,,way
 Uhligstraße,,,,way
@@ -6331,6 +6335,7 @@ Utopiaweg,,,,way
 Uzzi-Förster-Weg,,,,way
 Valentingasse,,,,way
 Valiergasse,,,,way
+Vally-Wieselthier-Park,,,,way
 Van-Swieten-Gasse,,,,way
 Van-der-Nüll-Gasse,,,,way
 Varnhagengasse,,,,way
@@ -6484,7 +6489,6 @@ Waltenhofengasse,,,,way
 Walter-Beck-Platz,,,,way
 Walter-Berry-Weg,,,,way
 Walter-Caldonazzi-Platz,,,,way
-Walter-Jurmann-Gasse,,,,way
 Walter-Kern-Weg,,,,way
 Walter-Lindenbaum-Gasse,,,,way
 Walter-Schwarzacher-Gasse,,,,way
@@ -6634,7 +6638,6 @@ Widerhoferplatz,,,,way
 Widholzgasse,,,,way
 Wiedgasse,,,,way
 "Wiedner Gürtel",,,,way
-Wiegelestraße,,,,way
 Wielandweg,,,,way
 Wielemansgasse,,,,way
 "Wiener Außenring Autobahn",,,,way
@@ -6772,7 +6775,6 @@ Worellstraße,,,,way
 Wranitzkygasse,,,,way
 Wüllenweber-und-Jordan-Platz,,,,way
 Wulzendorfstraße,,,,way
-Wundtgasse,,,,way
 Würffelgasse,,,,way
 Wurlitzergasse,,,,way
 Wurmbrandgasse,,,,way
@@ -6791,6 +6793,7 @@ Ybbsstraße,,,,way
 Yehudi-Menuhin-Weg,,,,way
 Yppengasse,,,,way
 Yppenplatz,,,,way
+Yunus-Emre-Brunnen,,,,way
 Z-Weg,,,,way
 Zachgasse,,,,way
 Zagorskigasse,,,,way
