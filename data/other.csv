@@ -145,6 +145,7 @@ Tullnertalgasse,wikidata,,Q64521084,way
 Turnergasse,wikidata,,Q43450,way
 "Unter-Meidlinger Straße",wikidata,,Q1448542,relation+way
 Westbahnstraße,wikidata,,Q694717,way
+"Wiedner Gürtel",wikidata,,Q414,way
 "Wiedner Hauptstraße",wikidata,,Q877374,way
 Wienflussaufsichtssteg,wikidata,,Q37920142,way
 Winterweg,wikidata,,Q1311,way
@@ -164,8 +165,6 @@ Zollamtssteg,wikidata,,Q29169592,way
 "7. Haidequerstraße",,,,way
 "8. Haidequerstraße",,,,way
 "9. Haidequerstraße",,,,way
-"A23 R39",,,,way
-"A23 Rampe 42",,,,way
 AKH-Steg,,,,way
 Abelegasse,,,,way
 Aberhamweg,,,,way
@@ -317,7 +316,6 @@ Alxingergasse,,,,way
 "Am Fasangarten",,,,way
 "Am Freihof",,,,way
 "Am Friedhof",,,,way
-"Am Grünen Prater",,,,way
 "Am Hasensprung",,,,way
 "Am Häufel",,,,way
 "Am Hauptbahnhof",,,,way
@@ -408,6 +406,7 @@ Amundsentrail,,,,way
 "An der Töllerschanze",,,,way
 "An der Zwerchwiese",,,,way
 "An der oberen Alten Donau",,,,way
+"An der oberen alten Donau",,,,way
 "An der unteren Alten Donau",,,,way
 Anastasius-Grün-Gasse,,,,way
 Anatourgasse,,,,way
@@ -687,7 +686,6 @@ Bellinigasse,,,,way
 Belovskyweg,,,,way
 Belvedereallee,,,,way
 "Belvedereallee 2",,,,way
-Belvederegarten,,,,way
 Belvederegasse,,,,way
 Benatzkygasse,,,,way
 Bendagasse,,,,way
@@ -1482,7 +1480,6 @@ Erna-Musik-Gasse,,,,way
 Ernanigasse,,,,way
 Erndtgasse,,,,way
 Ernst-Bergmann-Gasse,,,,way
-Ernst-Burger-Gasse,,,,way
 Ernst-Heiss-Gasse,,,,way
 Ernst-Hinterberger-Gasse,,,,way
 Ernst-Jandl-Weg,,,,way
@@ -2624,6 +2621,7 @@ Höchsmannweg,,,,way
 Höchstädtplatz,,,,way
 Hochstettergasse,,,,way
 Hochstraße,,,,way
+"Hochstraße Floridsdorf",,,,way
 "Hochstraße Handelskai",,,,way
 "Hochstraße Inzersdorf",,,,way
 Hochwaldweg,,,,way
@@ -4609,7 +4607,6 @@ Parapluieteichsteg,,,,way
 Paraselgasse,,,,way
 Parhamerplatz,,,,way
 Parisergasse,,,,way
-"Parkanlage Dürrnbacherstraße",,,,way
 Parkbachbrücke,,,,way
 Parkgasse,,,,way
 Parkplatzbrücke,,,,way
@@ -5414,7 +5411,6 @@ Schlickplatz,,,,way
 Schliemanngasse,,,,way
 Schließmanngasse,,,,way
 Schlimekgasse,,,,way
-"Schloss Neugebäude - Unterer Garten",,,,way
 Schlossallee,,,,way
 Schlossberggasse,,,,way
 Schlösselgasse,,,,way
@@ -5564,7 +5560,6 @@ Schwarzwaldgasse,,,,way
 Schweglerstraße,,,,way
 Schweidlgasse,,,,way
 Schweizer-Garten-Straße,,,,way
-Schweizergarten,,,,way
 Schweizerhausplatz,,,,way
 Schweizerhof,,,,way
 Schweizertalstraße,,,,way
@@ -6288,6 +6283,7 @@ Ungargasse,,,,way
 Universitätsring,,,,way
 Universitätsstraße,,,,way
 Universumstraße,,,,way
+"Untefführung Bahnhof Breitenlee",,,,way
 "Unter der Kirche",,,,way
 Unterbergergasse,,,,way
 "Untere Aquäduktgasse",,,,way
@@ -6334,7 +6330,6 @@ Utopiaweg,,,,way
 Uzzi-Förster-Weg,,,,way
 Valentingasse,,,,way
 Valiergasse,,,,way
-Vally-Wieselthier-Park,,,,way
 Van-Swieten-Gasse,,,,way
 Van-der-Nüll-Gasse,,,,way
 Varnhagengasse,,,,way
@@ -6639,7 +6634,6 @@ Widerhofergasse,,,,way
 Widerhoferplatz,,,,way
 Widholzgasse,,,,way
 Wiedgasse,,,,way
-"Wiedner Gürtel",,,,way
 Wielandweg,,,,way
 Wielemansgasse,,,,way
 "Wiener Außenring Autobahn",,,,way
@@ -6729,7 +6723,6 @@ Wintzingerodestraße,,,,way
 Winzerstraße,,,,way
 Wipplingerstraße,,,,way
 Wirerstraße,,,,way
-Wirtschaftsweg,,,,way
 Wißgrillgasse,,,,way
 Wittegasse,,,,way
 Wittelsbachstraße,,,,way
@@ -6795,7 +6788,6 @@ Ybbsstraße,,,,way
 Yehudi-Menuhin-Weg,,,,way
 Yppengasse,,,,way
 Yppenplatz,,,,way
-Yunus-Emre-Brunnen,,,,way
 Z-Weg,,,,way
 Zachgasse,,,,way
 Zagorskigasse,,,,way
