@@ -35,6 +35,7 @@ Esparsette-Weg,wikidata,,Q156932,way
 Europaplatz,wikidata,,Q8908,way
 Färbergasse,wikidata,,Q6147194,way
 Fassziehergasse,wikidata,,Q56298815,way
+"Finstere Allee",wikidata,,Q204170,way
 Franz-Hauer-Platz,wikidata,,Q20758720,way
 Franziskanerplatz,wikidata,,Q165005,relation+way
 Friedensbrücke,wikidata,,Q192924,way
@@ -64,7 +65,6 @@ Kirschenallee,wikidata,,Q165137,way
 Kriemhildplatz,wikidata,,Q1257834,way
 Landgutgasse,wikidata,,Q439260,way
 Landhausgasse,wikidata,,Q1498120,way
-Liesingbachbegleitweg,wikidata,,Q1824337,way
 Lobkowitzplatz,wikidata,,Q999439,way
 Männertreugasse,wikidata,,Q158858,way
 Margaretenplatz,wikidata,,Q1716764,way
@@ -72,7 +72,7 @@ Margaretenplatz,wikidata,,Q1716764,way
 Marienbrücke,wikidata,,Q105228599,way
 Markgraf-Rüdiger-Straße,wikidata,,Q1651599,way
 "Marx-Meidlinger Straße",wikidata,,Q1730731;Q2237824,way
-"Matzleinsdorfer Platz",wikidata,,Q1910897,way
+"Matzleinsdorfer Platz",wikidata,,Q1910897,relation+way
 "Maurer Lange Gasse",wikidata,,Q1910986,way
 Max-Weiler-Platz,wikidata,,Q2523348,way
 "Meidlinger Hauptstraße",wikidata,,Q697557,way
@@ -289,7 +289,6 @@ Altdorferstraße,,,,way
 "Alte Straße",,,,way
 "Alte Walfischgasse",,,,way
 Altebergenstraße,,,,way
-"Alter Bach-Hengl-Weg",,,,way
 "Alter Wiener Weg",,,,way
 Alterlaasteg,,,,way
 "Altes Landgut",,,,way
@@ -1639,7 +1638,6 @@ Fingergasse,,,,way
 Fingerhutweg,,,,way
 Finkenweg,,,,way
 Finsterbuschstraße,,,,way
-"Finstere Allee",,,,way
 Finsterergasse,,,,way
 Firmiangasse,,,,way
 Firnbergplatz,,,,way
@@ -3870,7 +3868,6 @@ Lössweg,,,,way
 Lostakgasse,,,,way
 Lößlweg,,,,way
 Lotheißengasse,,,,way
-Lothringerstraße,,,,way
 Lotsenweg,,,,way
 Lotte-Hass-Weg,,,,way
 Lotte-Lehmann-Weg,,,,way
@@ -4426,6 +4423,7 @@ Nordbrücke,,,,way
 "Nördliche Randstraße",,,,way
 Nordmanngasse,,,,way
 Nordpolstraße,,,,way
+Nordstraße,,,,way
 Nordwestbahnstraße,,,,way
 Noskeweg,,,,way
 Nothartgasse,,,,way
@@ -4549,6 +4547,7 @@ Ostbahnweg,,,,way
 Osterleitengasse,,,,way
 Ostmarkgasse,,,,way
 Ostrandstraße,,,,way
+Oststraße,,,,way
 Oswald-Redlich-Straße,,,,way
 Oswald-Thomas-Platz,,,,way
 Othellogasse,,,,way
@@ -4642,7 +4641,6 @@ Patekweg,,,,way
 Pater-Zeininger-Platz,,,,way
 Patrizigasse,,,,way
 Patrubangasse,,,,way
-Patzakweg,,,,way
 Paukerwerkstraße,,,,way
 Paul-Ehrlich-Gasse,,,,way
 Paul-Engelmann-Weg,,,,way
@@ -4826,6 +4824,7 @@ Possingergasse,,,,way
 Postgasse,,,,way
 Posthorngasse,,,,way
 "Pottendorfer Brücke",,,,way
+"Pottendorfer Steg",,,,way
 "Pötzleinsdorfer Höhe",,,,way
 "Pötzleinsdorfer Straße",,,,way
 Pouthongasse,,,,way
@@ -5807,7 +5806,6 @@ Spitalgasse,,,,way
 "Spittelauer Platz",,,,way
 Spittelbreitengasse,,,,way
 Spitzackergasse,,,,way
-Spitzahornweg,,,,way
 Spitzergasse,,,,way
 Spitzmausweg,,,,way
 Spitzweg,,,,way
@@ -5857,7 +5855,6 @@ Stadlergasse,,,,way
 Stadlweg,,,,way
 Stadt-des-Kindes-Weg,,,,way
 Stadtparksteg,,,,way
-"Stadtstraße (in Bau)",,,,way
 "Stadtwanderweg 2",,,,way
 Staglgasse,,,,way
 Stallarngasse,,,,way
@@ -6047,6 +6044,7 @@ Südbahnhofbrücke,,,,way
 Südosttangente,,,,way
 Südportalstraße,,,,way
 Südrandstraße,,,,way
+Südstraße,,,,way
 "Südtiroler Platz",,,,relation+way
 Suess-Tor,,,,way
 Sulmgasse,,,,way
@@ -6640,6 +6638,7 @@ Weschelstraße,,,,way
 "West Autobahn",,,,way
 Westbahnhof,,,,way
 Westermayergasse,,,,way
+Weststraße,,,,way
 Wettengelgasse,,,,way
 Wettsteingasse,,,,way
 Wexstraße,,,,way
