@@ -60,6 +60,7 @@ Innstraße,wikidata,,Q14369,way
 Jerusalem-Stiege,wikidata,,Q1218,way
 Karlsgasse,wikidata,,Q408847,way
 "Kärntner Straße",wikidata,,Q37985,way
+Kärntnertorpassage,wikidata,,Q107549636,way
 Kastanienallee,wikidata,,Q22699,way
 Kettenbrückengasse,wikidata,,Q53673375,way
 Kirchengasse,wikidata,,Q251468,way
@@ -365,6 +366,7 @@ Alxingergasse,,,,way
 "Am langen Felde",,,,way
 "Am oberen Kirchberg",,,,way
 Amalgergasse,,,,way
+Amalie-Brust-Gasse,,,,way
 Amalienstraße,,,,way
 Ambergergasse,,,,way
 Ambrosigasse,,,,way
@@ -742,7 +744,6 @@ Berzeliusplatz,,,,way
 Bessemerstraße,,,,way
 Bethlengasse,,,,way
 Bettelheimstraße,,,,way
-Betty-Fischer-Weg,,,,way
 Beyfusgasse,,,,way
 Biberhaufenweg,,,,way
 Bibernellweg,,,,way
@@ -2477,7 +2478,6 @@ Heizwerkstraße,,,,way
 Helblinggasse,,,,way
 Heldenplatz,,,,way
 Helen-Keller-Gasse,,,,way
-Helene-Lieser-Platz,,,,way
 Helene-Odilon-Gasse,,,,way
 Helene-Potetzt-Weg,,,,way
 Helene-Richter-Gasse,,,,way
@@ -2778,6 +2778,7 @@ Ibachstraße,,,,way
 Iberisweg,,,,way
 Ibsenstraße,,,,way
 Ichagasse,,,,way
+Ida-Strohmer-Weg,,,,way
 Iglaseegasse,,,,way
 Ignaz-Binder-Platz,,,,way
 Ignaz-Born-Weg,,,,way
@@ -3048,7 +3049,6 @@ Jutegasse,,,,way
 "KLG Sonnental Weg 3",,,,way
 "KLG Sonnental Weg 4",,,,way
 "KLG Sonnental Weg 5",,,,way
-"KLG Spitzweg",,,,way
 "Ka Bemmerl (aka Enduro Line)",,,,way
 Kaasgrabengasse,,,,way
 Kabastagasse,,,,way
@@ -3186,7 +3186,6 @@ Karmeliterhofgasse,,,,way
 Karmeliterplatz,,,,way
 "Kärntner Durchgang",,,,way
 "Kärntner Ring",,,,way
-Kärntnertorpassage,,,,way
 Karoline-Perin-Gasse,,,,way
 Karoline-Tintner-Promenade,,,,way
 Karolinengasse,,,,way
@@ -3553,7 +3552,6 @@ Kürschnergasse,,,,way
 Kurt-Absolon-Weg,,,,way
 Kurt-Heller-Steg,,,,way
 Kurt-Ohnsorg-Weg,,,,way
-Kurt-Peters-Weg,,,,way
 Kurt-Tichy-Gasse,,,,way
 Kurzbauergasse,,,,way
 Kurzböckgasse,,,,way
@@ -3610,7 +3608,6 @@ Langauergasse,,,,way
 "Lange Gasse",,,,way
 Langenaugasse,,,,way
 Längenfeldgasse,,,,way
-Längenfelsgasse,,,,way
 "Langenzersdorfer Straße",,,,way
 "Langer Garten",,,,way
 Langfeldgasse,,,,way
@@ -4021,6 +4018,7 @@ Maria-Welser-Platz,,,,way
 "Mariahilfer Straße",,,,way
 Marianna-Martines-Weg,,,,way
 Marianne-Pollak-Gasse,,,,way
+Marianne-Schmidl-Steig,,,,way
 Marianne-Schönauer-Gasse,,,,way
 Mariannengasse,,,,way
 Marie-Jahoda-Gasse,,,,way
@@ -4248,7 +4246,6 @@ Montevideogasse,,,,way
 Montigasse,,,,way
 Montleartstraße,,,,way
 Moosbeerenweg,,,,way
-Moosgasse,,,,way
 Mooslackengasse,,,,way
 Moosweg,,,,way
 Mooswiesengasse,,,,way
@@ -4825,7 +4822,6 @@ Pönningerweg,,,,way
 "Ponte Cagrana",,,,way
 Popovicgasse,,,,way
 Popovweg,,,,way
-Poppenwimmergasse,,,,way
 Porschestraße,,,,way
 Portheimgasse,,,,way
 Portnergasse,,,,way
@@ -5545,6 +5541,7 @@ Schulgasse,,,,way
 Schulhof,,,,way
 Schulhof-Passage,,,,way
 Schulsteig,,,,way
+"Schulsteig,Hornspergsteig",,,,way
 Schultergasse,,,,way
 Schultheßgasse,,,,way
 Schulweg,,,,way
@@ -6159,7 +6156,6 @@ Thonetgasse,,,,way
 Thönygasse,,,,way
 Thugutstraße,,,,way
 Thujagasse,,,,way
-Thujenweg,,,,way
 Thunhofgasse,,,,way
 Thurngasse,,,,way
 Thürnlhofstraße,,,,way
@@ -6533,7 +6529,7 @@ Wasagasse,,,,way
 Waschhausgasse,,,,way
 Wasnergasse,,,,way
 Wasser-Allee,,,,way
-"Wasserbehälter Bisamberg",,,,way
+"Wasserbehälter Bisamberg",,,,relation
 Wasserburgergasse,,,,way
 Wassergasse,,,,way
 Wassermanngasse,,,,way
