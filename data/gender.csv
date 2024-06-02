@@ -80,7 +80,7 @@ Olga-Wisinger-Florian-Platz,wikidata,F,Q275513,way
 Pappenheimgasse,wikidata,F,Q1897454,way
 Ruth-Klüger-Platz,wikidata,F,Q538068,way
 Schenk-Danzinger-Gasse,wikidata,F,Q1419150,way
-Simone-de-Beauvoir-Platz,wikidata,F,Q7197,relation
+Simone-de-Beauvoir-Platz,wikidata,F,Q7197,relation+way
 Sissy-Löwinger-Weg,wikidata,F,Q1769895,way
 Susanne-Schmida-Gasse,wikidata,F,Q52084141,way
 Susi-Weigel-Weg,wikidata,F,Q2802376,way
@@ -94,15 +94,19 @@ Abraham-a-Sancta-Clara-Gasse,wikidata,M,Q61137,way
 Adolf-Blamauer-Gasse,wikidata,M,Q360989,way
 Ahornergasse,wikidata,M,Q111569011,way
 Ailecgasse,wikidata,M,Q12792944,way
+Akira-Kurosawa-Weg,wikidata,M,Q8006,way
 Albertgasse,wikidata,M,Q60657,way
 Albertplatz,wikidata,M,Q60657,way
 Albrechtsbergergasse,wikidata,M,Q314164,way
 Alfred-Adler-Straße,wikidata,M,Q152393,way
 Alfred-Dallinger-Platz,wikidata,M,Q1551072,way
+Alfred-Wegener-Gasse,wikidata,M,Q76323,way
 Alois-Czedik-Steg,wikidata,M,Q1404703,way
+Altomontegasse,wikidata,M,Q428199,way
 Alvarsgasse,wikidata,M,Q937452,way
 "Am Fuchsenfeld",wikidata,M,Q158899,way
 Am-Hans-Moser-Park,wikidata,M,Q113705,way
+Anastasius-Grün-Gasse,wikidata,M,Q79069,way
 Andersengasse,wikidata,M,Q5673,way
 Angelo-Soliman-Weg,wikidata,M,Q536650,way
 Anschützgasse,wikidata,M,Q70516,way
@@ -172,6 +176,7 @@ Ettenreichgasse,wikidata,M,Q1704557,way
 Fabianistraße,wikidata,M,Q597895,way
 Faradaygasse,wikidata,M,Q8750,way
 Faulmanngasse,wikidata,M,Q75420,way
+Felix-Mottl-Straße,wikidata,M,Q694070,way
 Fockygasse,wikidata,M,Q1160684,way
 Franz-Emerich-Gasse,wikidata,M,Q1446658,way
 Franz-Josefs-Kai,wikidata,M,Q51056,relation+way
@@ -297,6 +302,7 @@ Leebgasse,wikidata,M,Q89485,way
 Leopold-Böhm-Straße,wikidata,M,Q1687621,way
 Leopold-Figl-Gasse,wikidata,M,Q11715,way
 Leopold-Gratz-Platz,wikidata,M,Q78999,way
+Leopold-Steiner-Gasse,wikidata,M,Q1384311,way
 Lichtenfelsgasse,wikidata,M,Q1657190,way
 Lichtensterngasse,wikidata,M,Q1280886,way
 Liebenstraße,wikidata,M,Q114560,way
@@ -353,6 +359,7 @@ Parttartgasse,wikidata,M,Q55681301,way
 Pater-Schwartz-Gasse,wikidata,M,Q86031,way
 Patzakweg,wikidata,M,Q84860,way
 Paul-Amann-Brücke,wikidata,M,Q2058694,way
+Paul-Ehrlich-Gasse,wikidata,M,Q57089,way
 Per-Albin-Hansson-Straße,wikidata,M,Q53660,way
 Pernerstorfergasse,wikidata,M,Q875141,relation+way
 Petrarcagasse,wikidata,M,Q1401,way
@@ -407,8 +414,10 @@ Seidlgasse,wikidata,M,Q86587,way
 Semperstraße,wikidata,M,Q61342,way
 Sigmundsgasse,wikidata,M,Q2284807,way
 Skodagasse,wikidata,M,Q79165;Q2639631,way
+Sobieskigasse,wikidata,M,Q53454,way
 Sobieskiplatz,wikidata,M,Q53454,way
 Spießhammergasse,wikidata,M,Q688647,way
+Stefan-Esders-Platz,wikidata,M,Q2336227,way
 Stelzhamergasse,wikidata,M,Q45580,way
 Steudelgasse,wikidata,M,Q1694505,way
 Stollgasse,wikidata,M,Q214177,way

@@ -23,6 +23,7 @@ Bankgasse,wikidata,,Q4056136,way
 Barbaragasse,wikidata,,Q701345,way
 Baumgarten-Brücke,wikidata,,Q687025,way
 Blindengasse,wikidata,,Q884251,way
+Bonsaigasse,wikidata,,Q64365,way
 "Breitenfelder Gasse",wikidata,,Q906322,way
 "Breitenfurter Straße",wikidata,,Q662190,way
 Bundesländerplatz,wikidata,,Q7146024,way
@@ -91,6 +92,7 @@ Museumstraße,wikidata,,Q95569;Q688704,way
 Myrthengasse,wikidata,,Q165152,way
 Neubaugasse,wikidata,,Q1979250,relation+way
 Nikolaisteg,wikidata,,Q1702683,way
+Nippongasse,wikidata,,Q17,way
 "Nussdorfer Brücke",wikidata,,Q1395576,way
 "Nussdorfer Steg",wikidata,,Q379531,way
 Oeverseestraße,wikidata,,Q1434874,way
@@ -105,7 +107,6 @@ Pilgramgasse,wikidata,,Q114254;Q100709330,way
 "Platz der Menschenrechte",wikidata,,Q8458,way
 Pöchlarnstraße,wikidata,,Q255350,way
 "Pottendorfer Straße",wikidata,,Q2106579,way
-"Quartier Belvedere",wikidata,,Q211818,relation
 Quellenstraße,wikidata,,Q1266185,way
 Rathausplatz,wikidata,,Q686468,way
 Rathausstraße,wikidata,,Q686468,way
@@ -145,6 +146,7 @@ Stock-im-Eisen-Platz,wikidata,,Q25629422,way
 Stubenbrücke,wikidata,,Q2358079,way
 Tivolibrücke,wikidata,,Q2437258,way
 Tivoligasse,wikidata,,Q2437258,way
+Tokiostraße,wikidata,,Q1490,way
 Traisengasse,wikidata,,Q700692,way
 Tullnertalgasse,wikidata,,Q64521084,way
 Turnergasse,wikidata,,Q43450,way
@@ -229,7 +231,6 @@ Aignerstraße,,,,way
 Aistgasse,,,,way
 Akaziengasse,,,,way
 Akeleiweg,,,,way
-Akira-Kurosawa-Weg,,,,way
 Aladar-Pecht-Gasse,,,,way
 Alban-Berg-Weg,,,,way
 Albatrosgasse,,,,way
@@ -252,7 +253,6 @@ Alfred-Nobel-Straße,,,,way
 Alfred-Pischof-Gasse,,,,way
 Alfred-Polzer-Weg,,,,way
 Alfred-Stix-Platz,,,,way
-Alfred-Wegener-Gasse,,,,way
 Algenweg,,,,way
 Allerheiligengasse,,,,way
 Allerheiligenplatz,,,,way
@@ -300,7 +300,6 @@ Althanstraße,,,,way
 Althoff-Jacobi-Gasse,,,,way
 "Altmannsdorfer Tunnel",,,,way
 Altmüttergasse,,,,way
-Altomontegasse,,,,way
 Altwirthgasse,,,,way
 Alxingergasse,,,,way
 "Am Albert-Schultz-Park",,,,way
@@ -413,7 +412,6 @@ Amundsentrail,,,,way
 "An der oberen Alten Donau",,,,way
 "An der oberen alten Donau",,,,way
 "An der unteren Alten Donau",,,,way
-Anastasius-Grün-Gasse,,,,way
 Anatourgasse,,,,way
 Andayweg,,,,way
 Andergasse,,,,way
@@ -589,6 +587,7 @@ Autokaderstraße,,,,way
 Auweg,,,,way
 Auwinkel,,,,way
 Avedikstraße,,,,way
+Avenue,,,,way
 Awarenstraße,,,,way
 Axel-Corti-Gasse,,,,way
 Ayrenhoffgasse,,,,way
@@ -832,7 +831,6 @@ Boltensterngasse,,,,way
 Boltzmanngasse,,,,way
 Bombekgasse,,,,way
 Bonitzgasse,,,,way
-Bonsaigasse,,,,way
 Bonygasse,,,,way
 Börnergasse,,,,way
 Börnsteingasse,,,,way
@@ -920,6 +918,7 @@ Brunnengasse,,,,way
 Brunnenhof,,,,way
 Brunnenstubengasse,,,,way
 Brunnenstubenweg,,,,way
+"Brunnenviertel Nachbarn garteln",,,,way
 Brunnenweg,,,,way
 "Brunner Straße",,,,way
 "Brünner Straße",,,,way
@@ -1526,6 +1525,8 @@ Eugen-Bormann-Gasse,,,,way
 Eugen-Jettel-Weg,,,,way
 Eugenie-Fink-Gasse,,,,way
 Eustachiusweg,,,,way
+"Eva-Maria -Mazzucco-Platz",,,,way
+Eva-Maria-Mazzuco-Platz,,,,way
 Eva-Popper-Weg,,,,way
 Eva-Zilcher-Gasse,,,,way
 Ewald-Balser-Gasse,,,,way
@@ -1590,7 +1591,6 @@ Felix-Bischof-Weg,,,,way
 Felix-Braun-Gasse,,,,way
 Felix-Dahn-Straße,,,,way
 Felix-Grafe-Gasse,,,,way
-Felix-Mottl-Straße,,,,way
 Felix-Slavik-Steg,,,,way
 Felix-Slavik-Straße,,,,way
 Felixgasse,,,,way
@@ -2286,7 +2286,6 @@ Hagenmüllergasse,,,,relation
 Hahnemanngasse,,,,way
 Hahngasse,,,,way
 Haidengasse,,,,way
-Haidequerstraße,,,,way
 Haidersberggasse,,,,way
 Haidestraße,,,,way
 Haidgasse,,,,way
@@ -2599,6 +2598,7 @@ Hinaysgasse,,,,way
 "Hintere Liesingbachstraße",,,,way
 "Hintere Zollamtsstraße",,,,way
 Hintergärtengasse,,,,way
+"Hinterholz 8",,,,way
 Hintperggasse,,,,way
 Hintschiggasse,,,,way
 Hintzerstraße,,,,way
@@ -3383,6 +3383,7 @@ Kolingasse,,,,way
 Koliskogasse,,,,way
 Kollarzgasse,,,,way
 Kollburggasse,,,,way
+"Kollektor Vösendorf",,,,way
 Kollergasse,,,,way
 Kollergerngasse,,,,way
 Kollersteig,,,,way
@@ -3724,7 +3725,6 @@ Leopold-Mistinger-Platz,,,,relation
 Leopold-Moses-Gasse,,,,way
 Leopold-Rister-Gasse,,,,way
 Leopold-Schwarz-Platz,,,,way
-Leopold-Steiner-Gasse,,,,way
 Leopold-Stockert-Platz,,,,way
 Leopold-Ungar-Platz,,,,way
 Leopold-Zechner-Platz,,,,way
@@ -4418,7 +4418,6 @@ Nikolaus-Pytty-Gasse,,,,way
 Nikolausgasse,,,,way
 "Nikolsburger Gasse",,,,way
 "Nikolsdorfer Gasse",,,,way
-Nippongasse,,,,way
 Nisselgasse,,,,way
 Nobilegasse,,,,way
 Nödlgasse,,,,way
@@ -4651,7 +4650,6 @@ Pater-Zeininger-Platz,,,,way
 Patrizigasse,,,,way
 Patrubangasse,,,,way
 Paukerwerkstraße,,,,way
-Paul-Ehrlich-Gasse,,,,way
 Paul-Engelmann-Weg,,,,way
 Paul-Heyse-Gasse,,,,way
 Paul-Hopfner-Gasse,,,,way
@@ -5457,7 +5455,6 @@ Schmidgasse,,,,way
 Schmidgunstgasse,,,,way
 Schmidlergasse,,,,way
 Schmiedeckgasse,,,,way
-Schmiedgassl,,,,way
 Schmöllerlgasse,,,,way
 Schmutzergasse,,,,way
 Schneeballenweg,,,,way
@@ -5740,7 +5737,6 @@ Slamastraße,,,,way
 Slatingasse,,,,way
 Smaragdgasse,,,,way
 Smolagasse,,,,way
-Sobieskigasse,,,,way
 Sobotagasse,,,,way
 Soesergasse,,,,way
 Sofie-Lazarsfeld-Straße,,,,way
@@ -5887,7 +5883,6 @@ Stauffergasse,,,,way
 Stauraczgasse,,,,way
 Stavangergasse,,,,way
 Steckhovengasse,,,,way
-Stefan-Esders-Platz,,,,way
 Stefan-Fadinger-Platz,,,,way
 Stefan-Koblinger-Gasse,,,,way
 Stefan-Zweig-Platz,,,,way
@@ -6182,7 +6177,6 @@ Tinterstraße,,,,way
 "Tiroler Gasse",,,,way
 "Tiroler Weg",,,,way
 Titlgasse,,,,way
-Tokiostraße,,,,way
 Toldgasse,,,,way
 Töllergasse,,,,way
 Tolstojgasse,,,,way
