@@ -12,7 +12,6 @@ Albertinaplatz,wikidata,,Q371908,way
 "Am Gestade",wikidata,,Q896586,way
 "Am Rosenhügel",wikidata,,Q21859814,way
 Amarantgasse,wikidata,,Q156344,way
-Anton-Balzer-Weg,wikidata,,,way
 Apollogasse,wikidata,,Q619516,way
 Argentinierstraße,wikidata,,Q414,way
 Aspernbrücke,wikidata,,Q541626,way
@@ -124,6 +123,7 @@ Rathausstraße,wikidata,,Q686468,way
 Reichsratsstraße,wikidata,,Q702121,way
 Reindorfgasse,wikidata,,Q1361527,way
 "Reinprechtsdorfer Brücke",wikidata,,Q2141712,way
+Reitschulgasse,wikidata,,Q2585074,way
 Rigolettogasse,wikidata,,Q189234,way
 Ringofenweg,wikidata,,Q387572,way
 Rosenhügelstraße,wikidata,,Q21859814,way
@@ -466,6 +466,7 @@ Anny-Angel-Katan-Weg,,,,way
 Antaeusgasse,,,,way
 Antelweg,,,,way
 Anton-Anderer-Platz,,,,way
+Anton-Balzer-Weg,,,,way
 Anton-Baumgartner-Straße,,,,way
 Anton-Böck-Gasse,,,,way
 Anton-Bosch-Gasse,,,,way
@@ -598,7 +599,6 @@ Autokaderstraße,,,,way
 Auweg,,,,way
 Auwinkel,,,,way
 Avedikstraße,,,,way
-Avenue,,,,way
 Awarenstraße,,,,way
 Axel-Corti-Gasse,,,,way
 Ayrenhoffgasse,,,,way
@@ -1424,6 +1424,7 @@ Emil-Fucik-Gasse,,,,way
 Emil-Hertzka-Platz,,,,way
 Emil-Kralik-Gasse,,,,way
 Emil-Ottenthal-Gasse,,,,way
+Emilie-Bach-Weg,,,,way
 Emilie-Flöge-Weg,,,,way
 Emilienstiege,,,,way
 Emmerich-Fasching-Gasse,,,,way
@@ -1537,6 +1538,7 @@ Falcostiege,,,,way
 Falkestraße,,,,way
 Fallgasse,,,,way
 Fallmerayerweg,,,,way
+Falschlehnerweg,,,,way
 Familienplatz,,,,way
 Fännergasse,,,,way
 Fännersteg,,,,way
@@ -2474,6 +2476,7 @@ Herbststraße,,,,way
 Herchenhahngasse,,,,way
 Herderplatz,,,,way
 Heribert-Meisel-Gasse,,,,way
+Heribert-Rath-Weg,,,,way
 Heringgasse,,,,way
 Herklotzgasse,,,,way
 "Hermann Katinger-Stiege",,,,way
@@ -3258,7 +3261,6 @@ Kleeblattgasse,,,,way
 Kleeblattweg,,,,way
 Kleegasse,,,,way
 Kleeweg,,,,way
-Kleibersteg,,,,way
 Kleibersteig,,,,way
 "Kleine Mohrengasse",,,,way
 "Kleine Neugasse",,,,way
@@ -3614,7 +3616,6 @@ Lee-Miller-Promenade,,,,way
 Leegasse,,,,way
 Lehárgasse,,,,way
 Lehenstraße,,,,way
-Leherbweg,,,,way
 Lehmanngasse,,,,way
 Lehmgasse,,,,way
 Lehnergasse,,,,way
@@ -3819,6 +3820,7 @@ Lotsenweg,,,,way
 Lotte-Hass-Weg,,,,way
 Lotte-Lehmann-Weg,,,,way
 Lotte-Lenya-Platz,,,,way
+Lotte-Profohs-Weg,,,,way
 Lottgasse,,,,way
 Loudonsteg,,,,way
 Loudonstraße,,,,way
@@ -3886,6 +3888,7 @@ Magdalenenstraße,,,,way
 Magdeburgstraße,,,,way
 Magnoliengasse,,,,way
 Mahlerstraße,,,,way
+Mahrweg,,,,way
 Maigasse,,,,way
 Maiglöckchenweg,,,,way
 Maiklgasse,,,,way
@@ -3940,6 +3943,7 @@ Margeritenweg,,,,way
 Margetinstraße,,,,way
 Margit-Doppler-Gasse,,,,way
 Maria-Andergast-Weg,,,,way
+Maria-Emhart-Weg,,,,way
 Maria-Grengg-Gasse,,,,way
 Maria-Gutmann-Gasse,,,,way
 Maria-Hirschler-Weg,,,,way
@@ -4105,7 +4109,7 @@ Meytensgasse,,,,way
 Michael-Bernhard-Gasse,,,,way
 Michael-Dietmann-Gasse,,,,way
 Michael-Neumann-Gasse,,,,way
-Michael-Res-Gasse,,,,way
+Michael-Reš-Gasse,,,,way
 "Michaeler Durchgang",,,,way
 Michaelerstraße,,,,way
 Michaelertor,,,,way
@@ -4948,7 +4952,6 @@ Reisnerstraße,,,,way
 Reiterberggasse,,,,way
 Reitergartenweg,,,,way
 Reithlegasse,,,,way
-Reitschulgasse,,,,way
 Reitschulsteg,,,,way
 Reizenpfenninggasse,,,,way
 Reklewskigasse,,,,way
@@ -5155,7 +5158,6 @@ Ruhrhofergasse,,,,way
 Ruinenallee,,,,way
 Rummelhardtgasse,,,,way
 Rumplerweg,,,,way
-Rundumadum,,,,way
 Rupertgasse,,,,way
 Rupertusplatz,,,,way
 Rupoldengasse,,,,way
@@ -5645,6 +5647,7 @@ Siolygasse,,,,way
 Siriusweg,,,,way
 Sizzogasse,,,,way
 Skabiosenweg,,,,way
+"Skinny Line",,,,way
 Skrabalgasse,,,,way
 Skraupstraße,,,,way
 Skurawygasse,,,,way
@@ -5664,6 +5667,7 @@ Sommerergasse,,,,way
 Sommergasse,,,,way
 Sommerhaidenweg,,,,way
 Sommerschuhgasse,,,,way
+Sonja-Hajek-Weg,,,,way
 Sonnbergplatz,,,,way
 Sonnbergstraße,,,,way
 Sonnenbadweg,,,,way
@@ -6124,7 +6128,6 @@ Treffzgasse,,,,way
 Trenkwaldgasse,,,,way
 Trennstraße,,,,way
 Trepetschniggasse,,,,way
-"Treppe Klebersteig Stadtwanderweg 4",,,,way
 Trepulkagasse,,,,way
 Treumannbrücke,,,,way
 Treumanngasse,,,,way
@@ -6283,6 +6286,7 @@ Versorgungsheimplatz,,,,way
 Versorgungsheimstraße,,,,way
 Vertexgasse,,,,way
 Vettersgasse,,,,way
+Vicky-Baum-Platz,,,,way
 Victor-Gruen-Gasse,,,,way
 Viehmarktgasse,,,,way
 Viehtriftgasse,,,,way
@@ -6819,3 +6823,4 @@ Zwölfpfenniggasse,,,,way
 "Zwutschkerl (aka Kids Trail)",,,,way
 Zyklamengasse,,,,way
 Zypressenweg,,,,way
+weg,,,,way

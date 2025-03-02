@@ -7,6 +7,7 @@ Ada-Christen-Gasse,wikidata,F,Q85002,way
 Ada-Lovelace-Straße,wikidata,F,Q7259,way
 Adelheid-Popp-Gasse,wikidata,F,Q34391,way
 Agnes-Primocic-Gasse,wikidata,F,Q394620,way
+Albert-Schweitzer-Gasse,wikidata,F,Q94775815,way
 Alma-Seidler-Weg,wikidata,F,Q88849,way
 Amalie-Seidel-Weg,wikidata,F,Q90320,way
 Anna-Müller-Weg,wikidata,F,Q562636,way
@@ -43,6 +44,7 @@ Greta-Keller-Gasse,wikidata,F,Q85177,way
 Gutheil-Schoder-Gasse,wikidata,F,Q77982,way
 Halban-Kurz-Straße,wikidata,F,Q78897,way
 Hannah-Arendt-Platz,wikidata,F,Q60025,relation+way
+Hannelore-Burger-Brücke,wikidata,F,Q94775815,way
 Hedy-Blum-Weg,wikidata,F,Q20996667,way
 Hedy-Lamarr-Weg,wikidata,F,Q49034,relation+way
 Helene-Bauer-Platz,wikidata,F,Q57540106,way
@@ -100,7 +102,6 @@ Susanne-Schmida-Gasse,wikidata,F,Q52084141,way
 Susi-Weigel-Weg,wikidata,F,Q2802376,way
 Trude-Fleischmann-Gasse,wikidata,F,Q87807,way
 Vally-Weigl-Gasse,wikidata,F,Q2509422,way
-Vicki-Baum-Platz,wikidata,F,Q93444,way
 Wangari-Maathai-Platz,wikidata,F,Q46795,way
 Weißenthurngasse,wikidata,F,Q1696932,way
 Wiental-Steg,wikidata,F,Q22132620,way
@@ -110,7 +111,6 @@ Adolf-Blamauer-Gasse,wikidata,M,Q360989,way
 Ahornergasse,wikidata,M,Q111569011,way
 Ailecgasse,wikidata,M,Q12792944,way
 Akira-Kurosawa-Weg,wikidata,M,Q8006,way
-Albert-Schweitzer-Gasse,wikidata,M,Q78531,way
 Albertgasse,wikidata,M,Q60657,way
 Albertplatz,wikidata,M,Q60657,way
 Albrechtsbergergasse,wikidata,M,Q314164,way
@@ -275,7 +275,6 @@ Haeussermannweg,wikidata,M,Q2141419,way
 Haidingergasse,wikidata,M,Q78686,way
 Hallensteingasse,wikidata,M,Q1781907,way
 Hamerlingplatz,wikidata,M,Q79088,way
-Hannelore-Burger-Brücke,wikidata,M,Q78531,way
 Hans-Sachs-Gasse,wikidata,M,Q19543,way
 Hans-Weiner-Dillmann-Platz,wikidata,M,Q1583017,relation
 Hanuschgasse,wikidata,M,Q688666,way
@@ -482,7 +481,7 @@ Romakogasse,wikidata,M,Q562614,way
 Rooseveltplatz,wikidata,M,Q8007,way
 Rosasgasse,wikidata,M,Q596386,way
 Rosiwalgasse,wikidata,M,Q114344,way
-Rothkirchgasse,wikidata,M,Q55860192,way
+Rothkirchgasse,wikidata,M,Q19936281,way
 Rottmayrgasse,wikidata,M,Q674772,way
 Rüdigergasse,wikidata,M,Q551615,way
 Rudolf-Sallinger-Platz,wikidata,M,Q2173685,way
