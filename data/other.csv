@@ -154,6 +154,7 @@ Spittelberggasse,wikidata,,Q1587233,way
 St.-Bartholomäus-Platz,wikidata,,Q1722766,way
 St.-Elisabeth-Platz,wikidata,,Q159862;Q2318104,way
 St.-Ulrichs-Platz,wikidata,,Q2477141,way
+Steinseebrücke,wikidata,,Q21859794,way
 Steinseeweg,wikidata,,Q21859794,way
 Stephansplatz,wikidata,,Q5943,relation+way
 Stiftgasse,wikidata,,Q1062556,way
@@ -259,7 +260,6 @@ Albrechtskreithgasse,,,,way
 Alexander-Mell-Gasse,,,,way
 Alexander-Nehr-Gasse,,,,way
 Alexander-Poch-Platz,,,,way
-Alfons-Mucha-Weg,,,,way
 Alfons-Petzold-Gasse,,,,way
 Alfred-Grasel-Gasse,,,,way
 Alfred-Huth-Gasse,,,,way
@@ -772,7 +772,6 @@ Billrothstraßenbrücke,,,,way
 Billy-Wilder-Promenade,,,,way
 Binagasse,,,,way
 Bindergasse,,,,way
-Bindingweg,,,,way
 Binsenweg,,,,way
 Biotopweg,,,,way
 Biraghigasse,,,,way
@@ -1001,7 +1000,6 @@ Castlegasse,,,,way
 Cebotariweg,,,,way
 Celtesgasse,,,,way
 Celtis-Tor,,,,way
-Cenzi-Flendrovsky-Gasse,,,,way
 Ceralegasse,,,,way
 Cervantesgasse,,,,way
 Chamissogasse,,,,way
@@ -1705,7 +1703,6 @@ Franklinstraße,,,,way
 Franz-Asenbauer-Gasse,,,,way
 Franz-Barwig-Weg,,,,way
 Franz-Boos-Gasse,,,,way
-Franz-Danimann-Gasse,,,,way
 Franz-Eduard-Matras-Gasse,,,,way
 Franz-Egermaier-Weg,,,,way
 Franz-Eichert-Weg,,,,way
@@ -3616,6 +3613,7 @@ Lee-Miller-Promenade,,,,way
 Leegasse,,,,way
 Lehárgasse,,,,way
 Lehenstraße,,,,way
+Leherbweg,,,,way
 Lehmanngasse,,,,way
 Lehmgasse,,,,way
 Lehnergasse,,,,way
@@ -4188,6 +4186,7 @@ Montevideogasse,,,,way
 Montigasse,,,,way
 Montleartstraße,,,,way
 Moosbeerenweg,,,,way
+Moosgasse,,,,way
 Mooslackengasse,,,,way
 Moosweg,,,,way
 Mooswiesengasse,,,,way
@@ -5246,7 +5245,6 @@ Schaafweg,,,,way
 Schablergasse,,,,way
 Schachnerstraße,,,,way
 Schacht-2-Weg,,,,way
-Schachweg,,,,way
 Schadekgasse,,,,way
 Schadinagasse,,,,way
 Schafberggasse,,,,way
@@ -5404,7 +5402,6 @@ Schönbergplatz,,,,way
 "Schönbrunner Schlossstraße",,,,way
 "Schönbrunner Straße",,,,way
 Schönburgstraße,,,,way
-Schöneckergasse,,,,way
 Schongauergasse,,,,way
 Schönherrweg,,,,way
 Schönngasse,,,,way
@@ -5848,7 +5845,6 @@ Steinlegasse,,,,way
 Steinmüllergasse,,,,way
 Steinnelkenweg,,,,way
 Steinschötelgasse,,,,way
-Steinseebrücke,,,,way
 Steinspornbrücke,,,,way
 Steinspornweg,,,,way
 Steinweisweg,,,,way
@@ -5897,7 +5893,6 @@ Strakaweg,,,,way
 Stralehnergasse,,,,way
 Strampfergasse,,,,way
 Strandgasse,,,,way
-Stranskyweg,,,,way
 Stranzenbergbrücke,,,,way
 Stranzenberggasse,,,,way
 Straßäckergasse,,,,way
@@ -6212,7 +6207,6 @@ Unterbergergasse,,,,way
 "Untere Bahnlände",,,,way
 "Untere Donaustraße",,,,way
 "Untere Jungenberggasse",,,,way
-"Untere Jungenberggraben",,,,way
 "Untere Kaistraße",,,,way
 "Untere Konrath-Siedlung",,,,way
 "Untere Lindenallee",,,,way
@@ -6606,6 +6600,7 @@ Wildnergasse,,,,way
 Wildpretbrücke,,,,way
 Wildpretmarkt,,,,way
 Wildpretstraße,,,,way
+Wildweg,,,,way
 Wilfried-Kirchner-Weg,,,,way
 Wilhelm-Busch-Gasse,,,,way
 Wilhelm-Dachauer-Straße,,,,way
