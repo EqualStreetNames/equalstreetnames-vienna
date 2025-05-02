@@ -257,6 +257,7 @@ Albatrosgasse,,,,way
 Albertisgasse,,,,way
 Albin-Hirsch-Platz,,,,way
 Albrechtskreithgasse,,,,way
+Alexander-Dubcek-Gasse,,,,way
 Alexander-Mell-Gasse,,,,way
 Alexander-Nehr-Gasse,,,,way
 Alexander-Poch-Platz,,,,way
@@ -750,6 +751,7 @@ Berzeliusplatz,,,,way
 Bessemerstraße,,,,way
 Bethlengasse,,,,way
 Bettelheimstraße,,,,way
+Bianca-Bienenfeld-Straße,,,,way
 Biberhaufenweg,,,,way
 Bibernellweg,,,,way
 Biberstraße,,,,way
@@ -1474,6 +1476,7 @@ Erlgasse,,,,way
 Erna-Musik-Gasse,,,,way
 Erndtgasse,,,,way
 Ernst-Bergmann-Gasse,,,,way
+Ernst-Deutsch-Promenade,,,,way
 Ernst-Heiss-Gasse,,,,way
 Ernst-Hinterberger-Gasse,,,,way
 Ernst-Jandl-Weg,,,,way
@@ -1540,6 +1543,7 @@ Falschlehnerweg,,,,way
 Familienplatz,,,,way
 Fännergasse,,,,way
 Fännersteg,,,,way
+Fanni-Rottenberg-Straße,,,,way
 Fanny-Mintz-Gasse,,,,way
 Färbermühlgasse,,,,way
 Farngasse,,,,way
@@ -1690,6 +1694,7 @@ Forstmeistergasse,,,,way
 Forstnergasse,,,,way
 Forstschulstraße,,,,way
 "Forststraße Agnesbründl",,,,way
+"Forstweg Hameau",,,,way
 "Forstweg Kreuzbühel",,,,way
 "Forstweg Messturm",,,,way
 "Forstweg Waldschafferin",,,,way
@@ -2543,6 +2548,7 @@ Hießgasse,,,,way
 "Hietzinger Hauptstraße",,,,way
 "Hietzinger Kai",,,,way
 Hietzinger-Kai-Steg,,,,way
+Hilde-Güden-Promenade,,,,way
 Hilde-Hannak-Gasse,,,,way
 Hilde-Spiel-Gasse,,,,way
 Hildebrandgasse,,,,way
@@ -2791,6 +2797,7 @@ Irenäusgasse,,,,way
 Irene-Jerusalem-Weg,,,,way
 Irisgasse,,,,way
 Irissteg,,,,way
+Irma-Trksak-Straße,,,,way
 Irrgartenallee,,,,way
 Isbarygasse,,,,way
 Iselgasse,,,,way
@@ -2821,6 +2828,7 @@ Jakobergasse,,,,way
 Jakov-Lind-Straße,,,,way
 Jakschgasse,,,,way
 Jan-Kiepura-Gasse,,,,way
+Jan-Palach-Weg,,,,way
 Jandagasse,,,,way
 Jane-Jacobs-Weg,,,,way
 Jane-Tilden-Gasse,,,,way
@@ -2877,6 +2885,7 @@ Johann-Kresnik-Gasse,,,,way
 Johann-Kutschera-Gasse,,,,way
 Johann-Laufner-Gasse,,,,way
 Johann-Nepomuk-Berger-Platz,,,,way
+Johann-Nepomuk-Vogl-Markt,,,,relation
 Johann-Nepomuk-Vogl-Platz,,,,way
 Johann-Orth-Platz,,,,way
 Johann-Orth-Weg,,,,way
@@ -3724,7 +3733,6 @@ Lieglerstraße,,,,way
 Lieleggweg,,,,way
 Lienfeldergasse,,,,way
 Liepoltgasse,,,,way
-Liesingbachradweg,,,,way
 Liesingbachstraße,,,,way
 "Liesinger Platz",,,,way
 Liesinger-Flur-Gasse,,,,way
@@ -3815,6 +3823,7 @@ Lostakgasse,,,,way
 Lößlweg,,,,way
 Lotheißengasse,,,,way
 Lotsenweg,,,,way
+Lotte-Brainin-Straße,,,,way
 Lotte-Hass-Weg,,,,way
 Lotte-Lehmann-Weg,,,,way
 Lotte-Lenya-Platz,,,,way
@@ -3900,6 +3909,7 @@ Malfattisteig,,,,way
 Mallygasse,,,,way
 Malmögasse,,,,way
 Malvengasse,,,,way
+Maly-Nagl-Promenade,,,,way
 Mälzelplatz,,,,way
 Malzgasse,,,,way
 Man-Ray-Promenade,,,,way
@@ -4959,6 +4969,7 @@ Rembrandtstraße,,,,way
 Remystraße,,,,way
 Renate-Holm-Platz,,,,way
 Rendezvousplatzl,,,,way
+Renée-Dürmayer-Weg,,,,way
 Rennbahnbrücke,,,,way
 Rennbahnstraße,,,,way
 Rennbahnweg,,,,way
@@ -5174,6 +5185,15 @@ Ruthnergasse,,,,way
 Ruzickagasse,,,,way
 Rysergasse,,,,way
 Rzehakgasse,,,,way
+"SCD 06836",,,,way
+"SCD 06838",,,,way
+"SCD 06842",,,,way
+"SCD 06843",,,,way
+"SCD 12848",,,,way
+"SCD 12849",,,,way
+"SCD 12863",,,,way
+"SCD 12870",,,,way
+"SCD 12871",,,,way
 Saal-Allee,,,,way
 Saarplatz,,,,way
 Sabine-Oberhauser-Straße,,,,way
@@ -5245,6 +5265,7 @@ Schaafweg,,,,way
 Schablergasse,,,,way
 Schachnerstraße,,,,way
 Schacht-2-Weg,,,,way
+Schachweg,,,,way
 Schadekgasse,,,,way
 Schadinagasse,,,,way
 Schafberggasse,,,,way
@@ -6387,7 +6408,7 @@ Walkergasse,,,,way
 Walkürengasse,,,,way
 Wallackgasse,,,,way
 Wallagasse,,,,way
-Wallensteinplatz,,,,relation
+Wallensteinplatz,,,,relation+way
 Wallensteinstraße,,,,way
 Wallgasse,,,,way
 Wällischgasse,,,,way
