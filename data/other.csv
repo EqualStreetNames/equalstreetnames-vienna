@@ -345,6 +345,8 @@ Alxingergasse,,,,way
 "Am Hofgartel",,,,way
 "Am Hubertusdamm",,,,way
 "Am Hundsturm",,,,way
+"Am Hundsturm, Bräuhausgasse",,,,way
+"Am Hundsturm, Margaretenstraße",,,,way
 "Am Johannesberg",,,,way
 "Am Kabelwerk",,,,way
 "Am Kahlenberg",,,,relation+way
@@ -624,6 +626,7 @@ Badhaussteg,,,,way
 "Bahnbrücke Lastenstraße",,,,way
 Bahndammweg,,,,way
 Bahnfeldweg,,,,way
+"Bahnhof Hütteldorf",,,,relation
 Bahnhofplatz,,,,way
 Bahnhofstraße,,,,way
 Bahnlände,,,,way
@@ -726,8 +729,6 @@ Bergzeile,,,,way
 Beringgasse,,,,way
 Berlagasse,,,,way
 Berlepschgasse,,,,way
-Bermenrampe,,,,way
-Bermenweg,,,,way
 Bernadottegasse,,,,way
 Bernatzikgasse,,,,way
 Bernhard-Billes-Gasse,,,,way
@@ -902,6 +903,7 @@ Browne-Tor,,,,way
 "Brücke Leopoldsdorfer Straße",,,,way
 "Brücke Mackgasse",,,,way
 "Brücke Willergasse",,,,way
+"Brücke über das Gleisdreieck",,,,way
 "Brücke über den Petersbach",,,,way
 Brückengasse,,,,way
 Brückenpassage,,,,way
@@ -1357,6 +1359,7 @@ Egon-Haug-Gasse,,,,way
 Egon-Schiele-Gasse,,,,way
 Ehamgasse,,,,way
 "Ehamgasse Fußweg",,,,way
+"Ehemalige Knöperlbahn",,,,way
 Ehmweg,,,,way
 Ehngasse,,,,way
 Ehrenpreisgasse,,,,way
@@ -2428,7 +2431,6 @@ Heimkehrergasse,,,,way
 Heimschollegasse,,,,way
 Heimstättenstraße,,,,way
 Heindlgasse,,,,way
-Heinestrasse,,,,way
 Heinestraße,,,,way
 Heingasse,,,,way
 Heinrich-Collin-Straße,,,,way
@@ -2985,7 +2987,7 @@ Julius-Ficker-Straße,,,,way
 Julius-Meinl-Gasse,,,,way
 Julius-Payer-Gasse,,,,way
 Julius-Schlegel-Gasse,,,,way
-Julius-Tandler-Platz,,,,way
+Julius-Tandler-Platz,,,,relation+way
 Jumbo-Platz,,,,way
 Jungenberggasse,,,,way
 Jungferngasse,,,,way
@@ -3308,6 +3310,7 @@ Knaackgasse,,,,way
 Knappweg,,,,way
 Kneidingergasse,,,,way
 Knödelhüttenstraße,,,,way
+Knödelhüttenweg,,,,way
 Knöfelgasse,,,,way
 Knollergasse,,,,way
 Knollgasse,,,,way
@@ -3331,6 +3334,7 @@ Kohlgasse,,,,way
 Kohlmarkt,,,,way
 Kohlweg,,,,way
 Kolbegasse,,,,way
+Kolbeterbergstraße,,,,way
 Kolbetergasse,,,,way
 Kolbetersteg,,,,way
 Kölblgasse,,,,way
@@ -3936,7 +3940,6 @@ Marchettigasse,,,,way
 Marchfeldstraße,,,,way
 Marco-Polo-Platz,,,,way
 Marco-Polo-Promenade,,,,way
-Marco-d’Aviano-Gasse,,,,way
 Marcusgasse,,,,way
 Marderweg,,,,way
 Marenabrücke,,,,way
@@ -4144,7 +4147,6 @@ Miltnerweg,,,,way
 Minerlgasse,,,,way
 Minorgasse,,,,way
 Minzengasse,,,,way
-Mira-Lobe-Weg,,,,way
 Miriam-Makeba-Gasse,,,,way
 Mispelweg,,,,way
 Missindorfstraße,,,,way
@@ -4283,6 +4285,7 @@ Nadlergasse,,,,way
 Naglergasse,,,,way
 Napoleonwaldgasse,,,,way
 Narzissenweg,,,,way
+Naschmarkt,,,,relation
 Nasenweg,,,,way
 Nästlbergergasse,,,,way
 Natorpgasse,,,,way
@@ -4399,12 +4402,12 @@ Nussberggasse,,,,way
 "Nussdorfer Lände",,,,way
 "Nussdorfer Platz",,,,way
 "Nussdorfer Straße",,,,way
-Nussgasse,,,,way
 Nusswaldgasse,,,,way
 Nußallee,,,,way
 Nußbaumweg,,,,way
 "Nußdorfer Lände",,,,way
 "Nußdorfer Schleusenbrücke",,,,way
+Nußgasse,,,,way
 Nußweg,,,,way
 Nymphengasse,,,,way
 O'Brien-Gasse,,,,way
@@ -6700,6 +6703,7 @@ Wolfgang-Schmälzl-Gasse,,,,way
 Wolfgang-Schmitz-Promenade,,,,way
 Wolfrathplatz,,,,way
 Wolfsaugasse,,,,way
+Wolfsgrabensteg,,,,way
 Wolfsgrubergasse,,,,way
 Wolfsmilchgasse,,,,way
 Wolfsschanzengasse,,,,way
