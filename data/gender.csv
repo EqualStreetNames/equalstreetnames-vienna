@@ -25,6 +25,7 @@ Aspernbrücke,wikidata,-,Q541626,way
 Aspernbrückengasse,wikidata,-,Q736642,way
 "Atzgersdorfer Straße",wikidata,-,Q758336,way
 Auerspergstraße,wikidata,-,Q264612;Q220804,way
+"Auf der Schmelz",wikidata,-,Q2245976,way
 Augartenbrücke,wikidata,-,Q143265,way
 Augustinerstraße,wikidata,-,Q693869,way
 Ausstellungsstraße,wikidata,-,Q871508,way
@@ -68,7 +69,7 @@ Graffitistraße,wikidata,-,Q17514,way
 Großmarktstraße,wikidata,-,Q1549443,way
 Gudrunstraße,wikidata,-,Q1257834,way
 "Gumpendorfer Straße",wikidata,-,Q877873,way
-Guntherstraße,wikidata,-,Q62113179,way
+Guntherstraße,wikidata,-,Q16573492,way
 Gürtelbrücke,wikidata,-,Q38956584,way
 Ha-Wei-Brücke,wikidata,-,Q1567437,way
 "Hackinger Steg",wikidata,-,Q1526933,way
@@ -77,6 +78,8 @@ Hagengasse,wikidata,-,Q1568447,way
 Herbstweg,wikidata,-,Q1314,way
 "Hetzendorfer Straße",wikidata,-,Q1616329,way
 Hollergasse,wikidata,-,Q131448,way
+Hüttelbergbrücke,wikidata,-,Q100142861,way
+Hüttelbergstraße,wikidata,-,Q100142861,way
 Innstraße,wikidata,-,Q14369,way
 "Inzersdorf Kirchenplatz",wikidata,-,Q2082710,way
 Jerusalem-Stiege,wikidata,-,Q1218,way
@@ -105,6 +108,7 @@ Markgraf-Rüdiger-Straße,wikidata,-,Q1651599,way
 "Marx-Meidlinger Straße",wikidata,-,Q1730731;Q2237824,way
 "Matzleinsdorfer Platz",wikidata,-,Q1910897,relation+way
 "Maurer Lange Gasse",wikidata,-,Q1910986,way
+Mautner-Markhof-Gasse,wikidata,-,Q1911877,way
 Max-Weiler-Platz,wikidata,-,Q2523348,way
 "Meidlinger Hauptstraße",wikidata,-,Q697557,way
 "Meidlinger Platzl",wikidata,-,Q697557,way
@@ -372,6 +376,7 @@ Anreitergasse,wikidata,M,Q1718054,way
 Anschützgasse,wikidata,M,Q70516,way
 Anton-Scharff-Gasse,wikidata,M,Q593777,way
 Anton-von-Webern-Platz,wikidata,M,Q190933,relation+way
+Anzengruberstraße,wikidata,M,Q93718,way
 Arnsburggasse,wikidata,M,Q1460851,way
 Arnsteingasse,wikidata,M,Q21936943,way
 Artholdgasse,wikidata,M,Q1170953,way
@@ -550,6 +555,7 @@ Haschkagasse,wikidata,M,Q320496,way
 Hasenhutgasse,wikidata,M,Q590075,way
 Haulerstraße,wikidata,M,Q89107,way
 Hegergasse,wikidata,M,Q89174,way
+Heinestraße,wikidata,M,Q44403,way
 Heinickegasse,wikidata,M,Q68317,way
 Heinrich-Drimmel-Platz,wikidata,M,Q1597075,way
 Helfertgasse,wikidata,M,Q88914,way
@@ -572,6 +578,7 @@ Hofmanngasse,wikidata,M,Q107031611,way
 Hofmannsthalgasse,wikidata,M,Q51513,way
 Hofmoklgasse,wikidata,M,Q1693298,way
 Hohenbergstraße,wikidata,M,Q1693429,way
+Holbeingasse,wikidata,M,Q48319,way
 Holeyplatz,wikidata,M,Q1731671,way
 Höpflergasse,wikidata,M,Q117088856,way
 Hubermanngasse,wikidata,M,Q453138,way
@@ -805,7 +812,7 @@ Schulzgasse,wikidata,M,Q60821790,way
 Schuppengasse,wikidata,M,Q1677705,way
 Schurzgasse,wikidata,M,Q55126414,way
 Schwagergasse,wikidata,M,Q2150565,way
-Schwarzenbergplatz,wikidata,M,Q163755,way
+Schwarzenbergplatz,wikidata,M,Q163755,relation+way
 Schwarzgrubergasse,wikidata,M,Q2173782,way
 Schweglerstraße,wikidata,M,Q1696182,way
 Schwemmingergasse,wikidata,M,Q36010130,way

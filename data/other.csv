@@ -323,7 +323,6 @@ Antonspark,,,,way
 Anzbachgasse,,,,way
 Anzengruberbrücke,,,,way
 Anzengrubergasse,,,,way
-Anzengruberstraße,,,,way
 Apfelgasse,,,,way
 Apfelrosenweg,,,,way
 Apfelweg,,,,way
@@ -385,7 +384,6 @@ Auerhahngasse,,,,way
 Auernheimergasse,,,,way
 "Auf der Haide",,,,way
 "Auf der Schanz",,,,way
-"Auf der Schmelz",,,,way
 "Auf der Schottenwiese",,,,way
 Augasse,,,,way
 Äugelbrücke,,,,way
@@ -781,6 +779,7 @@ Burgkmairgasse,,,,way
 Burgring,,,,way
 Bussardgasse,,,,way
 Bussongasse,,,,way
+"Busumkehrplatz Neue Donau",,,,way
 Buttenweg,,,,way
 Büttnergasse,,,,way
 Büttnersteg,,,,way
@@ -2208,7 +2207,6 @@ Heimkehrergasse,,,,way
 Heimschollegasse,,,,way
 Heimstättenstraße,,,,way
 Heindlgasse,,,,way
-Heinestraße,,,,way
 Heingasse,,,,way
 Heinrich-Collin-Straße,,,,way
 Heinrich-Kneissl-Gasse,,,,way
@@ -2420,7 +2418,6 @@ Höhenweg,,,,way
 "Hoher Markt",,,,way
 Hohlweggasse,,,,way
 Höhnegasse,,,,way
-Holbeingasse,,,,way
 Holetschekgasse,,,,way
 Hollandstraße,,,,way
 Hollerweg,,,,way
@@ -2500,8 +2497,6 @@ Huppgasse,,,,way
 Husarenweg,,,,way
 Huschkagasse,,,,way
 Hustergasse,,,,way
-Hüttelbergbrücke,,,,way
-Hüttelbergstraße,,,,way
 "Hütteldorfer Brücke",,,,way
 "Hütteldorfer Straße",,,,way
 Hüttenbrennersteg,,,,way
@@ -3783,7 +3778,6 @@ Maurerwaldweg,,,,way
 Maurichgasse,,,,way
 Mauthausgasse,,,,way
 Mauthnergasse,,,,way
-Mautner-Markhof-Gasse,,,,way
 Mautnerweg,,,,way
 Max-Böhm-Gasse,,,,way
 Max-Brod-Gasse,,,,way
@@ -6007,6 +6001,7 @@ Veronikagasse,,,,way
 Versbachgasse,,,,way
 Versorgungsheimplatz,,,,way
 Versorgungsheimstraße,,,,way
+"Verteilerkreis Favoriten",,,,way
 Vertexgasse,,,,way
 Vettersgasse,,,,way
 Vicky-Baum-Platz,,,,way
@@ -6301,7 +6296,6 @@ Wienerbergstraße,,,,way
 Wienerfeldgasse,,,,way
 Wienerflurgasse,,,,way
 Wienerwaldgasse,,,,way
-Wienflusseinwölbung,,,,way
 Wienflussweg,,,,way
 Wiengasse,,,,way
 Wieningerplatz,,,,way
@@ -6344,7 +6338,7 @@ Wilhelm-Otto-Straße,,,,way
 Wilhelm-Pinka-Platz,,,,way
 Wilhelm-Raab-Gasse,,,,way
 Wilhelm-Stemmer-Weg,,,,way
-Wilhelm-Svetelsky-Platz,,,,way
+Wilhelm-Svetelsky-Platz,,,,relation
 Wilhelm-Trummer-Weg,,,,way
 Wilhelmine-Moik-Platz,,,,way
 Wilhelminenstraße,,,,way
