@@ -38,7 +38,7 @@ Blindengasse,wikidata,-,Q884251,way
 Bonsaigasse,wikidata,-,Q64365,way
 "Breitenfelder Gasse",wikidata,-,Q906322,way
 "Breitenfurter Straße",wikidata,-,Q662190,way
-Bundesländerplatz,wikidata,-,Q7146024,way
+Bundesländerplatz,wikidata,-,Q261543,way
 Burggasse,wikidata,-,Q46242,way
 Concordiaplatz,wikidata,-,Q2108920,way
 "Döblinger Steg",wikidata,-,Q267360,way
@@ -78,7 +78,6 @@ Hagengasse,wikidata,-,Q1568447,way
 Herbstweg,wikidata,-,Q1314,way
 "Hetzendorfer Straße",wikidata,-,Q1616329,way
 Hollergasse,wikidata,-,Q131448,way
-Hüttelbergbrücke,wikidata,-,Q100142861,way
 Hüttelbergstraße,wikidata,-,Q100142861,way
 Innstraße,wikidata,-,Q14369,way
 "Inzersdorf Kirchenplatz",wikidata,-,Q2082710,way
@@ -194,6 +193,7 @@ Stock-im-Eisen-Platz,wikidata,-,Q25629422,way
 Stubenbrücke,wikidata,-,Q2358079,way
 Südbahnhofbrücke,wikidata,-,Q519025,way
 Tannengasse,wikidata,-,Q25350,way
+"Teichhausbrücke II",wikidata,-,Q38100744,way
 Tivolibrücke,wikidata,-,Q2437258,way
 Tivoligasse,wikidata,-,Q2437258,way
 Tokiostraße,wikidata,-,Q1490,way
@@ -226,6 +226,7 @@ Antonie-Alt-Gasse,wikidata,F,Q59653133,way
 Beatrix-Kempf-Gasse,wikidata,F,Q24084706,way
 Beatrixbrücke,wikidata,F,Q237663,way
 Beatrixgasse,wikidata,F,Q237663,way
+Bertha-Zuckerkandl-Weg,wikidata,F,Q86553,way
 Betty-Roose-Weg,wikidata,F,Q850400,way
 Brändströmgasse,wikidata,F,Q469673,way
 Burjanplatz,wikidata,F,Q78679,way
@@ -657,7 +658,7 @@ Kronfeldgasse,wikidata,M,Q86279,way
 Kronfußgasse,wikidata,M,Q1427971,way
 Krotenthallergasse,wikidata,M,Q60816410,way
 Kübeckgasse,wikidata,M,Q87022,way
-Kühnplatz,wikidata,M,Q55854206,relation
+Kühnplatz,wikidata,M,Q55854206,way
 Kundmanngasse,wikidata,M,Q323521,way
 Kundratstraße,wikidata,M,Q114138,way
 Kupkagasse,wikidata,M,Q111568911,way
