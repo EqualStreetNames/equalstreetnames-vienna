@@ -137,7 +137,7 @@ Philadelphiabrücke,wikidata,-,Q2537609,way
 Philharmonikerstraße,wikidata,-,Q154685,way
 Pielachgasse,wikidata,-,Q782708,way
 Pilgramgasse,wikidata,-,Q114254;Q100709330,way
-"Platz der Menschenrechte",wikidata,-,Q8458,way
+"Platz der Menschenrechte",wikidata,-,Q8458,relation
 Pöchlarnstraße,wikidata,-,Q255350,way
 "Pottendorfer Straße",wikidata,-,Q2106579,way
 Praterstern,wikidata,-,Q264752,relation+way
@@ -162,7 +162,7 @@ Rustensteg,wikidata,-,Q1486199,way
 Salzachstraße,wikidata,-,Q152661,way
 Schmelzbrücke,wikidata,-,Q2245976,way
 "Schönbrunner Allee",wikidata,-,Q131330,way
-"Schönbrunner Schlossbrücke",wikidata,-,Q131330,relation+way
+"Schönbrunner Schloßbrücke",wikidata,-,Q131330,way
 Schönlaterngasse,wikidata,-,Q37996366,way
 Schottenfeldgasse,wikidata,-,Q2249172,way
 Schottengasse,wikidata,-,Q549585,way
@@ -231,6 +231,7 @@ Betty-Roose-Weg,wikidata,F,Q850400,way
 Brändströmgasse,wikidata,F,Q469673,way
 Burjanplatz,wikidata,F,Q78679,way
 Ceija-Stojka-Platz,wikidata,F,Q546337,way
+Christine-Lavant-Gasse,wikidata,F,Q87975,way
 Christine-Nöstlinger-Gasse,wikidata,F,Q93652,way
 Christine-Touaillon-Straße,wikidata,F,Q1083826,way
 Christinengasse,wikidata,F,Q167439,way
@@ -312,9 +313,10 @@ Maria-Lassnig-Straße,wikidata,F,Q538534,way
 Maria-Potesil-Gasse,wikidata,F,Q50850453,way
 Maria-Restituta-Platz,wikidata,F,Q285995,relation
 Mária-Telkes-Weg,wikidata,F,Q7415,way
-Maria-Theresien-Platz,wikidata,F,Q131706,relation
+Maria-Theresien-Platz,wikidata,F,Q131706,way
 Maria-Trapp-Platz,wikidata,F,Q93624,way
 Maria-Tusch-Straße,wikidata,F,Q1896376,way
+Marianna-Martines-Weg,wikidata,F,Q274175,way
 Marianne-Hainisch-Gasse,wikidata,F,Q87555,way
 Marianne-Pollak-Gasse,wikidata,F,Q1602806,way
 Marietta-Blau-Gasse,wikidata,F,Q87524,way
@@ -422,7 +424,7 @@ Camillo-Sitte-Gasse,wikidata,M,Q93987,way
 Canalettogasse,wikidata,M,Q182664,way
 Canevalestraße,wikidata,M,Q112818,way
 Canongasse,wikidata,M,Q673664,way
-Christian-Broda-Platz,wikidata,M,Q89372,relation
+Christian-Broda-Platz,wikidata,M,Q89372,way
 Columbusgasse,wikidata,M,Q7322,way
 Columbusplatz,wikidata,M,Q7322,relation+way
 Corneliusgasse,wikidata,M,Q57257,way
@@ -491,6 +493,7 @@ Franz-Emerich-Gasse,wikidata,M,Q1446658,way
 Franz-Josefs-Kai,wikidata,M,Q51056,relation+way
 Franz-Schreker-Gasse,wikidata,M,Q78528,way
 Franz-Schuhmeier-Gasse,wikidata,M,Q1031252,way
+Franz-Wels-Gasse,wikidata,M,Q1449414,way
 Franzensbrücke,wikidata,M,Q130834,way
 Fraungrubergasse,wikidata,M,Q1579532,way
 Fred-Zinnemann-Platz,wikidata,M,Q55420,relation+way

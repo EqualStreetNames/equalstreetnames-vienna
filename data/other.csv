@@ -82,7 +82,6 @@ Alexander-Mell-Gasse,,,,way
 Alexander-Nehr-Gasse,,,,way
 Alexander-Poch-Platz,,,,way
 Alfons-Petzold-Gasse,,,,way
-Alfred-Grasel-Gasse,,,,way
 Alfred-Huth-Gasse,,,,way
 Alfred-Kubin-Platz,,,,way
 Alfred-Nobel-Straße,,,,way
@@ -145,6 +144,7 @@ Alxingergasse,,,,way
 "Am Bisamberg",,,,way
 "Am Brigittenauer Sporn",,,,way
 "Am Bruckhaufen",,,,way
+"Am Campus Favoriten",,,,way
 "Am Carré",,,,way
 "Am Cobenzl",,,,way
 "Am Damm",,,,way
@@ -159,11 +159,10 @@ Alxingergasse,,,,way
 "Am Heidjöchl",,,,way
 "Am Heumarkt",,,,way
 "Am Himmelreich",,,,way
-"Am Hof",,,,way
+"Am Hof",,,,relation+way
 "Am Hofgartel",,,,way
 "Am Hubertusdamm",,,,way
 "Am Hundsturm",,,,way
-"Am Hundsturm, Bräuhausgasse",,,,way
 "Am Hundsturm, Margaretenstraße",,,,way
 "Am Johannesberg",,,,way
 "Am Kahlenberg",,,,relation+way
@@ -408,7 +407,6 @@ Aumannplatz,,,,way
 Aumühlstraße,,,,way
 Auparkweg,,,,way
 Aurikelweg,,,,way
-Ausjagdweg,,,,way
 Auspitzgasse,,,,way
 Aussichtsweg,,,,way
 Austerlitzgasse,,,,way
@@ -515,7 +513,6 @@ Bellgassensteg,,,,way
 Bellinigasse,,,,way
 Belovskyweg,,,,way
 Belvedereallee,,,,way
-"Belvedereallee 2",,,,way
 Belvederegasse,,,,way
 Benatzkygasse,,,,way
 Bendagasse,,,,way
@@ -571,6 +568,7 @@ Biberstraße,,,,way
 Bickellgasse,,,,way
 Bickgasse,,,,way
 Biedergasse,,,,way
+Bielsko-Biala-Weg,,,,way
 Bienefeldgasse,,,,way
 Bienengasse,,,,way
 Bienenweg,,,,way
@@ -578,7 +576,6 @@ Bienweg,,,,way
 Biererlgasse,,,,way
 Bierhäuselberggasse,,,,way
 Biljan-Bilger-Gasse,,,,way
-"Billa Parkplatz",,,,way
 Billergasse,,,,way
 Billerstiege,,,,way
 Billgasse,,,,way
@@ -831,10 +828,8 @@ Chrastekgasse,,,,way
 Christbaumkulturweg,,,,way
 Christenson-Steg,,,,way
 Christian-Bucher-Gasse,,,,way
-Christian-Petzlberger-Weg,,,,way
 Christian-von-Arup-Gasse,,,,way
 Christine-Enghaus-Weg,,,,way
-Christine-Lavant-Gasse,,,,way
 Christmanngasse,,,,way
 Christophgasse,,,,way
 Chrobakgasse,,,,way
@@ -1542,7 +1537,6 @@ Franz-Schuster-Gasse,,,,way
 Franz-Sebek-Straße,,,,way
 Franz-Siller-Gasse,,,,way
 Franz-Siller-Weg,,,,way
-Franz-Wels-Gasse,,,,way
 Franz-Zahalka-Weg,,,,way
 Franz-von-Sales-Steg,,,,way
 Franzensbrückenstraße,,,,way
@@ -1575,7 +1569,7 @@ Freumbichlerweg,,,,way
 Freundgasse,,,,way
 Freyenthurmgasse,,,,way
 Freytaggasse,,,,way
-Freyung,,,,relation+way
+Freyung,,,,way
 Friedensgasse,,,,way
 Friedenshöhegasse,,,,way
 Friedensreich-Hundertwasser-Platz,,,,way
@@ -2116,6 +2110,7 @@ Hans-Weigel-Gasse,,,,way
 Hansalgasse,,,,way
 Hanschweg,,,,way
 Hanschwegbrücke,,,,way
+Hanselgrundbrückl,,,,way
 Hanselmayergasse,,,,way
 Hanselweg,,,,way
 Hansenstraße,,,,way
@@ -2223,6 +2218,7 @@ Heinrich-Zeder-Weg,,,,way
 Heinrich-von-Buol-Gasse,,,,way
 Heinrichsgasse,,,,way
 Heinz-Holecek-Platz,,,,way
+Heinz-Jerabek-Platz,,,,way
 Heinz-Lazek-Weg,,,,way
 Heinz-Nittel-Weg,,,,way
 Heinz-Werner-Schimanko-Weg,,,,way
@@ -2318,6 +2314,7 @@ Heuberggasse,,,,way
 Heuberggstättenstraße,,,,way
 Heudörfelgasse,,,,way
 Heumühlgasse,,,,way
+"Heuriger Schübel-Auer",,,,way
 Heuschreckengasse,,,,way
 Heustadelbrücke,,,,way
 Heustadelgasse,,,,way
@@ -2572,6 +2569,7 @@ Irisgasse,,,,way
 Irissteg,,,,way
 Irma-Trksak-Straße,,,,way
 Irrgartenallee,,,,way
+Isabella-Jechl-Weg,,,,way
 Isbarygasse,,,,way
 Iselgasse,,,,way
 Isidro-Fabela-Promenade,,,,way
@@ -2681,7 +2679,6 @@ Johannes-de-La-Salle-Gasse,,,,way
 Johannes-von-Gott-Platz,,,,way
 Johannesgasse,,,,way
 Johannessteig,,,,way
-Johanngasse,,,,way
 Johannitergasse,,,,way
 Johnstraße,,,,way
 Jordangasse,,,,way
@@ -2991,6 +2988,7 @@ Kiki-Kogelnik-Weg,,,,way
 Kimmerlgasse,,,,way
 Kindergartengasse,,,,way
 Kinderspitalgasse,,,,way
+Kindertunnel,,,,way
 Kinkplatz,,,,way
 Kinzerplatz,,,,way
 Kirchberggasse,,,,way
@@ -3467,7 +3465,6 @@ Leyßgasse,,,,way
 Lhotskygasse,,,,way
 Lhotskyweg,,,,way
 Liane-Haid-Weg,,,,way
-Libellenweg,,,,way
 Libussagasse,,,,way
 Lichnowskygasse,,,,way
 Lichtblaustraße,,,,way
@@ -3636,7 +3633,7 @@ Lützowgasse,,,,way
 Luzegasse,,,,way
 Lynkeusgasse,,,,way
 "M Weg",,,,way
-MPQ-Kart-Bahn,,,,way
+MTB-Kehre,,,,way
 Maargasse,,,,way
 Machegasse,,,,way
 Macholdastraße,,,,way
@@ -3720,7 +3717,6 @@ Maria-Welser-Platz,,,,way
 "Mariabrunner Straße",,,,way
 "Mariahilfer Gürtel",,,,way
 "Mariahilfer Straße",,,,way
-Marianna-Martines-Weg,,,,way
 Marianne-Schmidl-Steig,,,,way
 Marianne-Schönauer-Gasse,,,,way
 Mariannengasse,,,,way
@@ -3818,6 +3814,7 @@ Mazellegasse,,,,way
 Medeagasse,,,,way
 Medlergasse,,,,way
 Medwedweg,,,,way
+"Mega Kart",,,,way
 Meggaugasse,,,,way
 Mehlbeerengasse,,,,way
 Mehlführergasse,,,,way
@@ -4030,7 +4027,6 @@ Nadlergasse,,,,way
 Naglergasse,,,,way
 Napoleonwaldgasse,,,,way
 Narzissenweg,,,,way
-Naschmarkt,,,,relation
 Nasenweg,,,,way
 Nästlbergergasse,,,,way
 Natorpgasse,,,,way
@@ -4143,16 +4139,16 @@ Nowakgasse,,,,way
 Nowalskigasse,,,,way
 Nuschinggasse,,,,way
 Nussbaumallee,,,,way
-Nussberggasse,,,,way
 "Nussdorfer Lände",,,,way
-"Nussdorfer Platz",,,,way
-"Nussdorfer Straße",,,,way
-Nusswaldgasse,,,,way
 Nußallee,,,,way
 Nußbaumweg,,,,way
+Nußberggasse,,,,way
 "Nußdorfer Lände",,,,way
+"Nußdorfer Platz",,,,way
 "Nußdorfer Schleusenbrücke",,,,way
+"Nußdorfer Straße",,,,way
 Nußgasse,,,,way
+Nußwaldgasse,,,,way
 Nußweg,,,,way
 Nymphengasse,,,,way
 O'Brien-Gasse,,,,way
@@ -4627,7 +4623,6 @@ Rallenweg,,,,way
 Rampengasse,,,,way
 Ramperstorffergasse,,,,way
 Ramsaygasse,,,,way
-Ramwiesenweg,,,,way
 Randgasse,,,,way
 Ranftlgasse,,,,way
 Rankgasse,,,,way
@@ -4828,10 +4823,10 @@ Rosmaringasse,,,,way
 Rossakgasse,,,,way
 "Rossauer Brücke",,,,way
 "Rossauer Gasse",,,,way
-"Rossauer Lände",,,,way
 Rossinigasse,,,,way
 Rosthorngasse,,,,way
 Rosvaengegasse,,,,way
+"Roßauer Lände",,,,way
 Roßkopfgasse,,,,way
 Rößlergasse,,,,way
 Rotenberggasse,,,,way
@@ -5025,7 +5020,6 @@ Schegargasse,,,,way
 Scheibelreitergasse,,,,way
 Scheibenbergstraße,,,,way
 Scheibengasse,,,,way
-Scheiblinweg,,,,way
 Scheichgasse,,,,way
 Scheidlstraße,,,,way
 Scheimpfluggasse,,,,way
@@ -5101,8 +5095,6 @@ Schlickplatz,,,,way
 Schliemanngasse,,,,way
 Schließmanngasse,,,,way
 Schlimekgasse,,,,way
-Schlossallee,,,,way
-Schlossberggasse,,,,way
 Schlösselgasse,,,,way
 Schlosserallee,,,,way
 Schlossergang,,,,way
@@ -5110,6 +5102,8 @@ Schlossergasse,,,,way
 Schlosserplatzl,,,,way
 Schlossgasse,,,,way
 Schlossseeweg,,,,way
+Schloßallee,,,,way
+Schloßberggasse,,,,way
 Schloßgartenstraße,,,,way
 "Schloßhofer Straße",,,,way
 Schloßparkgasse,,,,way
@@ -5153,7 +5147,8 @@ Schönbergplatz,,,,way
 "Schönbrunner Brücke",,,,way
 "Schönbrunner Graben",,,,way
 "Schönbrunner Ringelspiel",,,,way
-"Schönbrunner Schlossstraße",,,,way
+"Schönbrunner Schlossbrücke",,,,relation
+"Schönbrunner Schloßstraße",,,,way
 "Schönbrunner Straße",,,,way
 Schönburgstraße,,,,way
 Schongauergasse,,,,way
@@ -5293,6 +5288,7 @@ Seifertstraße,,,,way
 Seilergasse,,,,way
 Seilerstätte,,,,way
 Seilsteg,,,,way
+Seipeltgasse,,,,way
 Seippgasse,,,,way
 Seiseneggergasse,,,,way
 Seisgasse,,,,way
@@ -6113,7 +6109,6 @@ Waldmüllergasse,,,,way
 Waldrandweg,,,,way
 Waldrebengasse,,,,way
 Waldrosengasse,,,,way
-Waldschafferweg,,,,way
 Waldsteingartenstraße,,,,way
 Waldstraße,,,,way
 Waldviertlerweg,,,,way
@@ -6349,6 +6344,7 @@ Wilhelm-Legler-Gasse,,,,way
 Wilhelm-Leibl-Gasse,,,,way
 Wilhelm-Otto-Straße,,,,way
 Wilhelm-Pinka-Platz,,,,way
+Wilhelm-Popp-Weg,,,,way
 Wilhelm-Raab-Gasse,,,,way
 Wilhelm-Stemmer-Weg,,,,way
 Wilhelm-Svetelsky-Platz,,,,relation
@@ -6425,7 +6421,6 @@ Wonkaplatz,,,,relation
 Wopenkastraße,,,,way
 Worellstraße,,,,way
 Wranitzkygasse,,,,way
-Wüllenweber-und-Jordan-Platz,,,,way
 Wulzendorfstraße,,,,way
 Würffelgasse,,,,way
 Wurlitzergasse,,,,way
@@ -6467,6 +6462,7 @@ Zeifgasse,,,,way
 Zeilingerweg,,,,way
 Zeillergasse,,,,way
 Zeinlhofergasse,,,,way
+Zeisigweg,,,,way
 Zeleborgasse,,,,way
 Zelinkagasse,,,,way
 Zelkinggasse,,,,way
