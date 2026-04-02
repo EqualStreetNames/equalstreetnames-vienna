@@ -102,7 +102,6 @@ Alois-Czedik-Gasse,,,,way
 Alois-Dachs-Gasse,,,,way
 Alois-Drasche-Park,,,,way
 Alois-Eyermann-Weg,,,,way
-Alois-Grandl-Weg,,,,way
 Alois-Höfler-Gasse,,,,way
 Alois-Kraus-Promenade,,,,way
 Alois-Mock-Gasse,,,,way
@@ -163,7 +162,6 @@ Alxingergasse,,,,way
 "Am Hofgartel",,,,way
 "Am Hubertusdamm",,,,way
 "Am Hundsturm",,,,way
-"Am Hundsturm, Margaretenstraße",,,,way
 "Am Johannesberg",,,,way
 "Am Kahlenberg",,,,relation+way
 "Am Kaisermühlendamm",,,,way
@@ -407,6 +405,7 @@ Aumannplatz,,,,way
 Aumühlstraße,,,,way
 Auparkweg,,,,way
 Aurikelweg,,,,way
+Ausjagdweg,,,,way
 Auspitzgasse,,,,way
 Aussichtsweg,,,,way
 Austerlitzgasse,,,,way
@@ -582,7 +581,6 @@ Billgasse,,,,way
 Billrothstraße,,,,way
 Billrothstraßenbrücke,,,,way
 Billy-Wilder-Promenade,,,,way
-Bilrothstraße,,,,way
 Binagasse,,,,way
 Bindergasse,,,,way
 Binsenweg,,,,way
@@ -828,6 +826,7 @@ Chrastekgasse,,,,way
 Christbaumkulturweg,,,,way
 Christenson-Steg,,,,way
 Christian-Bucher-Gasse,,,,way
+Christian-Petzlberger-Weg,,,,way
 Christian-von-Arup-Gasse,,,,way
 Christine-Enghaus-Weg,,,,way
 Christmanngasse,,,,way
@@ -1127,7 +1126,6 @@ Edelsinnbrücke,,,,way
 Edelsinnstraße,,,,way
 Edelsteingasse,,,,way
 Edenstraße,,,,way
-"Edenstraße, Viktor-Kutschera-Platz",,,,way
 Edergasse,,,,way
 Edi-Finger-Straße,,,,way
 Edisonstraße,,,,way
@@ -1244,7 +1242,7 @@ Engelshofengasse,,,,way
 Engerthstraße,,,,way
 Engilgasse,,,,way
 Englisch-Feld-Gasse,,,,way
-Enkplatz,,,,way
+Enkplatz,,,,relation+way
 Ennemosergasse,,,,way
 Ennsgasse,,,,way
 Entensteig,,,,way
@@ -1717,7 +1715,6 @@ Genéegasse,,,,way
 Geniehof,,,,way
 Genochplatz,,,,way
 Genossenschaftsstraße,,,,way
-"Genossenschaftsstraße, Viktor-Kutschera-Platz",,,,way
 Gentzgasse,,,,way
 "Genuss-Weg im Prater",,,,way
 Geologengasse,,,,way
@@ -1813,7 +1810,6 @@ Glockenweg,,,,way
 Gloriettegasse,,,,way
 Gloriettestraße,,,,way
 Glossystraße,,,,way
-"Glossystraße, Viktor-Kutschera-Platz",,,,way
 Glutmüllerwiesenweg,,,,way
 Gmarchhaufenstraße,,,,way
 Gmeinbekweg,,,,way
@@ -2550,6 +2546,7 @@ Immergrüngasse,,,,way
 "In der goldenen Erden",,,,way
 Indigoweg,,,,way
 Industriestraße,,,,way
+"Ing. Erich Bauer Weg",,,,way
 Ing.-Körner-Gasse,,,,way
 Ing.-Sarek-Weg,,,,way
 Inge-Konradi-Gasse,,,,way
@@ -4623,6 +4620,7 @@ Rallenweg,,,,way
 Rampengasse,,,,way
 Ramperstorffergasse,,,,way
 Ramsaygasse,,,,way
+Ramwiesenweg,,,,way
 Randgasse,,,,way
 Ranftlgasse,,,,way
 Rankgasse,,,,way
@@ -5020,6 +5018,7 @@ Schegargasse,,,,way
 Scheibelreitergasse,,,,way
 Scheibenbergstraße,,,,way
 Scheibengasse,,,,way
+Scheiblinweg,,,,way
 Scheichgasse,,,,way
 Scheidlstraße,,,,way
 Scheimpfluggasse,,,,way
@@ -5204,7 +5203,6 @@ Schulgasse,,,,way
 Schulhof,,,,way
 Schulhof-Passage,,,,way
 Schulsteig,,,,way
-"Schulsteig,Hornspergsteig",,,,way
 Schultergasse,,,,way
 Schultheßgasse,,,,way
 Schulweg,,,,way
@@ -5212,8 +5210,8 @@ Schulz-Straßnitzki-Gasse,,,,way
 Schumanngasse,,,,way
 Schumpeterweg,,,,way
 Schuselkagasse,,,,way
-Schusslinie,,,,way
 Schusswallgasse,,,,way
+Schußlinie,,,,way
 Schüttauplatz,,,,way
 Schüttaustraße,,,,way
 Schütte-Lihotzky-Weg,,,,way
@@ -5370,7 +5368,7 @@ Silvinggasse,,,,way
 Simmelgasse,,,,way
 "Simmeringer Hauptstraße",,,,way
 "Simmeringer Lände",,,,way
-"Simmeringer Platz",,,,relation+way
+"Simmeringer Platz",,,,way
 Simon-Denk-Gasse,,,,way
 Simon-Wiesenthal-Gasse,,,,way
 Simone-Veil-Gasse,,,,way
@@ -5521,7 +5519,6 @@ Stallburggasse,,,,way
 "Stammersdorfer Straße",,,,way
 Stammgasse,,,,way
 Stammhausstraße,,,,way
-"Stammhausstraße, Viktor-Kutschera-Platz",,,,way
 Stampfergasse,,,,way
 Stanislausgasse,,,,way
 Starchantgasse,,,,way
@@ -6109,6 +6106,7 @@ Waldmüllergasse,,,,way
 Waldrandweg,,,,way
 Waldrebengasse,,,,way
 Waldrosengasse,,,,way
+Waldschafferweg,,,,way
 Waldsteingartenstraße,,,,way
 Waldstraße,,,,way
 Waldviertlerweg,,,,way
@@ -6189,6 +6187,11 @@ Wedlgasse,,,,way
 "Weg 9",,,,way
 "Weg A",,,,way
 "Weg B",,,,way
+"Weg C",,,,way
+"Weg D",,,,way
+"Weg E",,,,way
+"Weg F",,,,way
+"Weg G",,,,way
 "Weg zur Hohen Warte",,,,way
 Wegelergasse,,,,way
 Wegerichgasse,,,,way
