@@ -161,7 +161,6 @@ Alxingergasse,,,,way
 "Am Hof",,,,relation+way
 "Am Hofgartel",,,,way
 "Am Hubertusdamm",,,,way
-"Am Hundsturm",,,,way
 "Am Johannesberg",,,,way
 "Am Kahlenberg",,,,relation+way
 "Am Kaisermühlendamm",,,,way
@@ -351,6 +350,7 @@ Arnold-Holm-Gasse,,,,way
 Arnold-Pollak-Brücke,,,,way
 Arnold-Rosé-Gasse,,,,way
 Arnoldgasse,,,,way
+Arsenalsteg,,,,way
 Arsenalstraße,,,,way
 Artariabrücke,,,,way
 Artariastraße,,,,way
@@ -429,7 +429,6 @@ Bachrachgasse,,,,way
 Bachzeile,,,,way
 Bäckenbrünnlgasse,,,,way
 Bäckerstraße,,,,way
-Badewinkel,,,,way
 Badgasse,,,,way
 Badhausgasse,,,,way
 Badhaussteg,,,,way
@@ -457,7 +456,6 @@ Barakgasse,,,,way
 Baranygasse,,,,way
 Barawitzkagasse,,,,way
 Barbara-Prammer-Allee,,,,way
-Barbenweg,,,,way
 Bärengasse,,,,way
 Bärenmühldurchgang,,,,way
 Barmherzigengasse,,,,way
@@ -544,7 +542,6 @@ Bernhardtstalgasse,,,,way
 Bernoullistraße,,,,way
 Bernreiterplatz,,,,way
 Berresgasse,,,,way
-Bert-Brecht-Platz,,,,way
 Berta-Karlik-Gasse,,,,way
 Bertégasse,,,,way
 Bertha-Eckstein-Weg,,,,way
@@ -1003,9 +1000,7 @@ Dommesgasse,,,,way
 Don-Bosco-Weg,,,,way
 Donabaumgasse,,,,way
 Donatelloweg,,,,way
-Donau-City-Nord-Sichelsteg,,,,way
 Donau-City-Straße,,,,way
-Donau-City_Nord_Sichelsteg,,,,way
 Donaueschingenstraße,,,,way
 "Donaufeld Bundesstraße",,,,way
 "Donaufelder Straße",,,,way
@@ -1100,6 +1095,7 @@ Dunantgasse,,,,way
 Dürauergasse,,,,way
 "Durchfahrt V",,,,way
 "Durchgang Hollergasse-Reichsapfelgasse",,,,way
+"Durchgang im Müller",,,,way
 "Durchhaus Taborstraße 10",,,,way
 "Durchhaus Taborstraße 6",,,,way
 "Durchhaus Taborstraße 8",,,,way
@@ -1158,7 +1154,6 @@ Egon-Haug-Gasse,,,,way
 Egon-Schiele-Gasse,,,,way
 Ehamgasse,,,,way
 "Ehamgasse Fußweg",,,,way
-"Ehemalige Knöpferlbahn",,,,way
 Ehmweg,,,,way
 Ehrenpreisgasse,,,,way
 Ehrensteingasse,,,,way
@@ -1300,10 +1295,10 @@ Eselstiege,,,,way
 Eslarngasse,,,,way
 Espenweg,,,,way
 Essiggasse,,,,way
-Esslinggasse,,,,way
 Esterházygasse,,,,way
 "Eßlinger Furt",,,,way
 "Eßlinger Hauptstraße",,,,way
+Eßlinggasse,,,,way
 Etrichstraße,,,,way
 Ettingshausengasse,,,,way
 Eugen-Bormann-Gasse,,,,way
@@ -1680,7 +1675,6 @@ Gärtnergasse,,,,way
 Gärtnerstraße,,,,way
 Gasgasse,,,,way
 Gasparoneweg,,,,way
-Gassergasse,,,,way
 Gasteigergasse,,,,way
 Gastgebgasse,,,,way
 Gaswerksteg,,,,way
@@ -2185,7 +2179,6 @@ Haymogasse,,,,way
 Hebbelgasse,,,,way
 Hebbelplatz,,,,way
 Hebragasse,,,,way
-Hechtweg,,,,way
 Heckenweg,,,,way
 Hederichgasse,,,,way
 Hedwiggasse,,,,way
@@ -2193,7 +2186,7 @@ Hedy-Urach-Gasse,,,,way
 Heeresmuseumstraße,,,,way
 Hegelgasse,,,,way
 Heidenreichsteinweg,,,,way
-Heidenschuss,,,,way
+Heidenschuß,,,,way
 Heiderichstraße,,,,way
 Heidestraße,,,,way
 Heigerleinstraße,,,,way
@@ -2564,6 +2557,7 @@ Irenäusgasse,,,,way
 Irene-Jerusalem-Weg,,,,way
 Irisgasse,,,,way
 Irissteg,,,,way
+Irma-Teirich-Gasse,,,,way
 Irma-Trksak-Straße,,,,way
 Irrgartenallee,,,,way
 Isabella-Jechl-Weg,,,,way
@@ -2618,6 +2612,7 @@ Jenbachgasse,,,,way
 Jeneweingasse,,,,way
 Jenischenweg,,,,way
 Jennerplatz,,,,way
+Jenny-Korb-Gasse,,,,way
 Jenny-Strasser-Platz,,,,way
 Jenschikweg,,,,way
 Jenullgasse,,,,way
@@ -2890,6 +2885,7 @@ Karl-Walther-Gasse,,,,way
 Karl-Wilhelm-Diefenbach-Gasse,,,,way
 Karl-von-Böhmerle-Gasse,,,,way
 Karl-von-Frisch-Weg,,,,way
+Karlheinz-Hackl-Weg,,,,way
 Karlik-Tor,,,,way
 Karlikgasse,,,,way
 Karlingergasse,,,,way
@@ -3069,6 +3065,7 @@ Knöfelgasse,,,,way
 Knollergasse,,,,way
 Knollgasse,,,,way
 Knöllgasse,,,,way
+Knöpferlbahn,,,,way
 Knorrweg,,,,way
 Knospenweg,,,,way
 Knotzenbachgasse,,,,way
@@ -3277,7 +3274,6 @@ Labanweg,,,,way
 Laberlsteg,,,,way
 Laberlweg,,,,way
 Laborweg,,,,way
-Lachsweg,,,,way
 Lackenbachweg,,,,way
 Lackenjöchelgasse,,,,way
 Lacknergasse,,,,way
@@ -3354,6 +3350,7 @@ Lavantgasse,,,,way
 Lavaterstraße,,,,way
 Lavendelweg,,,,way
 Laverangasse,,,,way
+"Laxemburger Straße",,,,way
 "Laxenburger Brücke",,,,way
 "Laxenburger Straße",,,,way
 Layerweg,,,,way
@@ -4466,6 +4463,7 @@ Plankengasse,,,,way
 Plankenmaisstraße,,,,way
 Plattensteinergasse,,,,way
 Plattlgasse,,,,way
+"Platz beim Froschkönig",,,,relation
 "Platz der Kulturen",,,,way
 "Platz der Opfer der Deportation",,,,way
 "Platz der Sozialen Sicherheit",,,,way
@@ -4591,7 +4589,6 @@ Quer-Lindenallee,,,,way
 Querweg,,,,way
 Quittenweg,,,,way
 Raaber-Bahn-Gasse,,,,way
-Raabweg,,,,way
 Rabbiner-Friedmann-Platz,,,,way
 Rabbiner-Schneerson-Platz,,,,way
 Rabengasse,,,,way
@@ -4819,11 +4816,12 @@ Rosinagasse,,,,way
 Rosl-Berndt-Platz,,,,way
 Rosmaringasse,,,,way
 Rossakgasse,,,,way
-"Rossauer Brücke",,,,way
 "Rossauer Gasse",,,,way
 Rossinigasse,,,,way
 Rosthorngasse,,,,way
 Rosvaengegasse,,,,way
+"Roßauer Brücke",,,,way
+"Roßauer Gasse",,,,way
 "Roßauer Lände",,,,way
 Roßkopfgasse,,,,way
 Rößlergasse,,,,way
@@ -4938,7 +4936,6 @@ Salisstraße,,,,way
 "Salmannsdorfer Höhe",,,,way
 "Salmannsdorfer Straße",,,,way
 Salmgasse,,,,way
-Salomon-Sulzer-Platz,,,,way
 Salomongasse,,,,way
 Saltenstraße,,,,way
 Salusgasse,,,,way
@@ -5099,11 +5096,11 @@ Schlosserallee,,,,way
 Schlossergang,,,,way
 Schlossergasse,,,,way
 Schlosserplatzl,,,,way
-Schlossgasse,,,,way
 Schlossseeweg,,,,way
 Schloßallee,,,,way
 Schloßberggasse,,,,way
 Schloßgartenstraße,,,,way
+Schloßgasse,,,,way
 "Schloßhofer Straße",,,,way
 Schloßparkgasse,,,,way
 Schloßpromenade,,,,way
@@ -5146,7 +5143,6 @@ Schönbergplatz,,,,way
 "Schönbrunner Brücke",,,,way
 "Schönbrunner Graben",,,,way
 "Schönbrunner Ringelspiel",,,,way
-"Schönbrunner Schlossbrücke",,,,relation
 "Schönbrunner Schloßstraße",,,,way
 "Schönbrunner Straße",,,,way
 Schönburgstraße,,,,way
@@ -5210,8 +5206,8 @@ Schulz-Straßnitzki-Gasse,,,,way
 Schumanngasse,,,,way
 Schumpeterweg,,,,way
 Schuselkagasse,,,,way
-Schusswallgasse,,,,way
 Schußlinie,,,,way
+Schußwallgasse,,,,way
 Schüttauplatz,,,,way
 Schüttaustraße,,,,way
 Schütte-Lihotzky-Weg,,,,way
@@ -5368,7 +5364,7 @@ Silvinggasse,,,,way
 Simmelgasse,,,,way
 "Simmeringer Hauptstraße",,,,way
 "Simmeringer Lände",,,,way
-"Simmeringer Platz",,,,way
+"Simmeringer Platz",,,,relation+way
 Simon-Denk-Gasse,,,,way
 Simon-Wiesenthal-Gasse,,,,way
 Simone-Veil-Gasse,,,,way
@@ -5482,7 +5478,6 @@ Springenfelsgasse,,,,way
 Springergasse,,,,way
 Springsiedelgasse,,,,way
 Spundagasse,,,,way
-"St. Elisabeth-Platz",,,,relation
 "St. Veiter Brücke",,,,way
 St.-Georg-Platz,,,,way
 St.-Gotthard-Straße,,,,way
@@ -6442,6 +6437,7 @@ Wützlerstraße,,,,way
 Ybbsstraße,,,,way
 Yehudi-Menuhin-Weg,,,,way
 Yppengasse,,,,way
+Yppenmarkt,,,,way
 Yppenplatz,,,,way
 Z-Weg,,,,way
 Zachgasse,,,,way

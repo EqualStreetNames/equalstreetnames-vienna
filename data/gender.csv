@@ -15,6 +15,7 @@ Albertinaplatz,wikidata,-,Q371908,way
 "Altmannsdorfer Straße",wikidata,-,Q442551,way
 "Am Bahnhof",wikidata,-,Q85848033,way
 "Am Gestade",wikidata,-,Q896586,way
+"Am Hundsturm",wikidata,-,Q456192,way
 "Am Kabelwerk",wikidata,-,Q1696969,way
 "Am Rosenhügel",wikidata,-,Q21859814,way
 Amarantgasse,wikidata,-,Q156344,way
@@ -55,7 +56,7 @@ Esparsette-Weg,wikidata,-,Q156932,way
 Europaplatz,wikidata,-,Q8908,way
 FSInf-Weg,wikidata,-,Q73219631,way
 Färbergasse,wikidata,-,Q6147194,way
-Fassziehergasse,wikidata,-,Q56298815,way
+Faßziehergasse,wikidata,-,Q56298815,way
 "Finstere Allee",wikidata,-,Q204170,way
 Franz-Hauer-Platz,wikidata,-,Q20758720,way
 Franziskanerplatz,wikidata,-,Q165005,relation+way
@@ -123,8 +124,8 @@ Nabuccogasse,wikidata,-,Q202230,way
 Neubaugasse,wikidata,-,Q1979250,way
 Nikolaisteg,wikidata,-,Q1702683,way
 Nippongasse,wikidata,-,Q17,way
-"Nussdorfer Brücke",wikidata,-,Q1395576,way
-"Nussdorfer Steg",wikidata,-,Q379531,way
+"Nußdorfer Brücke",wikidata,-,Q1395576,way
+"Nußdorfer Steg",wikidata,-,Q379531,way
 Oeverseestraße,wikidata,-,Q1434874,way
 Operngasse,wikidata,-,Q209937,way
 Osrambrücke,wikidata,-,Q310481,way
@@ -162,7 +163,7 @@ Rustensteg,wikidata,-,Q1486199,way
 Salzachstraße,wikidata,-,Q152661,way
 Schmelzbrücke,wikidata,-,Q2245976,way
 "Schönbrunner Allee",wikidata,-,Q131330,way
-"Schönbrunner Schloßbrücke",wikidata,-,Q131330,way
+"Schönbrunner Schloßbrücke",wikidata,-,Q131330,relation+way
 Schönlaterngasse,wikidata,-,Q37996366,way
 Schottenfeldgasse,wikidata,-,Q2249172,way
 Schottengasse,wikidata,-,Q549585,way
@@ -181,6 +182,7 @@ Sparefrohgasse,wikidata,-,Q1682039,way
 "Spittelauer Platz",wikidata,-,Q130570830,relation+way
 "Spittelauer Steg",wikidata,-,Q440448;Q130570830,way
 Spittelberggasse,wikidata,-,Q1587233,way
+"St. Elisabeth-Platz",wikidata,-,Q159862;Q2318104,relation
 St.-Bartholomäus-Platz,wikidata,-,Q1722766,way
 St.-Elisabeth-Platz,wikidata,-,Q159862;Q2318104,way
 St.-Ulrichs-Platz,wikidata,-,Q2477141,way
@@ -510,6 +512,7 @@ Furtwänglerplatz,wikidata,M,Q57285,way
 Gaargasse,wikidata,M,Q18342810,way
 Gänsbachergasse,wikidata,M,Q1669362,way
 Garelligasse,wikidata,M,Q29444993,way
+Gassergasse,wikidata,M,Q877357,way
 Gaßmannstraße,wikidata,M,Q700816,way
 Gaulgasse,wikidata,M,Q1555842,way
 Gaußplatz,wikidata,M,Q6722,way
@@ -666,7 +669,6 @@ Kundmanngasse,wikidata,M,Q323521,way
 Kundratstraße,wikidata,M,Q114138,way
 Kupkagasse,wikidata,M,Q111568911,way
 Kürnbergergasse,wikidata,M,Q669703,way
-Kurt-Heller-Steg,wikidata,M,Q1793638,way
 Kurt-Pint-Platz,wikidata,M,Q53537519,relation
 Kutschkergasse,wikidata,M,Q78985,way
 Kwietongasse,wikidata,M,Q5442254,way
@@ -794,6 +796,7 @@ Ruttenstockgasse,wikidata,M,Q55133988,way
 Safargasse,wikidata,M,Q684673,way
 Saligergasse,wikidata,M,Q112521,way
 Salmhoferstraße,wikidata,M,Q342926,way
+Salomon-Sulzer-Platz,wikidata,M,Q85958,way
 Schallautzerstraße,wikidata,M,Q1613538,way
 Schallergasse,wikidata,M,Q682953,way
 Schaurhofergasse,wikidata,M,Q55675597,way
