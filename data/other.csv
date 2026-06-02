@@ -411,7 +411,6 @@ Aussichtsweg,,,,way
 Austerlitzgasse,,,,way
 Autofabrikstraße,,,,way
 Autokaderstraße,,,,way
-Auweg,,,,way
 Auwinkel,,,,way
 Avedikstraße,,,,way
 Awarenstraße,,,,way
@@ -1314,7 +1313,6 @@ Eyblergasse,,,,way
 Eyblweg,,,,way
 Eyslergasse,,,,way
 Eyzinggasse,,,,way
-"FZ Monte Laa",,,,relation
 Fabergasse,,,,way
 Fabiganstraße,,,,way
 Fahnengasse,,,,way
@@ -1556,7 +1554,6 @@ Freisingergasse,,,,way
 Freud-Tor,,,,way
 "Freudenauer Hafenbrücke",,,,way
 "Freudenauer Hafenstraße",,,,way
-Freudenauweg,,,,way
 Freudplatz,,,,way
 Freumbichlerweg,,,,way
 Freundgasse,,,,way
@@ -3030,6 +3027,7 @@ Kleine-Bucht-Straße,,,,way
 "Kleiner Ring",,,,way
 "Kleiner Stern",,,,way
 "Kleingartenverein Gloggargrund",,,,way
+"Kleingartenverein Schreber- und Muttergartenanlage",,,,relation
 Kleingasse,,,,way
 Kleinhausgasse,,,,way
 Kleinschmidgasse,,,,way
@@ -3527,6 +3525,7 @@ Lobau,,,,relation
 Lobaubrücke,,,,way
 Lobaugasse,,,,way
 Lobaustraße,,,,way
+Lobautunnel,,,,way
 Lobauwegerl,,,,way
 Lobelienweg,,,,way
 Lobenhauerngasse,,,,way
@@ -3848,7 +3847,6 @@ Messerschmidtgasse,,,,way
 Messestraße,,,,way
 Mestrozigasse,,,,way
 Metastasiogasse,,,,way
-Mexikoplatz,,,,way
 Meyerbeergasse,,,,way
 Meynertgasse,,,,way
 Meyrinkgasse,,,,way
@@ -4319,7 +4317,6 @@ Pasettistraße,,,,way
 "Passage 103",,,,way
 "Passage 81",,,,way
 "Passage Jägerzeile",,,,way
-"Passarelle Florianigasse",,,,way
 "Passauer Platz",,,,way
 Passinigasse,,,,way
 Pasteurgasse,,,,way
@@ -4723,6 +4720,7 @@ Riedelgasse,,,,way
 Riedstraße,,,,way
 Riegermühle,,,,way
 Riegermühlensteg,,,,way
+Rieglerhüttenweg,,,,way
 Rielgasse,,,,way
 Riemenschneidergasse,,,,way
 Riemergasse,,,,way
@@ -5885,7 +5883,6 @@ Tulpengasse,,,,way
 Tulpenweg,,,,way
 Tulzergasse,,,,way
 "Tunnel Arnoldgasse",,,,way
-"Tunnel Donau-Lobau",,,,way
 "Tunnel Hennersdorf",,,,way
 "Tunnel Hirschstetten",,,,way
 "Tunnel Kaisermühlen",,,,way
@@ -5932,7 +5929,6 @@ Unterbergergasse,,,,way
 "Untere Donaustraße",,,,way
 "Untere Jungenberggasse",,,,way
 "Untere Kaistraße",,,,way
-"Untere Konrath-Siedlung",,,,way
 "Untere Lindenallee",,,,way
 "Untere Mühlbachgasse",,,,way
 "Untere Sätzen",,,,way
@@ -6007,6 +6003,7 @@ Vicky-Baum-Platz,,,,way
 Victor-Gruen-Gasse,,,,way
 Viehmarktgasse,,,,way
 Viehtriftgasse,,,,way
+Viktor-Adler-Markt,,,,way
 Viktor-Christ-Gasse,,,,way
 Viktor-E.-Frankl-Weg,,,,way
 Viktor-Hagl-Gasse,,,,way
@@ -6041,7 +6038,6 @@ Vohburggasse,,,,way
 Voigtländergasse,,,,way
 Voitgasse,,,,way
 Volkergasse,,,,way
-Volkertmarkt,,,,relation
 Volkertplatz,,,,way
 Volkertstraße,,,,way
 Volkgasse,,,,way
@@ -6163,8 +6159,10 @@ Wedekindgasse,,,,way
 Wedlgasse,,,,way
 "Weg 0",,,,way
 "Weg 1",,,,way
+"Weg 1-2",,,,way
 "Weg 10",,,,way
 "Weg 11",,,,way
+"Weg 11A",,,,way
 "Weg 12",,,,way
 "Weg 13",,,,way
 "Weg 14",,,,way
