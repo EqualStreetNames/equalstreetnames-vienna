@@ -314,7 +314,7 @@ Maria-Hirschler-Weg,wikidata,F,Q59653239,way
 Maria-Jacobi-Gasse,wikidata,F,Q1123834,way
 Maria-Lassnig-Straße,wikidata,F,Q538534,way
 Maria-Potesil-Gasse,wikidata,F,Q50850453,way
-Maria-Restituta-Platz,wikidata,F,Q285995,relation
+Maria-Restituta-Platz,wikidata,F,Q285995,way
 Mária-Telkes-Weg,wikidata,F,Q7415,way
 Maria-Theresien-Platz,wikidata,F,Q131706,way
 Maria-Trapp-Platz,wikidata,F,Q93624,way
@@ -385,6 +385,7 @@ Anton-von-Webern-Platz,wikidata,M,Q190933,relation+way
 Anzengruberstraße,wikidata,M,Q93718,way
 Arnsburggasse,wikidata,M,Q1460851,way
 Arnsteingasse,wikidata,M,Q21936943,way
+Arthaberplatz,wikidata,M,Q771279,way
 Artholdgasse,wikidata,M,Q1170953,way
 Arthur-Schnitzler-Platz,wikidata,M,Q44331,way
 Aßmayergasse,wikidata,M,Q872224,way
@@ -731,7 +732,7 @@ Munchplatz,wikidata,M,Q41406,way
 Mundygasse,wikidata,M,Q87765,way
 Munthegasse,wikidata,M,Q1009816,way
 Neilreichgasse,wikidata,M,Q86530,way
-Nestroyplatz,wikidata,M,Q44862,way
+Nestroyplatz,wikidata,M,Q44862,relation+way
 Nietzscheplatz,wikidata,M,Q9358,way
 Oehlenschlägergasse,wikidata,M,Q168356,way
 Oelweingasse,wikidata,M,Q98907998,way
@@ -762,6 +763,8 @@ Poestiongasse,wikidata,M,Q1381036,way
 Pongratzgasse,wikidata,M,Q22954436,way
 Preindlgasse,wikidata,M,Q1662717,way
 Preindlsteg,wikidata,M,Q1662717,way
+Puchsbaumgasse,wikidata,M,Q1581859,way
+Puchsbaumplatz,wikidata,M,Q1581859,way
 Putzendoplergasse,wikidata,M,Q27553481,way
 Radetzkybrücke,wikidata,M,Q153500,way
 Radetzkystraße,wikidata,M,Q153500,way
