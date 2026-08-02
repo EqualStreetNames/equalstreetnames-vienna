@@ -266,7 +266,7 @@ Anichweg,,,,way
 Anilingasse,,,,way
 Anisgasse,,,,way
 Anita-Berber-Gasse,,,,way
-Anitta-Müller-Cohen-Platz,,,,way
+Anitta-Müller-Cohen-Platz,,,,relation+way
 Anna-Bastel-Gasse,,,,way
 Anna-Boschek-Platz,,,,way
 Anna-Figl-Weg,,,,way
@@ -574,7 +574,6 @@ Billerstiege,,,,way
 Billgasse,,,,way
 Billrothstraße,,,,way
 Billrothstraßenbrücke,,,,way
-Billy-Wilder-Promenade,,,,way
 Binagasse,,,,way
 Bindergasse,,,,way
 Binsenweg,,,,way
@@ -690,6 +689,7 @@ Brigitte-Kowanz-Platz,,,,way
 Brigitte-Neumeister-Platz,,,,way
 "Brigittenauer Brücke",,,,way
 "Brigittenauer Lände",,,,way
+"Brigittenauer Steg",,,,way
 Brixweg,,,,way
 Brockhausengasse,,,,way
 Brodschekhof,,,,way
@@ -1200,7 +1200,6 @@ Elisabethstraße,,,,way
 Elise-Richter-Weg,,,,way
 Elise-Steininger-Straße,,,,way
 Elisenstraße,,,,way
-Elizabeth-T.-Spira-Promenade,,,,way
 Elmargasse,,,,way
 Elsa-Bienenfeld-Weg,,,,way
 Elsa-Plainacher-Gasse,,,,way
@@ -1265,7 +1264,6 @@ Erlgasse,,,,way
 Erna-Musik-Gasse,,,,way
 Erndtgasse,,,,way
 Ernst-Bergmann-Gasse,,,,way
-Ernst-Deutsch-Promenade,,,,way
 Ernst-Heiss-Gasse,,,,way
 Ernst-Hinterberger-Gasse,,,,way
 Ernst-Jandl-Weg,,,,way
@@ -1302,7 +1300,6 @@ Eugen-Bormann-Gasse,,,,way
 Eugen-Jettel-Weg,,,,way
 Eugenie-Fink-Gasse,,,,way
 Eustachiusweg,,,,way
-Eva-Maria-Mazzuco-Platz,,,,way
 Eva-Popper-Weg,,,,way
 Ewaldgasse,,,,way
 Exelbergstraße,,,,way
@@ -1964,7 +1961,6 @@ Guneschgasse,,,,way
 Gunoldstraße,,,,way
 Günselgasse,,,,way
 Günther-Goller-Weg,,,,way
-Gunther-Philipp-Weg,,,,way
 Güpferlingstraße,,,,way
 Gurkgasse,,,,way
 Guschelbauergasse,,,,way
@@ -2314,7 +2310,6 @@ Hießgasse,,,,way
 "Hietzinger Hauptstraße",,,,way
 "Hietzinger Kai",,,,way
 Hietzinger-Kai-Steg,,,,way
-Hilde-Güden-Promenade,,,,way
 Hildebrandgasse,,,,way
 Hildegard-Teuschl-Weg,,,,way
 Hillerstraße,,,,way
@@ -2897,7 +2892,6 @@ Karmelitergasse,,,,way
 Karmeliterhofgasse,,,,way
 Karmeliterplatz,,,,way
 "Kärntner Durchgang",,,,way
-"Kärntner Ring",,,,way
 Karoline-Perin-Gasse,,,,way
 Karoline-Tintner-Promenade,,,,way
 Karolinengasse,,,,way
@@ -3139,7 +3133,6 @@ Körberstraße,,,,way
 Korbgasse,,,,way
 Körblergasse,,,,way
 Korbweidenweg,,,,way
-Kordonbrücke,,,,way
 Korianderweg,,,,way
 Kormorangasse,,,,way
 Kornblumenweg,,,,way
@@ -3352,7 +3345,6 @@ Lavantgasse,,,,way
 Lavaterstraße,,,,way
 Lavendelweg,,,,way
 Laverangasse,,,,way
-"Laxemburger Straße",,,,way
 "Laxenburger Brücke",,,,way
 "Laxenburger Straße",,,,way
 Layerweg,,,,way
@@ -3410,7 +3402,6 @@ Leo-Bredl-Gasse,,,,way
 Leo-Fall-Weg,,,,way
 Leo-Lehner-Gasse,,,,way
 Leo-Mathauser-Gasse,,,,way
-Leo-Perutz-Promenade,,,,way
 Leo-Slezak-Gasse,,,,way
 Leodolterpromenade,,,,way
 Leon-Askin-Platz,,,,way
@@ -3478,6 +3469,7 @@ Liebknechtgasse,,,,way
 Liebleitnergasse,,,,way
 Lieblgasse,,,,way
 Liechtensteinstraße,,,,way
+"Liechtenwerder Platz",,,,way
 Lieglerstraße,,,,way
 Lieleggweg,,,,way
 Lienfeldergasse,,,,way
@@ -3523,7 +3515,6 @@ Lisseeweg,,,,way
 Lißbauergasse,,,,way
 Literaturpassage,,,,way
 Littrowgasse,,,,way
-Ljuba-Welitsch-Promenade,,,,way
 Lobau,,,,relation
 Lobaubrücke,,,,way
 Lobaugasse,,,,way
@@ -3629,7 +3620,6 @@ Lützowgasse,,,,way
 Luzegasse,,,,way
 Lynkeusgasse,,,,way
 "M Weg",,,,way
-MTB-Kehre,,,,way
 Maargasse,,,,way
 Machegasse,,,,way
 Macholdastraße,,,,way
@@ -3659,7 +3649,6 @@ Malborghetgasse,,,,way
 Malfattisteig,,,,way
 Mallygasse,,,,way
 Malvengasse,,,,way
-Maly-Nagl-Promenade,,,,way
 Mälzelplatz,,,,way
 Malzgasse,,,,way
 Man-Ray-Promenade,,,,way
@@ -3706,7 +3695,6 @@ Maria-Jeritza-Weg,,,,way
 Maria-Kuhn-Gasse,,,,way
 Maria-Merian-Gasse,,,,way
 Maria-Rekker-Gasse,,,,way
-Maria-Schell-Straße,,,,way
 Maria-Theresien-Straße,,,,way
 Maria-Treu-Gasse,,,,way
 Maria-Welser-Platz,,,,way
@@ -4203,11 +4191,10 @@ Olga-Misař-Promenade,,,,way
 "Ölhafen Lobau - Uferstraße",,,,way
 Olly-Schwarz-Gasse,,,,way
 Olmagasse,,,,way
-Olympiaplatz,,,,relation+way
+Olympiaplatz,,,,way
 Onno-Klopp-Gasse,,,,way
 Opalgasse,,,,way
 Opernpassage,,,,way
-Opernring,,,,way
 Opfermanngasse,,,,way
 Opitzgasse,,,,way
 Oppelgasse,,,,way
@@ -4312,7 +4299,6 @@ Parisergasse,,,,way
 Parkbachbrücke,,,,way
 Parkgasse,,,,way
 Parkplatzbrücke,,,,way
-Parkring,,,,way
 Parkweg,,,,way
 Partlgasse,,,,way
 Paschinggasse,,,,way
@@ -4435,7 +4421,7 @@ Pichelwangergasse,,,,way
 Pichlergasse,,,,way
 Pichlgasse,,,,way
 Pickgasse,,,,way
-Pierre-de-Coubertin-Platz,,,,relation
+Pierre-de-Coubertin-Platz,,,,way
 Pierrongasse,,,,way
 Pilatgasse,,,,way
 Pilgerimgasse,,,,way
@@ -4542,6 +4528,7 @@ Prießnitzgasse,,,,way
 Primelweg,,,,way
 Prinz-Eugen-Straße,,,,way
 Prinzgasse,,,,way
+Privatgelände,,,,way
 Prixgasse,,,,way
 Probusgasse,,,,way
 Prochstraße,,,,way
@@ -5160,9 +5147,9 @@ Schöpfleuthnergasse,,,,way
 Schöpfwerkpromenade,,,,way
 Schöpfwerksteg,,,,way
 Schöpsstraße,,,,way
-Schottenaustraaße,,,,way
 Schottenaustraße,,,,way
 Schottenbastei,,,,way
+Schottenpassage,,,,way
 Schottenring,,,,way
 Schottenwaldweg,,,,way
 Schotterfeldweg,,,,way
@@ -5189,7 +5176,6 @@ Schrottgasse,,,,way
 Schrottgießergasse,,,,way
 Schrotzbergstraße,,,,way
 Schubertgasse,,,,way
-Schubertring,,,,way
 Schubertweg,,,,way
 Schuchardtstraße,,,,way
 Schuhbrechergasse,,,,way
@@ -5375,7 +5361,6 @@ Simoningplatz,,,,way
 Simonsgasse,,,,way
 Simonygasse,,,,way
 Sinagasse,,,,way
-Sinawastingasse,,,,way
 Sindelargasse,,,,way
 Singrienergasse,,,,way
 Sintiweg,,,,way
@@ -5450,7 +5435,7 @@ Spiegelgasse,,,,way
 Spiegelgrundstraße,,,,way
 "Spielen am Weg",,,,way
 Spielmanngasse,,,,way
-Spielmannplatz,,,,relation+way
+Spielmannplatz,,,,way
 Spießweg,,,,way
 Spießwegsteg,,,,way
 Spindeleggergasse,,,,way
@@ -5670,7 +5655,6 @@ Strudlhofstiege,,,,relation+way
 Strunzgasse,,,,way
 Stryeckgasse,,,,way
 Stubenbastei,,,,way
-Stubenring,,,,way
 Stuckgasse,,,,way
 Studenygasse,,,,way
 Stuhlhofergasse,,,,way
@@ -5986,6 +5970,7 @@ Venusweg,,,,way
 Vera-Ferra-Mikura-Weg,,,,way
 Vera-Schwarz-Gasse,,,,way
 Verbandsweg,,,,way
+Verbindungstunnel,,,,way
 Verbindungsweg,,,,way
 "Verbindungsweg Badner Bahn",,,,way
 Verdross-Tor,,,,way
@@ -6006,7 +5991,6 @@ Versorgungsheimstraße,,,,way
 "Verteilerkreis Favoriten",,,,way
 Vertexgasse,,,,way
 Vettersgasse,,,,way
-Vicky-Baum-Platz,,,,way
 Victor-Gruen-Gasse,,,,way
 Viehmarktgasse,,,,way
 Viehtriftgasse,,,,way
@@ -6552,3 +6536,4 @@ Zwölfpfenniggasse,,,,way
 "Zwutschkerl (aka Kids Trail)",,,,way
 Zyklamengasse,,,,way
 Zypressenweg,,,,way
+l,,,,way

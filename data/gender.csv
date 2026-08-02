@@ -84,6 +84,7 @@ Innstraße,wikidata,-,Q14369,way
 "Inzersdorf Kirchenplatz",wikidata,-,Q2082710,way
 Jerusalem-Stiege,wikidata,-,Q1218,way
 Karlsgasse,wikidata,-,Q408847,way
+"Kärntner Ring",wikidata,-,Q699947,way
 "Kärntner Straße",wikidata,-,Q37985,way
 Kärntnertorpassage,wikidata,-,Q107549636,way
 Kastanienallee,wikidata,-,Q22699,way
@@ -129,9 +130,11 @@ Nippongasse,wikidata,-,Q17,way
 "Nußdorfer Steg",wikidata,-,Q379531,way
 Oeverseestraße,wikidata,-,Q1434874,way
 Operngasse,wikidata,-,Q209937,way
+Opernring,wikidata,-,Q209937,way
 Osrambrücke,wikidata,-,Q310481,way
 Othellogasse,wikidata,-,Q172324,way
 Paminagasse,wikidata,-,Q9054901,way
+Parkring,wikidata,-,Q688588,way
 Paulanergasse,wikidata,-,Q1367736,way
 Pfarrgasse,wikidata,-,Q2082710,way
 Pfarrgassenbrücke,wikidata,-,Q2082710,way
@@ -194,6 +197,7 @@ Stiftgasse,wikidata,-,Q1062556,way
 Stock-im-Eisen-Platz,wikidata,-,Q25629422,way
 "Stockholmer Platz",wikidata,-,Q1754,way
 Stubenbrücke,wikidata,-,Q2358079,way
+Stubenring,wikidata,-,Q2358079,way
 Südbahnhofbrücke,wikidata,-,Q519025,way
 Tannengasse,wikidata,-,Q25350,way
 "Teichhausbrücke II",wikidata,-,Q38100744,way
@@ -222,7 +226,7 @@ Adelheid-Popp-Gasse,wikidata,F,Q34391,way
 Agnes-Primocic-Gasse,wikidata,F,Q394620,way
 Albert-Schweitzer-Gasse,wikidata,F,Q94775815,way
 Alma-Seidler-Weg,wikidata,F,Q88849,way
-Amalie-Seidel-Steg,wikidata,F,Q22132620,way
+Amalie-Seidel-Steg,wikidata,F,Q90320,way
 Amalie-Seidel-Weg,wikidata,F,Q90320,way
 Anna-Müller-Weg,wikidata,F,Q562636,way
 Antonie-Alt-Gasse,wikidata,F,Q59653133,way
@@ -249,6 +253,7 @@ Elisabeth-Bergner-Weg,wikidata,F,Q93711,way
 Elisabeth-Maxwald-Platz,wikidata,F,Q114162691,way
 Elisabeth-Schilder-Gasse,wikidata,F,Q94738112,way
 Elisabethallee,wikidata,F,Q150782,way
+Elizabeth-T.-Spira-Promenade,wikidata,F,Q114936,way
 Ella-Lingens-Straße,wikidata,F,Q94547,way
 Ellen-Key-Gasse,wikidata,F,Q238443,way
 Emilie-Flöge-Weg,wikidata,F,Q79147,way
@@ -257,7 +262,6 @@ Endemanngasse,wikidata,F,Q111579932,way
 Erika-Krenn-Promenade,wikidata,F,Q1354408,way
 Ertlgasse,wikidata,F,Q94622152,way
 Eugenie-Schwarzwald-Weg,wikidata,F,Q79173,way
-"Eva-Maria -Mazzucco-Platz",wikidata,F,Q19361241,way
 Eva-Maria-Mazzucco-Platz,wikidata,F,Q19361241,relation+way
 Eva-Zilcher-Gasse,wikidata,F,Q1167986,way
 Frenkel-Brunswik-Gasse,wikidata,F,Q87963,way
@@ -283,6 +287,7 @@ Helly-Möslein-Weg,wikidata,F,Q114950,way
 Henriettenplatz,wikidata,F,Q1606214,way
 Herma-Bauma-Gasse,wikidata,F,Q260805,way
 Hermi-Hirsch-Weg,wikidata,F,Q111568950,way
+Hilde-Güden-Promenade,wikidata,F,Q87955,way
 Hilde-Hannak-Gasse,wikidata,F,Q111579910,way
 Hilde-Spiel-Gasse,wikidata,F,Q93872,way
 Hlawkagasse,wikidata,F,Q1303640,way
@@ -307,14 +312,17 @@ Lella-Lombardi-Gasse,wikidata,F,Q171569,way
 Leopoldine-Glöckel-Weg,wikidata,F,Q1819939,way
 Lina-Bo-Bardi-Platz,wikidata,F,Q272400,relation+way
 Lina-Loos-Platz,wikidata,F,Q88725,way
+Ljuba-Welitsch-Promenade,wikidata,F,Q452990,way
 Lotte-Lang-Platz,wikidata,F,Q89481,way
 Lydia-Sicher-Gasse,wikidata,F,Q1719995,way
+Maly-Nagl-Promenade,wikidata,F,Q16603256,way
 Margarete-Seemann-Weg,wikidata,F,Q1895025,way
 Maria-Hirschler-Weg,wikidata,F,Q59653239,way
 Maria-Jacobi-Gasse,wikidata,F,Q1123834,way
 Maria-Lassnig-Straße,wikidata,F,Q538534,way
 Maria-Potesil-Gasse,wikidata,F,Q50850453,way
 Maria-Restituta-Platz,wikidata,F,Q285995,way
+Maria-Schell-Straße,wikidata,F,Q84365,way
 Mária-Telkes-Weg,wikidata,F,Q7415,way
 Maria-Theresien-Platz,wikidata,F,Q131706,way
 Maria-Trapp-Platz,wikidata,F,Q93624,way
@@ -343,6 +351,7 @@ Schenk-Danzinger-Gasse,wikidata,F,Q1419150,way
 Selma-Lagerlöf-Gasse,wikidata,F,Q44519,way
 Senta-Wengraf-Gasse,wikidata,F,Q94278,way
 Simone-de-Beauvoir-Platz,wikidata,F,Q7197,relation+way
+Sinawastingasse,wikidata,F,Q140570395,way
 Sissy-Löwinger-Weg,wikidata,F,Q1769895,way
 Susanne-Schmida-Gasse,wikidata,F,Q52084141,way
 Susi-Weigel-Weg,wikidata,F,Q2802376,way
@@ -350,6 +359,7 @@ Trude-Fleischmann-Gasse,wikidata,F,Q87807,way
 Undsetgasse,wikidata,F,Q80889,way
 Ute-Bock-Weg,wikidata,F,Q89137,way
 Vally-Weigl-Gasse,wikidata,F,Q2509422,way
+Vicky-Baum-Platz,wikidata,F,Q93444,way
 Wangari-Maathai-Platz,wikidata,F,Q46795,way
 Weißenthurngasse,wikidata,F,Q1696932,way
 Zaha-Hadid-Platz,wikidata,F,Q47780,way
@@ -407,6 +417,7 @@ Bertoldusgasse,wikidata,M,Q828363,way
 Beyfusgasse,wikidata,M,Q28061965,way
 Biblgasse,wikidata,M,Q1580568,way
 Biedermanngasse,wikidata,M,Q794649,way
+Billy-Wilder-Promenade,wikidata,M,Q51547,way
 Biróstraße,wikidata,M,Q854786,way
 Bischoffgasse,wikidata,M,Q1657516,way
 Bleichsteinerstraße,wikidata,M,Q1283212,way
@@ -476,6 +487,7 @@ Emmerich-Teuber-Platz,wikidata,M,Q88245,way
 Endergasse,wikidata,M,Q685361;Q579856;Q143416,way
 Engelsberggasse,wikidata,M,Q86310,way
 Erlachgasse,wikidata,M,Q84305,way
+Ernst-Deutsch-Promenade,wikidata,M,Q86367,way
 Ernst-Ludwig-Gasse,wikidata,M,Q1359304,way
 Erzherzog-Johann-Platz,wikidata,M,Q93427,way
 Eschenbachgasse,wikidata,M,Q107998545,way
@@ -546,6 +558,7 @@ Grimmelshausengasse,wikidata,M,Q31220,way
 Grimmgasse,wikidata,M,Q6701;Q6714,way
 Grohnergasse,wikidata,M,Q110213371,way
 Gsellhofergasse,wikidata,M,Q25464557,way
+Gunther-Philipp-Weg,wikidata,M,Q89434,way
 Günthergasse,wikidata,M,Q84748,way
 Gutenberggasse,wikidata,M,Q8958,way
 Gutzkowplatz,wikidata,M,Q76755,way
@@ -679,6 +692,7 @@ Laskegasse,wikidata,M,Q2033812,way
 Lassallestraße,wikidata,M,Q75784,way
 Laziusstraße,wikidata,M,Q685979,way
 Leebgasse,wikidata,M,Q89485,way
+Leo-Perutz-Promenade,wikidata,M,Q93450,way
 Leopold-Böhm-Straße,wikidata,M,Q1687621,way
 Leopold-Figl-Gasse,wikidata,M,Q11715,way
 Leopold-Gratz-Platz,wikidata,M,Q78999,way
@@ -817,6 +831,7 @@ Schopenhauerstraße,wikidata,M,Q38193,way
 Schrankgasse,wikidata,M,Q20755265,way
 Schreyvogelgasse,wikidata,M,Q94645,way
 Schrutkagasse,wikidata,M,Q55886420,way
+Schubertring,wikidata,M,Q7312,way
 Schuhmeierplatz,wikidata,M,Q1031252,way
 Schulzgasse,wikidata,M,Q60821790,way
 Schuppengasse,wikidata,M,Q1677705,way
