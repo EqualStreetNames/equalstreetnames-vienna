@@ -1068,7 +1068,6 @@ Draskovichgasse,,,,way
 Draugasse,,,,way
 Drechslergasse,,,,way
 Dreherstraße,,,,way
-Dreiersteig,,,,way
 Dreihackengasse,,,,way
 Dreihausgasse,,,,way
 Dreimarksteingasse,,,,way
@@ -1500,7 +1499,7 @@ Franz-Heider-Gasse,,,,way
 Franz-Hochedlinger-Gasse,,,,way
 Franz-Ippisch-Steg,,,,way
 Franz-Jachym-Platz,,,,way
-Franz-Jonas-Platz,,,,relation+way
+Franz-Jonas-Platz,,,,way
 Franz-Klein-Gasse,,,,way
 Franz-Koci-Straße,,,,way
 Franz-Lehar-Gasse,,,,way
@@ -2302,10 +2301,10 @@ Heustadelbrücke,,,,way
 Heustadelgasse,,,,way
 Heustadlsteg,,,,way
 Hevesigasse,,,,way
+Hexenalle,,,,way
 Hibiskusweg,,,,way
 Hickelgasse,,,,way
 Hießgasse,,,,way
-"Hietzinger Fahrstraße",,,,way
 "Hietzinger Glorietteallee",,,,way
 "Hietzinger Hauptstraße",,,,way
 "Hietzinger Kai",,,,way
@@ -4844,6 +4843,7 @@ Ruckergasse,,,,way
 Rückertgasse,,,,way
 Rüdengasse,,,,way
 Rudi-Hiden-Gasse,,,,way
+Rudi-Valenta-Platz,,,,way
 Rudofskyweg,,,,way
 "Rudolf Köppl-Gasse",,,,way
 Rudolf-Bärenhart-Gasse,,,,way
@@ -5967,7 +5967,6 @@ Veletaweg,,,,way
 Veltzégasse,,,,way
 "Venediger Au",,,,way
 Venusweg,,,,way
-Vera-Ferra-Mikura-Weg,,,,way
 Vera-Schwarz-Gasse,,,,way
 Verbandsweg,,,,way
 Verbindungstunnel,,,,way
