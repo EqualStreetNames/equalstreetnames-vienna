@@ -174,7 +174,6 @@ Alxingergasse,,,,way
 "Am Müllnermais",,,,way
 "Am Neustiftblick",,,,way
 "Am Nordbahndamm",,,,way
-"Am Ostrom-Park",,,,way
 "Am Platz",,,,way
 "Am Predigtstuhl",,,,way
 "Am Rain",,,,way
@@ -196,6 +195,7 @@ Alxingergasse,,,,way
 "Am grünen Prater",,,,way
 "Am langen Felde",,,,way
 "Am oberen Kirchberg",,,,way
+Am-Ostrom-Park,,,,way
 Amalgergasse,,,,way
 Amalie-Brust-Gasse,,,,way
 Amalienstraße,,,,way
@@ -432,7 +432,7 @@ Badhaussteg,,,,way
 "Bahnbrücke Lastenstraße",,,,way
 Bahndammweg,,,,way
 Bahnfeldweg,,,,way
-"Bahnhof Hütteldorf",,,,relation+way
+"Bahnhof Hütteldorf",,,,relation
 Bahnhofplatz,,,,way
 Bahnhofstraße,,,,way
 Bahnlände,,,,way
@@ -554,6 +554,7 @@ Bessemerstraße,,,,way
 Bethlengasse,,,,way
 Bettelheimstraße,,,,way
 Bettina-Bauer-Ehrlich-Platz,,,,way
+"Bhf. Hütteldorf",,,,way
 Bianca-Bienenfeld-Straße,,,,way
 Biberhaufenweg,,,,way
 Bibernellweg,,,,way
@@ -1116,6 +1117,7 @@ Edelhofgasse,,,,way
 Edelsinnbrücke,,,,way
 Edelsinnstraße,,,,way
 Edelsteingasse,,,,way
+Edengang,,,,way
 Edenstraße,,,,way
 Edergasse,,,,way
 Edi-Finger-Straße,,,,way
@@ -1493,7 +1495,6 @@ Franz-Eichert-Weg,,,,way
 Franz-Fellner-Gasse,,,,way
 Franz-Glaser-Gasse,,,,way
 Franz-Graßler-Gasse,,,,way
-Franz-Grill-Straße,,,,way
 Franz-Haas-Platz,,,,relation+way
 Franz-Heider-Gasse,,,,way
 Franz-Hochedlinger-Gasse,,,,way
@@ -2175,7 +2176,6 @@ Heckenweg,,,,way
 Hederichgasse,,,,way
 Hedwiggasse,,,,way
 Hedy-Urach-Gasse,,,,way
-Heeresmuseumstraße,,,,way
 Hegelgasse,,,,way
 Heidenreichsteinweg,,,,way
 Heidenschuß,,,,way
@@ -2289,7 +2289,6 @@ Heschweg,,,,way
 Hessegasse,,,,way
 Heßgasse,,,,way
 Hettenkofergasse,,,,way
-Hetzgasse,,,,way
 Heubergergasse,,,,way
 Heuberggasse,,,,way
 Heuberggstättenstraße,,,,way
@@ -2301,7 +2300,7 @@ Heustadelbrücke,,,,way
 Heustadelgasse,,,,way
 Heustadlsteg,,,,way
 Hevesigasse,,,,way
-Hexenalle,,,,way
+Hexenallee,,,,way
 Hibiskusweg,,,,way
 Hickelgasse,,,,way
 Hießgasse,,,,way
@@ -4582,7 +4581,6 @@ Rabensteig,,,,way
 Rabnitzweg,,,,way
 Radeckgasse,,,,way
 Radelmayergasse,,,,way
-Radetzkyplatz,,,,way
 Radingerstraße,,,,way
 Radnitzkygasse,,,,way
 Rädtnergasse,,,,way
@@ -4674,7 +4672,6 @@ Reisnerstraße,,,,way
 Reiterberggasse,,,,way
 Reitergartenweg,,,,way
 Reithlegasse,,,,way
-Reitschulsteg,,,,way
 Reizenpfenninggasse,,,,way
 Reklewskigasse,,,,way
 Relegasse,,,,way
@@ -6419,7 +6416,6 @@ Wurzbachtalbrücke,,,,way
 Wurzbachtalgasse,,,,way
 Würzburggasse,,,,way
 Wurzingergasse,,,,way
-Wützlerstraße,,,,way
 Ybbsstraße,,,,way
 Yehudi-Menuhin-Weg,,,,way
 Yppengasse,,,,way
@@ -6452,7 +6448,6 @@ Zeleborgasse,,,,way
 Zelinkagasse,,,,way
 Zelkinggasse,,,,way
 Zeltgasse,,,,way
-Zemanekgasse,,,,way
 Zemlinskygasse,,,,way
 Zennergasse,,,,way
 Zennerstraße,,,,way
