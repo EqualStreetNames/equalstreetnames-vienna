@@ -150,6 +150,7 @@ Pöchlarnstraße,wikidata,-,Q255350,way
 Praterstern,wikidata,-,Q264752,relation+way
 Praterstraße,wikidata,-,Q264752,way
 Quellenstraße,wikidata,-,Q1266185,way
+Raaber-Bahn-Gasse,wikidata,-,Q4825474,way
 Rädda-Barnen-Platz,wikidata,-,Q2647353,way
 Rathausplatz,wikidata,-,Q686468,way
 Rathausstraße,wikidata,-,Q686468,way
@@ -228,7 +229,6 @@ Adelheid-Popp-Gasse,wikidata,F,Q34391,way
 Agnes-Primocic-Gasse,wikidata,F,Q394620,way
 Albert-Schweitzer-Gasse,wikidata,F,Q94775815,way
 Alma-Seidler-Weg,wikidata,F,Q88849,way
-Amalie-Seidel-Steg,wikidata,F,Q90320,way
 Amalie-Seidel-Weg,wikidata,F,Q90320,way
 Anna-Müller-Weg,wikidata,F,Q562636,way
 Antonie-Alt-Gasse,wikidata,F,Q59653133,way
@@ -306,7 +306,6 @@ Jina-Mahsa-Amini-Allee,wikidata,F,Q113994656,way
 Jina-Masha-Amini-Allee,wikidata,F,Q113994656,way
 Johanna-Dohnal-Platz,wikidata,F,Q112494,way
 Josefine-Wessely-Weg,wikidata,F,Q390428,way
-Judith-Holzmeister-Weg,wikidata,F,Q89851,way
 Kenyongasse,wikidata,F,Q111568928,way
 Kinskygasse,wikidata,F,Q55866675,way
 Klährgasse,wikidata,F,Q55907560,way
@@ -319,7 +318,6 @@ Lotte-Lang-Platz,wikidata,F,Q89481,way
 Lydia-Sicher-Gasse,wikidata,F,Q1719995,way
 Maly-Nagl-Promenade,wikidata,F,Q16603256,way
 Margarete-Seemann-Weg,wikidata,F,Q1895025,way
-Maria-Hirschler-Weg,wikidata,F,Q59653239,way
 Maria-Jacobi-Gasse,wikidata,F,Q1123834,way
 Maria-Lassnig-Straße,wikidata,F,Q538534,way
 Maria-Potesil-Gasse,wikidata,F,Q50850453,way
@@ -347,6 +345,7 @@ Olga-Perl-Weg,wikidata,F,Q2019696,way
 Olga-Wisinger-Florian-Platz,wikidata,F,Q275513,way
 Papiergasse,wikidata,F,Q86708,way
 Pappenheimgasse,wikidata,F,Q1897454,way
+Regenbogensteg,wikidata,F,Q90320,way
 Romy-Schneider-Gasse,wikidata,F,Q78469,way
 Ruth-Klüger-Platz,wikidata,F,Q538068,way
 Schenk-Danzinger-Gasse,wikidata,F,Q1419150,way
@@ -616,6 +615,7 @@ Hundertwasser-Promenade,wikidata,M,Q151836,way
 Hüttenbrennergasse,wikidata,M,Q569557,way
 Hyegasse,wikidata,M,Q590412,way
 Jacquingasse,wikidata,M,Q84497,way
+Jasomirgottstraße,wikidata,M,Q168647,way
 Jaurèsgasse,wikidata,M,Q12688,way
 Jheringgasse,wikidata,M,Q62605,way
 Jochen-Rindt-Straße,wikidata,M,Q3234,way
@@ -657,6 +657,7 @@ Kellermanngasse,wikidata,M,Q98907841,way
 Kelsenstraße,wikidata,M,Q84165,way
 Kempelengasse,wikidata,M,Q252041,way
 Kennedybrücke,wikidata,M,Q9696,way
+Keplergasse,wikidata,M,Q8963,way
 Keplerplatz,wikidata,M,Q8963,way
 Kerschensteinergasse,wikidata,M,Q61195,way
 Khleslplatz,wikidata,M,Q78801,way
@@ -749,7 +750,7 @@ Munchplatz,wikidata,M,Q41406,way
 Mundygasse,wikidata,M,Q87765,way
 Munthegasse,wikidata,M,Q1009816,way
 Neilreichgasse,wikidata,M,Q86530,way
-Nestroyplatz,wikidata,M,Q44862,relation+way
+Nestroyplatz,wikidata,M,Q44862,relation
 Nietzscheplatz,wikidata,M,Q9358,way
 Oehlenschlägergasse,wikidata,M,Q168356,way
 Oelweingasse,wikidata,M,Q98907998,way
@@ -808,6 +809,7 @@ Rohrbacherstraße,wikidata,M,Q60820881,way
 Romakogasse,wikidata,M,Q562614,way
 Rooseveltplatz,wikidata,M,Q8007,way
 Rosasgasse,wikidata,M,Q596386,way
+Roschégasse,wikidata,M,Q106708602,way
 Rosiwalgasse,wikidata,M,Q114344,way
 Rothkirchgasse,wikidata,M,Q19936281,way
 Rottmayrgasse,wikidata,M,Q674772,way
@@ -908,6 +910,7 @@ Walulisobrücke,wikidata,M,Q1436033,way
 Watzlawickweg,wikidata,M,Q93781,way
 Weiglgasse,wikidata,M,Q78798,way
 Weyrgasse,wikidata,M,Q876804,way
+Widholzgasse,wikidata,M,Q1808269,way
 Wiegelestraße,wikidata,M,Q1449449,way
 Wielandgasse,wikidata,M,Q154010,way
 Wielandplatz,wikidata,M,Q154010,way

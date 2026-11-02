@@ -174,6 +174,7 @@ Alxingergasse,,,,way
 "Am Müllnermais",,,,way
 "Am Neustiftblick",,,,way
 "Am Nordbahndamm",,,,way
+"Am Nussbrunnenfeld",,,,way
 "Am Platz",,,,way
 "Am Predigtstuhl",,,,way
 "Am Rain",,,,way
@@ -192,6 +193,7 @@ Alxingergasse,,,,way
 "Am Verschiebebahnhof",,,,way
 "Am Wasserpark",,,,way
 "Am Weingebirg",,,,way
+"Am Wildquell",,,,way
 "Am grünen Prater",,,,way
 "Am langen Felde",,,,way
 "Am oberen Kirchberg",,,,way
@@ -285,6 +287,7 @@ Antelweg,,,,way
 Anton-Anderer-Platz,,,,way
 Anton-Balzer-Weg,,,,way
 Anton-Baumgartner-Straße,,,,way
+Anton-Bergauer-Gasse,,,,way
 Anton-Böck-Gasse,,,,way
 Anton-Bosch-Gasse,,,,way
 Anton-Burg-Gasse,,,,way
@@ -919,6 +922,7 @@ Dassanowskyweg,,,,way
 Dattlergasse,,,,way
 Daumegasse,,,,way
 Daungasse,,,,way
+David-Josef-Bach-Weg,,,,way
 Davidgasse,,,,way
 De-Quer-Gasse,,,,way
 Dechantweg,,,,way
@@ -1195,6 +1199,7 @@ Elfingerweg,,,,way
 Elfriede-Mejchar-Gasse,,,,way
 Elidagasse,,,,way
 Elisabeth-Freundlich-Weg,,,,way
+Elisabeth-Orth-Gasse,,,,way
 Elisabeth-Petznek-Gasse,,,,way
 Elisabeth-Sundt-Platz,,,,way
 Elisabethstraße,,,,way
@@ -1584,7 +1589,7 @@ Friedrich-Lieder-Weg,,,,way
 Friedrich-Manhart-Straße,,,,way
 Friedrich-Teller-Gasse,,,,way
 Friedrich-Wagner-Gasse,,,,way
-Friedrich-Wilhelm-Raiffeisen-Platz,,,,way
+Friedrich-Wilhelm-Raiffeisen-Platz,,,,relation
 Friedrichsplatz,,,,way
 Friedstraße,,,,way
 Friesenplatz,,,,way
@@ -1742,6 +1747,7 @@ Gerstnerstraße,,,,way
 Gersunygasse,,,,way
 Gertie-Fröhlich-Gasse,,,,way
 Gertrude-Fröhlich-Sandner-Straße,,,,way
+Gertrude-Stiehl-Weg,,,,way
 Gertrudplatz,,,,relation+way
 Gerunggasse,,,,way
 Geschwister-Spitzer-Weg,,,,way
@@ -2584,6 +2590,7 @@ Jakschgasse,,,,way
 Jan-Kiepura-Gasse,,,,way
 Jan-Palach-Weg,,,,way
 Jandagasse,,,,way
+Jane-Goodall-Straße,,,,way
 Jane-Jacobs-Weg,,,,way
 Jane-Tilden-Gasse,,,,way
 Janneckgasse,,,,way
@@ -2592,7 +2599,6 @@ Jara-Benes-Gasse,,,,way
 Jarlweg,,,,way
 Jaschkagasse,,,,way
 Jasmingasse,,,,way
-Jasomirgottstraße,,,,way
 Jaunerstraße,,,,way
 Jeannie-Ebner-Weg,,,,way
 "Jedlersdorfer Platz",,,,way
@@ -2876,6 +2882,7 @@ Karl-Wagner-Weg,,,,way
 Karl-Waldbrunner-Platz,,,,way
 Karl-Walther-Gasse,,,,way
 Karl-Wilhelm-Diefenbach-Gasse,,,,way
+Karl-Wilhelm-Löff-Gasse,,,,way
 Karl-von-Böhmerle-Gasse,,,,way
 Karl-von-Frisch-Weg,,,,way
 Karlheinz-Hackl-Weg,,,,way
@@ -2917,6 +2924,7 @@ Käthe-Dorsch-Gasse,,,,way
 Käthe-Jonas-Weg,,,,way
 Käthe-Leichter-Gasse,,,,way
 Käthe-Odwody-Gasse,,,,way
+Käthe-Sasso-Weg,,,,way
 Katleingasse,,,,way
 Katsushikastraße,,,,way
 Katzbergersteg,,,,way
@@ -2944,7 +2952,6 @@ Kempfengerngasse,,,,way
 Kendegasse,,,,way
 Kendlerstraße,,,,way
 Kennergasse,,,,way
-Keplergasse,,,,way
 Keplingergasse,,,,way
 Kerbelgasse,,,,way
 Kermaunerweg,,,,way
@@ -3460,6 +3467,7 @@ Lichtensteg,,,,way
 Lichtgasse,,,,way
 Lidlbrücke,,,,way
 Lidlgasse,,,,way
+"Lido 2026",,,,way
 Liebenberggasse,,,,way
 Liebhartsgasse,,,,way
 Liebhartstalstraße,,,,way
@@ -3679,6 +3687,7 @@ Marenabrücke,,,,way
 Mareschgasse,,,,way
 Mareschplatz,,,,way
 Margareta-Heinrich-Weg,,,,way
+Margarete-Pelikan-Weg,,,,way
 Margaretengürtel,,,,way
 Margaretengürtelbrücke,,,,way
 Margaretenstraße,,,,way
@@ -4246,8 +4255,10 @@ Otto-Fürth-Gasse,,,,way
 Otto-Futterknecht-Weg,,,,way
 Otto-Glöckel-Weg,,,,way
 Otto-Herschmann-Gasse,,,,way
+Otto-Herzer-Weg,,,,way
 Otto-Hötzl-Weg,,,,way
 Otto-Mraz-Weg,,,,way
+Otto-Schenk-Platz,,,,way
 Otto-Schweda-Platz,,,,way
 Otto-Storch-Gasse,,,,way
 Otto-Weber-Gasse,,,,way
@@ -4365,7 +4376,9 @@ Peter-Altenberg-Gasse,,,,way
 Peter-Berner-Straße,,,,way
 Peter-Jordan-Straße,,,,way
 Peter-Kaiser-Gasse,,,,way
+Peter-Rapp-Weg,,,,way
 Peter-Rosegger-Gasse,,,,way
+Peter-Simonischek-Allee,,,,way
 Peterlinigasse,,,,way
 Petersplatz,,,,way
 Petraschgasse,,,,way
@@ -4571,7 +4584,6 @@ Quer-Kastanienallee,,,,way
 Quer-Lindenallee,,,,way
 Querweg,,,,way
 Quittenweg,,,,way
-Raaber-Bahn-Gasse,,,,way
 Rabbiner-Friedmann-Platz,,,,way
 Rabbiner-Schneerson-Platz,,,,way
 Rabengasse,,,,way
@@ -4613,6 +4625,7 @@ Rappgasse,,,,way
 Raschgasse,,,,way
 Rasmussengasse,,,,way
 "Raststation Simmering",,,,way
+Rasumofsky-Gasse,,,,way
 Rasumofskygasse,,,,way
 Rathmayergasse,,,,way
 Rathstraße,,,,way
@@ -4763,6 +4776,7 @@ Rollerwassersteg,,,,way
 Röllgasse,,,,way
 Rollingergasse,,,,way
 Roman-Felleis-Gasse,,,,way
+Roman-Köhler-Steg,,,,way
 Romanogasse,,,,way
 Romberggasse,,,,way
 Römergasse,,,,way
@@ -4779,7 +4793,6 @@ Rosa-Weber-Weg,,,,way
 Rosalia-Chladek-Gasse,,,,way
 Rosaliagasse,,,,way
 Rosannagasse,,,,way
-Roschégasse,,,,way
 Roseggergasse,,,,way
 Roseggerweg,,,,way
 Rosenackerstraße,,,,way
@@ -5404,6 +5417,7 @@ Sorbait-Tor,,,,way
 Sorbaitgasse,,,,way
 Sorgenthalgasse,,,,way
 Sorgogasse,,,,way
+Soshanaplatz,,,,way
 Sowinetzgasse,,,,way
 Spallartgasse,,,,way
 Spalowskygasse,,,,way
@@ -5788,6 +5802,7 @@ Tildeweg,,,,way
 Tilgnergasse,,,,way
 Tilgnerstraße,,,,way
 Tillmanngasse,,,,way
+Tina-Turner-Promenade,,,,way
 Tinterstraße,,,,way
 "Tiroler Gasse",,,,way
 "Tiroler Weg",,,,way
@@ -5889,6 +5904,7 @@ Typopassage,,,,way
 Überfuhrstraße,,,,way
 Überreiterweg,,,,way
 Udelweg,,,,way
+Udo-Jürgen-Promenade,,,,way
 Uetzgasse,,,,way
 Uferstiege,,,,way
 "Uferstiege Neue Donau",,,,way
@@ -5984,7 +6000,6 @@ Veronikagasse,,,,way
 Versbachgasse,,,,way
 Versorgungsheimplatz,,,,way
 Versorgungsheimstraße,,,,way
-"Verteilerkreis Favoriten",,,,way
 Vertexgasse,,,,way
 Vettersgasse,,,,way
 Victor-Gruen-Gasse,,,,way
@@ -6113,6 +6128,7 @@ Walter-Lindenbaum-Gasse,,,,way
 Walter-Schwarzacher-Gasse,,,,way
 Waltergasse,,,,way
 Walther-von-der-Vogelweide-Gasse,,,,way
+Waltraut-Haas-Gasse,,,,way
 Wambachergasse,,,,way
 Wankläckergasse,,,,way
 Wannemachergasse,,,,way
@@ -6267,7 +6283,6 @@ Wickengasse,,,,way
 Wickhoffgasse,,,,way
 Widerhofergasse,,,,way
 Widerhoferplatz,,,,way
-Widholzgasse,,,,way
 Wiedgasse,,,,way
 Wielandweg,,,,way
 Wielemansgasse,,,,way
@@ -6319,6 +6334,7 @@ Wilfried-Kirchner-Weg,,,,way
 Wilhelm-Busch-Gasse,,,,way
 Wilhelm-Dachauer-Straße,,,,way
 Wilhelm-Exner-Gasse,,,,way
+Wilhelm-Falla-Weg,,,,way
 Wilhelm-Karczag-Weg,,,,way
 Wilhelm-Kreß-Platz,,,,way
 Wilhelm-Legler-Gasse,,,,way
