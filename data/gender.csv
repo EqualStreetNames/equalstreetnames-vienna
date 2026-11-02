@@ -78,8 +78,10 @@ Hagengasse,wikidata,-,Q1568447,way
 Heeresmuseumstraße,wikidata,-,Q700751,way
 "Heiligenstädter Brücke",wikidata,-,Q379531,way
 Herbstweg,wikidata,-,Q1314,way
+Hermannsweg,wikidata,-,,way
 "Hetzendorfer Straße",wikidata,-,Q1616329,way
 Hetzgasse,wikidata,-,Q1616362,way
+Hofmanngasse,wikidata,-,,way
 Hollergasse,wikidata,-,Q131448,way
 Hüttelbergstraße,wikidata,-,Q100142861,way
 Innstraße,wikidata,-,Q14369,way
@@ -98,6 +100,7 @@ Knödelhüttenstraße,wikidata,-,Q130478917,way
 Krappweg,wikidata,-,Q163641,way
 Kriemhildplatz,wikidata,-,Q1257834,way
 Lackierergasse,wikidata,-,Q288728,way
+Lamezanstraße,wikidata,-,,way
 Landgutgasse,wikidata,-,Q439260,way
 Landhausgasse,wikidata,-,Q1498120,way
 Lobkowitzplatz,wikidata,-,Q999439,way
@@ -131,6 +134,7 @@ Nippongasse,wikidata,-,Q17,way
 "Nußdorfer Brücke",wikidata,-,Q1395576,way
 "Nußdorfer Steg",wikidata,-,Q379531,way
 Oeverseestraße,wikidata,-,Q1434874,way
+Olga-Perl-Weg,wikidata,-,,way
 Operngasse,wikidata,-,Q209937,way
 Opernring,wikidata,-,Q209937,way
 Osrambrücke,wikidata,-,Q310481,way
@@ -168,6 +172,7 @@ Ruprechtsplatz,wikidata,-,Q689008,relation+way
 Ruprechtsstiege,wikidata,-,Q44947;Q689008,way
 Rustensteg,wikidata,-,Q1486199,way
 Salzachstraße,wikidata,-,Q152661,way
+Scheffeneggergasse,wikidata,-,,way
 Schmelzbrücke,wikidata,-,Q2245976,way
 "Schönbrunner Allee",wikidata,-,Q131330,way
 "Schönbrunner Schloßbrücke",wikidata,-,Q131330,relation+way
@@ -341,7 +346,6 @@ Morathgasse,wikidata,F,Q112033,way
 Muriel-Gardiner-Buttinger-Platz,wikidata,F,Q875951,way
 Nauheimergasse,wikidata,F,Q1659479,way
 Oldenburggasse,wikidata,F,Q75390925,way
-Olga-Perl-Weg,wikidata,F,Q2019696,way
 Olga-Wisinger-Florian-Platz,wikidata,F,Q275513,way
 Papiergasse,wikidata,F,Q86708,way
 Pappenheimgasse,wikidata,F,Q1897454,way
@@ -590,7 +594,6 @@ Herbert-von-Karajan-Platz,wikidata,M,Q154895,way
 Hermann-Broch-Gasse,wikidata,M,Q84150,way
 Hermann-Glück-Weg,wikidata,M,Q127815998,way
 Hermann-Leopoldi-Weg,wikidata,M,Q45545,way
-Hermannsweg,wikidata,M,Q98847924,way
 Herziggasse,wikidata,M,Q94013,way
 Hetmanekgasse,wikidata,M,Q2644368,way
 Hilschergasse,wikidata,M,Q1731634,way
@@ -598,7 +601,6 @@ Hintschiggasse,wikidata,M,Q1626723,way
 Hofbauergasse,wikidata,M,Q107022693,way
 Hoffingergasse,wikidata,M,Q1666420,way
 Hofherrgasse,wikidata,M,Q18977511,way
-Hofmanngasse,wikidata,M,Q107031611,way
 Hofmannsthalgasse,wikidata,M,Q51513,way
 Hofmoklgasse,wikidata,M,Q1693298,way
 Hohenbergstraße,wikidata,M,Q1693429,way
@@ -691,7 +693,6 @@ Kürnbergergasse,wikidata,M,Q669703,way
 Kurt-Pint-Platz,wikidata,M,Q53537519,relation
 Kutschkergasse,wikidata,M,Q78985,way
 Kwietongasse,wikidata,M,Q5442254,way
-Lamezanstraße,wikidata,M,Q1288494,way
 Laskegasse,wikidata,M,Q2033812,way
 Lassallestraße,wikidata,M,Q75784,way
 Laziusstraße,wikidata,M,Q685979,way
@@ -825,7 +826,6 @@ Schallautzerstraße,wikidata,M,Q1613538,way
 Schallergasse,wikidata,M,Q682953,way
 Schaurhofergasse,wikidata,M,Q55675597,way
 Schedifkaplatz,wikidata,M,Q113970927,way
-Scheffeneggergasse,wikidata,M,Q1913346,way
 Schelleingasse,wikidata,M,Q37147251,way
 Scheugasse,wikidata,M,Q1704602,way
 Schikanedergasse,wikidata,M,Q213547,way
